@@ -1,0 +1,319 @@
+[
+  {
+    "id": "pop4-1",
+    "name": "Chimecho δ",
+    "number": "1",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Metal"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop4/cards/1_small.webp",
+    "local_image_large": "assets/sets/pop4/cards/1_large.webp"
+  },
+  {
+    "id": "pop4-2",
+    "name": "Deoxys δ",
+    "number": "2",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop4/cards/2_small.webp",
+    "local_image_large": "assets/sets/pop4/cards/2_large.webp"
+  },
+  {
+    "id": "pop4-3",
+    "name": "Flygon",
+    "number": "3",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop4/cards/3_small.webp",
+    "local_image_large": "assets/sets/pop4/cards/3_large.webp"
+  },
+  {
+    "id": "pop4-4",
+    "name": "Mew",
+    "number": "4",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop4/cards/4_small.webp",
+    "local_image_large": "assets/sets/pop4/cards/4_large.webp"
+  },
+  {
+    "id": "pop4-5",
+    "name": "Sceptile",
+    "number": "5",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop4/cards/5_small.webp",
+    "local_image_large": "assets/sets/pop4/cards/5_large.webp"
+  },
+  {
+    "id": "pop4-6",
+    "name": "Combusken",
+    "number": "6",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop4/cards/6_small.webp",
+    "local_image_large": "assets/sets/pop4/cards/6_large.webp"
+  },
+  {
+    "id": "pop4-7",
+    "name": "Grovyle",
+    "number": "7",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop4/cards/7_small.webp",
+    "local_image_large": "assets/sets/pop4/cards/7_large.webp"
+  },
+  {
+    "id": "pop4-8",
+    "name": "Heal Energy",
+    "number": "8",
+    "rarity": "Uncommon",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop4/cards/8_small.webp",
+    "local_image_large": "assets/sets/pop4/cards/8_large.webp"
+  },
+  {
+    "id": "pop4-9",
+    "name": "Pokémon Fan Club",
+    "number": "9",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop4/cards/9_small.webp",
+    "local_image_large": "assets/sets/pop4/cards/9_large.webp"
+  },
+  {
+    "id": "pop4-10",
+    "name": "Scramble Energy",
+    "number": "10",
+    "rarity": "Uncommon",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop4/cards/10_small.webp",
+    "local_image_large": "assets/sets/pop4/cards/10_large.webp"
+  },
+  {
+    "id": "pop4-11",
+    "name": "Mudkip",
+    "number": "11",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop4/cards/11_small.webp",
+    "local_image_large": "assets/sets/pop4/cards/11_large.webp"
+  },
+  {
+    "id": "pop4-12",
+    "name": "Pidgey",
+    "number": "12",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop4/cards/12_small.webp",
+    "local_image_large": "assets/sets/pop4/cards/12_large.webp"
+  },
+  {
+    "id": "pop4-13",
+    "name": "Pikachu",
+    "number": "13",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop4/cards/13_small.webp",
+    "local_image_large": "assets/sets/pop4/cards/13_large.webp"
+  },
+  {
+    "id": "pop4-14",
+    "name": "Squirtle",
+    "number": "14",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop4/cards/14_small.webp",
+    "local_image_large": "assets/sets/pop4/cards/14_large.webp"
+  },
+  {
+    "id": "pop4-15",
+    "name": "Treecko δ",
+    "number": "15",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop4/cards/15_small.webp",
+    "local_image_large": "assets/sets/pop4/cards/15_large.webp"
+  },
+  {
+    "id": "pop4-16",
+    "name": "Wobbuffet",
+    "number": "16",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop4/cards/16_small.webp",
+    "local_image_large": "assets/sets/pop4/cards/16_large.webp"
+  },
+  {
+    "id": "pop4-17",
+    "name": "Deoxys ex",
+    "number": "17",
+    "rarity": "Ultra Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop4/cards/17_small.webp",
+    "local_image_large": "assets/sets/pop4/cards/17_large.webp"
+  }
+]

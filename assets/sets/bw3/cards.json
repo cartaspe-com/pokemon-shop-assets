@@ -1,0 +1,1924 @@
+[
+  {
+    "id": "bw3-1",
+    "name": "Sewaddle",
+    "number": "1",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/1_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/1_large.webp"
+  },
+  {
+    "id": "bw3-2",
+    "name": "Swadloon",
+    "number": "2",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/2_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/2_large.webp"
+  },
+  {
+    "id": "bw3-3",
+    "name": "Leavanny",
+    "number": "3",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "130",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/3_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/3_large.webp"
+  },
+  {
+    "id": "bw3-4",
+    "name": "Petilil",
+    "number": "4",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/4_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/4_large.webp"
+  },
+  {
+    "id": "bw3-5",
+    "name": "Lilligant",
+    "number": "5",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/5_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/5_large.webp"
+  },
+  {
+    "id": "bw3-6",
+    "name": "Dwebble",
+    "number": "6",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/6_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/6_large.webp"
+  },
+  {
+    "id": "bw3-7",
+    "name": "Crustle",
+    "number": "7",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/7_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/7_large.webp"
+  },
+  {
+    "id": "bw3-8",
+    "name": "Karrablast",
+    "number": "8",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/8_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/8_large.webp"
+  },
+  {
+    "id": "bw3-9",
+    "name": "Foongus",
+    "number": "9",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/9_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/9_large.webp"
+  },
+  {
+    "id": "bw3-10",
+    "name": "Amoonguss",
+    "number": "10",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/10_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/10_large.webp"
+  },
+  {
+    "id": "bw3-11",
+    "name": "Shelmet",
+    "number": "11",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/11_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/11_large.webp"
+  },
+  {
+    "id": "bw3-12",
+    "name": "Accelgor",
+    "number": "12",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/12_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/12_large.webp"
+  },
+  {
+    "id": "bw3-13",
+    "name": "Virizion",
+    "number": "13",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/13_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/13_large.webp"
+  },
+  {
+    "id": "bw3-14",
+    "name": "Victini",
+    "number": "14",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/14_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/14_large.webp"
+  },
+  {
+    "id": "bw3-15",
+    "name": "Victini",
+    "number": "15",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/15_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/15_large.webp"
+  },
+  {
+    "id": "bw3-16",
+    "name": "Pansear",
+    "number": "16",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/16_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/16_large.webp"
+  },
+  {
+    "id": "bw3-17",
+    "name": "Simisear",
+    "number": "17",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/17_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/17_large.webp"
+  },
+  {
+    "id": "bw3-18",
+    "name": "Heatmor",
+    "number": "18",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/18_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/18_large.webp"
+  },
+  {
+    "id": "bw3-19",
+    "name": "Larvesta",
+    "number": "19",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/19_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/19_large.webp"
+  },
+  {
+    "id": "bw3-20",
+    "name": "Larvesta",
+    "number": "20",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/20_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/20_large.webp"
+  },
+  {
+    "id": "bw3-21",
+    "name": "Volcarona",
+    "number": "21",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/21_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/21_large.webp"
+  },
+  {
+    "id": "bw3-22",
+    "name": "Tympole",
+    "number": "22",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/22_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/22_large.webp"
+  },
+  {
+    "id": "bw3-23",
+    "name": "Palpitoad",
+    "number": "23",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/23_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/23_large.webp"
+  },
+  {
+    "id": "bw3-24",
+    "name": "Seismitoad",
+    "number": "24",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "140",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/24_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/24_large.webp"
+  },
+  {
+    "id": "bw3-25",
+    "name": "Tirtouga",
+    "number": "25",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/25_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/25_large.webp"
+  },
+  {
+    "id": "bw3-26",
+    "name": "Carracosta",
+    "number": "26",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "140",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/26_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/26_large.webp"
+  },
+  {
+    "id": "bw3-27",
+    "name": "Vanillite",
+    "number": "27",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/27_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/27_large.webp"
+  },
+  {
+    "id": "bw3-28",
+    "name": "Vanillish",
+    "number": "28",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/28_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/28_large.webp"
+  },
+  {
+    "id": "bw3-29",
+    "name": "Vanilluxe",
+    "number": "29",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "130",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/29_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/29_large.webp"
+  },
+  {
+    "id": "bw3-30",
+    "name": "Frillish",
+    "number": "30",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/30_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/30_large.webp"
+  },
+  {
+    "id": "bw3-31",
+    "name": "Jellicent",
+    "number": "31",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/31_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/31_large.webp"
+  },
+  {
+    "id": "bw3-32",
+    "name": "Cryogonal",
+    "number": "32",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/32_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/32_large.webp"
+  },
+  {
+    "id": "bw3-33",
+    "name": "Cryogonal",
+    "number": "33",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/33_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/33_large.webp"
+  },
+  {
+    "id": "bw3-34",
+    "name": "Kyurem",
+    "number": "34",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "130",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/34_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/34_large.webp"
+  },
+  {
+    "id": "bw3-35",
+    "name": "Blitzle",
+    "number": "35",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/35_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/35_large.webp"
+  },
+  {
+    "id": "bw3-36",
+    "name": "Zebstrika",
+    "number": "36",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/36_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/36_large.webp"
+  },
+  {
+    "id": "bw3-37",
+    "name": "Emolga",
+    "number": "37",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/37_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/37_large.webp"
+  },
+  {
+    "id": "bw3-38",
+    "name": "Tynamo",
+    "number": "38",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/38_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/38_large.webp"
+  },
+  {
+    "id": "bw3-39",
+    "name": "Tynamo",
+    "number": "39",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "30",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/39_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/39_large.webp"
+  },
+  {
+    "id": "bw3-40",
+    "name": "Eelektrik",
+    "number": "40",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/40_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/40_large.webp"
+  },
+  {
+    "id": "bw3-41",
+    "name": "Eelektross",
+    "number": "41",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "140",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/41_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/41_large.webp"
+  },
+  {
+    "id": "bw3-42",
+    "name": "Stunfisk",
+    "number": "42",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/42_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/42_large.webp"
+  },
+  {
+    "id": "bw3-43",
+    "name": "Victini",
+    "number": "43",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/43_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/43_large.webp"
+  },
+  {
+    "id": "bw3-44",
+    "name": "Yamask",
+    "number": "44",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/44_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/44_large.webp"
+  },
+  {
+    "id": "bw3-45",
+    "name": "Yamask",
+    "number": "45",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/45_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/45_large.webp"
+  },
+  {
+    "id": "bw3-46",
+    "name": "Cofagrigus",
+    "number": "46",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/46_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/46_large.webp"
+  },
+  {
+    "id": "bw3-47",
+    "name": "Cofagrigus",
+    "number": "47",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/47_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/47_large.webp"
+  },
+  {
+    "id": "bw3-48",
+    "name": "Trubbish",
+    "number": "48",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/48_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/48_large.webp"
+  },
+  {
+    "id": "bw3-49",
+    "name": "Garbodor",
+    "number": "49",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/49_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/49_large.webp"
+  },
+  {
+    "id": "bw3-50",
+    "name": "Solosis",
+    "number": "50",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "30",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/50_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/50_large.webp"
+  },
+  {
+    "id": "bw3-51",
+    "name": "Duosion",
+    "number": "51",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/51_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/51_large.webp"
+  },
+  {
+    "id": "bw3-52",
+    "name": "Reuniclus",
+    "number": "52",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/52_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/52_large.webp"
+  },
+  {
+    "id": "bw3-53",
+    "name": "Reuniclus",
+    "number": "53",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/53_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/53_large.webp"
+  },
+  {
+    "id": "bw3-54",
+    "name": "Elgyem",
+    "number": "54",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/54_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/54_large.webp"
+  },
+  {
+    "id": "bw3-55",
+    "name": "Elgyem",
+    "number": "55",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/55_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/55_large.webp"
+  },
+  {
+    "id": "bw3-56",
+    "name": "Beheeyem",
+    "number": "56",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/56_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/56_large.webp"
+  },
+  {
+    "id": "bw3-57",
+    "name": "Litwick",
+    "number": "57",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/57_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/57_large.webp"
+  },
+  {
+    "id": "bw3-58",
+    "name": "Litwick",
+    "number": "58",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/58_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/58_large.webp"
+  },
+  {
+    "id": "bw3-59",
+    "name": "Lampent",
+    "number": "59",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/59_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/59_large.webp"
+  },
+  {
+    "id": "bw3-60",
+    "name": "Chandelure",
+    "number": "60",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "130",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/60_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/60_large.webp"
+  },
+  {
+    "id": "bw3-61",
+    "name": "Gigalith",
+    "number": "61",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "150",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/61_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/61_large.webp"
+  },
+  {
+    "id": "bw3-62",
+    "name": "Timburr",
+    "number": "62",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/62_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/62_large.webp"
+  },
+  {
+    "id": "bw3-63",
+    "name": "Gurdurr",
+    "number": "63",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/63_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/63_large.webp"
+  },
+  {
+    "id": "bw3-64",
+    "name": "Conkeldurr",
+    "number": "64",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "140",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/64_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/64_large.webp"
+  },
+  {
+    "id": "bw3-65",
+    "name": "Conkeldurr",
+    "number": "65",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "140",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/65_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/65_large.webp"
+  },
+  {
+    "id": "bw3-66",
+    "name": "Archen",
+    "number": "66",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/66_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/66_large.webp"
+  },
+  {
+    "id": "bw3-67",
+    "name": "Archeops",
+    "number": "67",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "130",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/67_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/67_large.webp"
+  },
+  {
+    "id": "bw3-68",
+    "name": "Stunfisk",
+    "number": "68",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/68_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/68_large.webp"
+  },
+  {
+    "id": "bw3-69",
+    "name": "Mienfoo",
+    "number": "69",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/69_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/69_large.webp"
+  },
+  {
+    "id": "bw3-70",
+    "name": "Mienshao",
+    "number": "70",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/70_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/70_large.webp"
+  },
+  {
+    "id": "bw3-71",
+    "name": "Golett",
+    "number": "71",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/71_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/71_large.webp"
+  },
+  {
+    "id": "bw3-72",
+    "name": "Golurk",
+    "number": "72",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "130",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/72_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/72_large.webp"
+  },
+  {
+    "id": "bw3-73",
+    "name": "Terrakion",
+    "number": "73",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "130",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/73_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/73_large.webp"
+  },
+  {
+    "id": "bw3-74",
+    "name": "Landorus",
+    "number": "74",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/74_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/74_large.webp"
+  },
+  {
+    "id": "bw3-75",
+    "name": "Pawniard",
+    "number": "75",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/75_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/75_large.webp"
+  },
+  {
+    "id": "bw3-76",
+    "name": "Bisharp",
+    "number": "76",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/76_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/76_large.webp"
+  },
+  {
+    "id": "bw3-77",
+    "name": "Deino",
+    "number": "77",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/77_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/77_large.webp"
+  },
+  {
+    "id": "bw3-78",
+    "name": "Zweilous",
+    "number": "78",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/78_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/78_large.webp"
+  },
+  {
+    "id": "bw3-79",
+    "name": "Hydreigon",
+    "number": "79",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "150",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/79_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/79_large.webp"
+  },
+  {
+    "id": "bw3-80",
+    "name": "Escavalier",
+    "number": "80",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Metal"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/80_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/80_large.webp"
+  },
+  {
+    "id": "bw3-81",
+    "name": "Pawniard",
+    "number": "81",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Metal"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/81_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/81_large.webp"
+  },
+  {
+    "id": "bw3-82",
+    "name": "Bisharp",
+    "number": "82",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Metal"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/82_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/82_large.webp"
+  },
+  {
+    "id": "bw3-83",
+    "name": "Durant",
+    "number": "83",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Metal"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/83_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/83_large.webp"
+  },
+  {
+    "id": "bw3-84",
+    "name": "Cobalion",
+    "number": "84",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Metal"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/84_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/84_large.webp"
+  },
+  {
+    "id": "bw3-85",
+    "name": "Audino",
+    "number": "85",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/85_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/85_large.webp"
+  },
+  {
+    "id": "bw3-86",
+    "name": "Axew",
+    "number": "86",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/86_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/86_large.webp"
+  },
+  {
+    "id": "bw3-87",
+    "name": "Fraxure",
+    "number": "87",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/87_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/87_large.webp"
+  },
+  {
+    "id": "bw3-88",
+    "name": "Haxorus",
+    "number": "88",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "140",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/88_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/88_large.webp"
+  },
+  {
+    "id": "bw3-89",
+    "name": "Druddigon",
+    "number": "89",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/89_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/89_large.webp"
+  },
+  {
+    "id": "bw3-90",
+    "name": "Cover Fossil",
+    "number": "90",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/90_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/90_large.webp"
+  },
+  {
+    "id": "bw3-91",
+    "name": "Eviolite",
+    "number": "91",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/91_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/91_large.webp"
+  },
+  {
+    "id": "bw3-92",
+    "name": "N",
+    "number": "92",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/92_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/92_large.webp"
+  },
+  {
+    "id": "bw3-93",
+    "name": "Plume Fossil",
+    "number": "93",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/93_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/93_large.webp"
+  },
+  {
+    "id": "bw3-94",
+    "name": "Rocky Helmet",
+    "number": "94",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/94_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/94_large.webp"
+  },
+  {
+    "id": "bw3-95",
+    "name": "Super Rod",
+    "number": "95",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/95_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/95_large.webp"
+  },
+  {
+    "id": "bw3-96",
+    "name": "Xtransceiver",
+    "number": "96",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/96_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/96_large.webp"
+  },
+  {
+    "id": "bw3-97",
+    "name": "Virizion",
+    "number": "97",
+    "rarity": "Ultra Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/97_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/97_large.webp"
+  },
+  {
+    "id": "bw3-98",
+    "name": "Victini",
+    "number": "98",
+    "rarity": "Ultra Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/98_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/98_large.webp"
+  },
+  {
+    "id": "bw3-99",
+    "name": "Terrakion",
+    "number": "99",
+    "rarity": "Ultra Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "130",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/99_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/99_large.webp"
+  },
+  {
+    "id": "bw3-100",
+    "name": "Cobalion",
+    "number": "100",
+    "rarity": "Ultra Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Metal"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/100_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/100_large.webp"
+  },
+  {
+    "id": "bw3-101",
+    "name": "N",
+    "number": "101",
+    "rarity": "Ultra Rare",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/101_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/101_large.webp"
+  },
+  {
+    "id": "bw3-102",
+    "name": "Meowth",
+    "number": "102",
+    "rarity": "Secret Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bw3/cards/102_small.webp",
+    "local_image_large": "assets/sets/bw3/cards/102_large.webp"
+  }
+]

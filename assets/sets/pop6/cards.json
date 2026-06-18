@@ -1,0 +1,325 @@
+[
+  {
+    "id": "pop6-1",
+    "name": "Bastiodon",
+    "number": "1",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Metal"
+    ],
+    "hp": "130",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop6/cards/1_small.webp",
+    "local_image_large": "assets/sets/pop6/cards/1_large.webp"
+  },
+  {
+    "id": "pop6-2",
+    "name": "Lucario",
+    "number": "2",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop6/cards/2_small.webp",
+    "local_image_large": "assets/sets/pop6/cards/2_large.webp"
+  },
+  {
+    "id": "pop6-3",
+    "name": "Manaphy",
+    "number": "3",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop6/cards/3_small.webp",
+    "local_image_large": "assets/sets/pop6/cards/3_large.webp"
+  },
+  {
+    "id": "pop6-4",
+    "name": "Pachirisu",
+    "number": "4",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop6/cards/4_small.webp",
+    "local_image_large": "assets/sets/pop6/cards/4_large.webp"
+  },
+  {
+    "id": "pop6-5",
+    "name": "Rampardos",
+    "number": "5",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop6/cards/5_small.webp",
+    "local_image_large": "assets/sets/pop6/cards/5_large.webp"
+  },
+  {
+    "id": "pop6-6",
+    "name": "Drifloon",
+    "number": "6",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop6/cards/6_small.webp",
+    "local_image_large": "assets/sets/pop6/cards/6_large.webp"
+  },
+  {
+    "id": "pop6-7",
+    "name": "Gible",
+    "number": "7",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop6/cards/7_small.webp",
+    "local_image_large": "assets/sets/pop6/cards/7_large.webp"
+  },
+  {
+    "id": "pop6-8",
+    "name": "Riolu",
+    "number": "8",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop6/cards/8_small.webp",
+    "local_image_large": "assets/sets/pop6/cards/8_large.webp"
+  },
+  {
+    "id": "pop6-9",
+    "name": "Pikachu",
+    "number": "9",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop6/cards/9_small.webp",
+    "local_image_large": "assets/sets/pop6/cards/9_large.webp"
+  },
+  {
+    "id": "pop6-10",
+    "name": "Staravia",
+    "number": "10",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop6/cards/10_small.webp",
+    "local_image_large": "assets/sets/pop6/cards/10_large.webp"
+  },
+  {
+    "id": "pop6-11",
+    "name": "Bidoof",
+    "number": "11",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop6/cards/11_small.webp",
+    "local_image_large": "assets/sets/pop6/cards/11_large.webp"
+  },
+  {
+    "id": "pop6-12",
+    "name": "Buneary",
+    "number": "12",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop6/cards/12_small.webp",
+    "local_image_large": "assets/sets/pop6/cards/12_large.webp"
+  },
+  {
+    "id": "pop6-13",
+    "name": "Cherubi",
+    "number": "13",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop6/cards/13_small.webp",
+    "local_image_large": "assets/sets/pop6/cards/13_large.webp"
+  },
+  {
+    "id": "pop6-14",
+    "name": "Chimchar",
+    "number": "14",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop6/cards/14_small.webp",
+    "local_image_large": "assets/sets/pop6/cards/14_large.webp"
+  },
+  {
+    "id": "pop6-15",
+    "name": "Piplup",
+    "number": "15",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop6/cards/15_small.webp",
+    "local_image_large": "assets/sets/pop6/cards/15_large.webp"
+  },
+  {
+    "id": "pop6-16",
+    "name": "Starly",
+    "number": "16",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop6/cards/16_small.webp",
+    "local_image_large": "assets/sets/pop6/cards/16_large.webp"
+  },
+  {
+    "id": "pop6-17",
+    "name": "Turtwig",
+    "number": "17",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/pop6/cards/17_small.webp",
+    "local_image_large": "assets/sets/pop6/cards/17_large.webp"
+  }
+]

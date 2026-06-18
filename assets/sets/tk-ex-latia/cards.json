@@ -1,0 +1,186 @@
+[
+  {
+    "id": "tk-ex-latia-1",
+    "name": "Bagon",
+    "number": "1",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-ex-latia/cards/1_small.webp",
+    "local_image_large": "assets/sets/tk-ex-latia/cards/1_large.webp"
+  },
+  {
+    "id": "tk-ex-latia-2",
+    "name": "Combusken",
+    "number": "2",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-ex-latia/cards/2_small.webp",
+    "local_image_large": "assets/sets/tk-ex-latia/cards/2_large.webp"
+  },
+  {
+    "id": "tk-ex-latia-3",
+    "name": "Delcatty",
+    "number": "3",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-ex-latia/cards/3_small.webp",
+    "local_image_large": "assets/sets/tk-ex-latia/cards/3_large.webp"
+  },
+  {
+    "id": "tk-ex-latia-4",
+    "name": "Latias",
+    "number": "4",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-ex-latia/cards/4_small.webp",
+    "local_image_large": "assets/sets/tk-ex-latia/cards/4_large.webp"
+  },
+  {
+    "id": "tk-ex-latia-5",
+    "name": "Numel",
+    "number": "5",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-ex-latia/cards/5_small.webp",
+    "local_image_large": "assets/sets/tk-ex-latia/cards/5_large.webp"
+  },
+  {
+    "id": "tk-ex-latia-6",
+    "name": "Skitty",
+    "number": "6",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-ex-latia/cards/6_small.webp",
+    "local_image_large": "assets/sets/tk-ex-latia/cards/6_large.webp"
+  },
+  {
+    "id": "tk-ex-latia-7",
+    "name": "Torchic",
+    "number": "7",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-ex-latia/cards/7_small.webp",
+    "local_image_large": "assets/sets/tk-ex-latia/cards/7_large.webp"
+  },
+  {
+    "id": "tk-ex-latia-8",
+    "name": "Potion",
+    "number": "8",
+    "rarity": "None",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-ex-latia/cards/8_small.webp",
+    "local_image_large": "assets/sets/tk-ex-latia/cards/8_large.webp"
+  },
+  {
+    "id": "tk-ex-latia-9",
+    "name": "Energy Search",
+    "number": "9",
+    "rarity": "None",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-ex-latia/cards/9_small.webp",
+    "local_image_large": "assets/sets/tk-ex-latia/cards/9_large.webp"
+  },
+  {
+    "id": "tk-ex-latia-10",
+    "name": "Fire Energy",
+    "number": "10",
+    "rarity": "None",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-ex-latia/cards/10_small.webp",
+    "local_image_large": "assets/sets/tk-ex-latia/cards/10_large.webp"
+  }
+]

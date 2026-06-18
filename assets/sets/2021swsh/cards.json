@@ -1,0 +1,477 @@
+[
+  {
+    "id": "2021swsh-1",
+    "name": "Bulbasaur",
+    "number": "1",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/1_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/1_large.webp"
+  },
+  {
+    "id": "2021swsh-2",
+    "name": "Chikorita",
+    "number": "2",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/2_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/2_large.webp"
+  },
+  {
+    "id": "2021swsh-3",
+    "name": "Treecko",
+    "number": "3",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/3_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/3_large.webp"
+  },
+  {
+    "id": "2021swsh-4",
+    "name": "Turtwig",
+    "number": "4",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/4_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/4_large.webp"
+  },
+  {
+    "id": "2021swsh-5",
+    "name": "Snivy",
+    "number": "5",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/5_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/5_large.webp"
+  },
+  {
+    "id": "2021swsh-6",
+    "name": "Chespin",
+    "number": "6",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/6_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/6_large.webp"
+  },
+  {
+    "id": "2021swsh-7",
+    "name": "Rowlet",
+    "number": "7",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/7_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/7_large.webp"
+  },
+  {
+    "id": "2021swsh-8",
+    "name": "Grookey",
+    "number": "8",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/8_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/8_large.webp"
+  },
+  {
+    "id": "2021swsh-9",
+    "name": "Charmander",
+    "number": "9",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/9_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/9_large.webp"
+  },
+  {
+    "id": "2021swsh-10",
+    "name": "Cyndaquil",
+    "number": "10",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/10_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/10_large.webp"
+  },
+  {
+    "id": "2021swsh-11",
+    "name": "Torchic",
+    "number": "11",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/11_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/11_large.webp"
+  },
+  {
+    "id": "2021swsh-12",
+    "name": "Chimchar",
+    "number": "12",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/12_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/12_large.webp"
+  },
+  {
+    "id": "2021swsh-13",
+    "name": "Tepig",
+    "number": "13",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/13_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/13_large.webp"
+  },
+  {
+    "id": "2021swsh-14",
+    "name": "Fennekin",
+    "number": "14",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/14_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/14_large.webp"
+  },
+  {
+    "id": "2021swsh-15",
+    "name": "Litten",
+    "number": "15",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/15_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/15_large.webp"
+  },
+  {
+    "id": "2021swsh-16",
+    "name": "Scorbunny",
+    "number": "16",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/16_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/16_large.webp"
+  },
+  {
+    "id": "2021swsh-17",
+    "name": "Squirtle",
+    "number": "17",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/17_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/17_large.webp"
+  },
+  {
+    "id": "2021swsh-18",
+    "name": "Totodile",
+    "number": "18",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/18_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/18_large.webp"
+  },
+  {
+    "id": "2021swsh-19",
+    "name": "Mudkip",
+    "number": "19",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/19_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/19_large.webp"
+  },
+  {
+    "id": "2021swsh-20",
+    "name": "Piplup",
+    "number": "20",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/20_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/20_large.webp"
+  },
+  {
+    "id": "2021swsh-21",
+    "name": "Oshawott",
+    "number": "21",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/21_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/21_large.webp"
+  },
+  {
+    "id": "2021swsh-22",
+    "name": "Froakie",
+    "number": "22",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/22_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/22_large.webp"
+  },
+  {
+    "id": "2021swsh-23",
+    "name": "Popplio",
+    "number": "23",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/23_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/23_large.webp"
+  },
+  {
+    "id": "2021swsh-24",
+    "name": "Sobble",
+    "number": "24",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/24_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/24_large.webp"
+  },
+  {
+    "id": "2021swsh-25",
+    "name": "Pikachu",
+    "number": "25",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2021swsh/cards/25_small.webp",
+    "local_image_large": "assets/sets/2021swsh/cards/25_large.webp"
+  }
+]

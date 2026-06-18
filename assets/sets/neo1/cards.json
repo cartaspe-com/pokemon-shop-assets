@@ -1,0 +1,2051 @@
+[
+  {
+    "id": "neo1-1",
+    "name": "Ampharos",
+    "number": "1",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/1_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/1_large.webp"
+  },
+  {
+    "id": "neo1-2",
+    "name": "Azumarill",
+    "number": "2",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/2_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/2_large.webp"
+  },
+  {
+    "id": "neo1-3",
+    "name": "Bellossom",
+    "number": "3",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/3_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/3_large.webp"
+  },
+  {
+    "id": "neo1-4",
+    "name": "Feraligatr",
+    "number": "4",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/4_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/4_large.webp"
+  },
+  {
+    "id": "neo1-5",
+    "name": "Feraligatr",
+    "number": "5",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/5_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/5_large.webp"
+  },
+  {
+    "id": "neo1-6",
+    "name": "Heracross",
+    "number": "6",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/6_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/6_large.webp"
+  },
+  {
+    "id": "neo1-7",
+    "name": "Jumpluff",
+    "number": "7",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/7_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/7_large.webp"
+  },
+  {
+    "id": "neo1-8",
+    "name": "Kingdra",
+    "number": "8",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/8_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/8_large.webp"
+  },
+  {
+    "id": "neo1-9",
+    "name": "Lugia",
+    "number": "9",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/9_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/9_large.webp"
+  },
+  {
+    "id": "neo1-10",
+    "name": "Meganium",
+    "number": "10",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/10_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/10_large.webp"
+  },
+  {
+    "id": "neo1-11",
+    "name": "Meganium",
+    "number": "11",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/11_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/11_large.webp"
+  },
+  {
+    "id": "neo1-12",
+    "name": "Pichu",
+    "number": "12",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "30",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/12_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/12_large.webp"
+  },
+  {
+    "id": "neo1-13",
+    "name": "Skarmory",
+    "number": "13",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Metal"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/13_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/13_large.webp"
+  },
+  {
+    "id": "neo1-14",
+    "name": "Slowking",
+    "number": "14",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/14_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/14_large.webp"
+  },
+  {
+    "id": "neo1-15",
+    "name": "Steelix",
+    "number": "15",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Metal"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/15_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/15_large.webp"
+  },
+  {
+    "id": "neo1-16",
+    "name": "Togetic",
+    "number": "16",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/16_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/16_large.webp"
+  },
+  {
+    "id": "neo1-17",
+    "name": "Typhlosion",
+    "number": "17",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/17_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/17_large.webp"
+  },
+  {
+    "id": "neo1-18",
+    "name": "Typhlosion",
+    "number": "18",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/18_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/18_large.webp"
+  },
+  {
+    "id": "neo1-19",
+    "name": "Metal Energy",
+    "number": "19",
+    "rarity": "Rare",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/19_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/19_large.webp"
+  },
+  {
+    "id": "neo1-20",
+    "name": "Cleffa",
+    "number": "20",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "30",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/20_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/20_large.webp"
+  },
+  {
+    "id": "neo1-21",
+    "name": "Donphan",
+    "number": "21",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/21_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/21_large.webp"
+  },
+  {
+    "id": "neo1-22",
+    "name": "Elekid",
+    "number": "22",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "30",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/22_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/22_large.webp"
+  },
+  {
+    "id": "neo1-23",
+    "name": "Magby",
+    "number": "23",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "30",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/23_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/23_large.webp"
+  },
+  {
+    "id": "neo1-24",
+    "name": "Murkrow",
+    "number": "24",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/24_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/24_large.webp"
+  },
+  {
+    "id": "neo1-25",
+    "name": "Sneasel",
+    "number": "25",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/25_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/25_large.webp"
+  },
+  {
+    "id": "neo1-26",
+    "name": "Aipom",
+    "number": "26",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/26_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/26_large.webp"
+  },
+  {
+    "id": "neo1-27",
+    "name": "Ariados",
+    "number": "27",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/27_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/27_large.webp"
+  },
+  {
+    "id": "neo1-28",
+    "name": "Bayleef",
+    "number": "28",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/28_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/28_large.webp"
+  },
+  {
+    "id": "neo1-29",
+    "name": "Bayleef",
+    "number": "29",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/29_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/29_large.webp"
+  },
+  {
+    "id": "neo1-30",
+    "name": "Clefairy",
+    "number": "30",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/30_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/30_large.webp"
+  },
+  {
+    "id": "neo1-31",
+    "name": "Croconaw",
+    "number": "31",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/31_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/31_large.webp"
+  },
+  {
+    "id": "neo1-32",
+    "name": "Croconaw",
+    "number": "32",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/32_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/32_large.webp"
+  },
+  {
+    "id": "neo1-33",
+    "name": "Electabuzz",
+    "number": "33",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/33_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/33_large.webp"
+  },
+  {
+    "id": "neo1-34",
+    "name": "Flaaffy",
+    "number": "34",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/34_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/34_large.webp"
+  },
+  {
+    "id": "neo1-35",
+    "name": "Furret",
+    "number": "35",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/35_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/35_large.webp"
+  },
+  {
+    "id": "neo1-36",
+    "name": "Gloom",
+    "number": "36",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/36_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/36_large.webp"
+  },
+  {
+    "id": "neo1-37",
+    "name": "Granbull",
+    "number": "37",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/37_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/37_large.webp"
+  },
+  {
+    "id": "neo1-38",
+    "name": "Lanturn",
+    "number": "38",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/38_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/38_large.webp"
+  },
+  {
+    "id": "neo1-39",
+    "name": "Ledian",
+    "number": "39",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/39_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/39_large.webp"
+  },
+  {
+    "id": "neo1-40",
+    "name": "Magmar",
+    "number": "40",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/40_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/40_large.webp"
+  },
+  {
+    "id": "neo1-41",
+    "name": "Miltank",
+    "number": "41",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/41_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/41_large.webp"
+  },
+  {
+    "id": "neo1-42",
+    "name": "Noctowl",
+    "number": "42",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/42_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/42_large.webp"
+  },
+  {
+    "id": "neo1-43",
+    "name": "Phanpy",
+    "number": "43",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/43_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/43_large.webp"
+  },
+  {
+    "id": "neo1-44",
+    "name": "Piloswine",
+    "number": "44",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/44_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/44_large.webp"
+  },
+  {
+    "id": "neo1-45",
+    "name": "Quagsire",
+    "number": "45",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/45_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/45_large.webp"
+  },
+  {
+    "id": "neo1-46",
+    "name": "Quilava",
+    "number": "46",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/46_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/46_large.webp"
+  },
+  {
+    "id": "neo1-47",
+    "name": "Quilava",
+    "number": "47",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/47_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/47_large.webp"
+  },
+  {
+    "id": "neo1-48",
+    "name": "Seadra",
+    "number": "48",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/48_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/48_large.webp"
+  },
+  {
+    "id": "neo1-49",
+    "name": "Skiploom",
+    "number": "49",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/49_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/49_large.webp"
+  },
+  {
+    "id": "neo1-50",
+    "name": "Sunflora",
+    "number": "50",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/50_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/50_large.webp"
+  },
+  {
+    "id": "neo1-51",
+    "name": "Togepi",
+    "number": "51",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/51_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/51_large.webp"
+  },
+  {
+    "id": "neo1-52",
+    "name": "Xatu",
+    "number": "52",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/52_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/52_large.webp"
+  },
+  {
+    "id": "neo1-53",
+    "name": "Chikorita",
+    "number": "53",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/53_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/53_large.webp"
+  },
+  {
+    "id": "neo1-54",
+    "name": "Chikorita",
+    "number": "54",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/54_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/54_large.webp"
+  },
+  {
+    "id": "neo1-55",
+    "name": "Chinchou",
+    "number": "55",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/55_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/55_large.webp"
+  },
+  {
+    "id": "neo1-56",
+    "name": "Cyndaquil",
+    "number": "56",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/56_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/56_large.webp"
+  },
+  {
+    "id": "neo1-57",
+    "name": "Cyndaquil",
+    "number": "57",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/57_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/57_large.webp"
+  },
+  {
+    "id": "neo1-58",
+    "name": "Girafarig",
+    "number": "58",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/58_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/58_large.webp"
+  },
+  {
+    "id": "neo1-59",
+    "name": "Gligar",
+    "number": "59",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/59_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/59_large.webp"
+  },
+  {
+    "id": "neo1-60",
+    "name": "Hoothoot",
+    "number": "60",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/60_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/60_large.webp"
+  },
+  {
+    "id": "neo1-61",
+    "name": "Hoppip",
+    "number": "61",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/61_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/61_large.webp"
+  },
+  {
+    "id": "neo1-62",
+    "name": "Horsea",
+    "number": "62",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/62_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/62_large.webp"
+  },
+  {
+    "id": "neo1-63",
+    "name": "Ledyba",
+    "number": "63",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/63_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/63_large.webp"
+  },
+  {
+    "id": "neo1-64",
+    "name": "Mantine",
+    "number": "64",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/64_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/64_large.webp"
+  },
+  {
+    "id": "neo1-65",
+    "name": "Mareep",
+    "number": "65",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/65_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/65_large.webp"
+  },
+  {
+    "id": "neo1-66",
+    "name": "Marill",
+    "number": "66",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/66_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/66_large.webp"
+  },
+  {
+    "id": "neo1-67",
+    "name": "Natu",
+    "number": "67",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "30",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/67_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/67_large.webp"
+  },
+  {
+    "id": "neo1-68",
+    "name": "Oddish",
+    "number": "68",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/68_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/68_large.webp"
+  },
+  {
+    "id": "neo1-69",
+    "name": "Onix",
+    "number": "69",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/69_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/69_large.webp"
+  },
+  {
+    "id": "neo1-70",
+    "name": "Pikachu",
+    "number": "70",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/70_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/70_large.webp"
+  },
+  {
+    "id": "neo1-71",
+    "name": "Sentret",
+    "number": "71",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/71_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/71_large.webp"
+  },
+  {
+    "id": "neo1-72",
+    "name": "Shuckle",
+    "number": "72",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/72_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/72_large.webp"
+  },
+  {
+    "id": "neo1-73",
+    "name": "Slowpoke",
+    "number": "73",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/73_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/73_large.webp"
+  },
+  {
+    "id": "neo1-74",
+    "name": "Snubbull",
+    "number": "74",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/74_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/74_large.webp"
+  },
+  {
+    "id": "neo1-75",
+    "name": "Spinarak",
+    "number": "75",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/75_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/75_large.webp"
+  },
+  {
+    "id": "neo1-76",
+    "name": "Stantler",
+    "number": "76",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/76_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/76_large.webp"
+  },
+  {
+    "id": "neo1-77",
+    "name": "Sudowoodo",
+    "number": "77",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/77_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/77_large.webp"
+  },
+  {
+    "id": "neo1-78",
+    "name": "Sunkern",
+    "number": "78",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/78_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/78_large.webp"
+  },
+  {
+    "id": "neo1-79",
+    "name": "Swinub",
+    "number": "79",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/79_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/79_large.webp"
+  },
+  {
+    "id": "neo1-80",
+    "name": "Totodile",
+    "number": "80",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/80_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/80_large.webp"
+  },
+  {
+    "id": "neo1-81",
+    "name": "Totodile",
+    "number": "81",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/81_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/81_large.webp"
+  },
+  {
+    "id": "neo1-82",
+    "name": "Wooper",
+    "number": "82",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/82_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/82_large.webp"
+  },
+  {
+    "id": "neo1-83",
+    "name": "Arcade Game",
+    "number": "83",
+    "rarity": "Rare",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/83_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/83_large.webp"
+  },
+  {
+    "id": "neo1-84",
+    "name": "Ecogym",
+    "number": "84",
+    "rarity": "Rare",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/84_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/84_large.webp"
+  },
+  {
+    "id": "neo1-85",
+    "name": "Energy Charge",
+    "number": "85",
+    "rarity": "Rare",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/85_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/85_large.webp"
+  },
+  {
+    "id": "neo1-86",
+    "name": "Focus Band",
+    "number": "86",
+    "rarity": "Rare",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/86_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/86_large.webp"
+  },
+  {
+    "id": "neo1-87",
+    "name": "Mary",
+    "number": "87",
+    "rarity": "Rare",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/87_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/87_large.webp"
+  },
+  {
+    "id": "neo1-88",
+    "name": "PokéGear",
+    "number": "88",
+    "rarity": "Rare",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/88_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/88_large.webp"
+  },
+  {
+    "id": "neo1-89",
+    "name": "Super Energy Retrieval",
+    "number": "89",
+    "rarity": "Rare",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/89_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/89_large.webp"
+  },
+  {
+    "id": "neo1-90",
+    "name": "Time Capsule",
+    "number": "90",
+    "rarity": "Rare",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/90_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/90_large.webp"
+  },
+  {
+    "id": "neo1-91",
+    "name": "Bill's Teleporter",
+    "number": "91",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/91_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/91_large.webp"
+  },
+  {
+    "id": "neo1-92",
+    "name": "Card-Flip Game",
+    "number": "92",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/92_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/92_large.webp"
+  },
+  {
+    "id": "neo1-93",
+    "name": "Gold Berry",
+    "number": "93",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/93_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/93_large.webp"
+  },
+  {
+    "id": "neo1-94",
+    "name": "Miracle Berry",
+    "number": "94",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/94_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/94_large.webp"
+  },
+  {
+    "id": "neo1-95",
+    "name": "New Pokédex",
+    "number": "95",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/95_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/95_large.webp"
+  },
+  {
+    "id": "neo1-96",
+    "name": "Professor Elm",
+    "number": "96",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/96_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/96_large.webp"
+  },
+  {
+    "id": "neo1-97",
+    "name": "Sprout Tower",
+    "number": "97",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/97_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/97_large.webp"
+  },
+  {
+    "id": "neo1-98",
+    "name": "Super Scoop Up",
+    "number": "98",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/98_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/98_large.webp"
+  },
+  {
+    "id": "neo1-99",
+    "name": "Berry",
+    "number": "99",
+    "rarity": "Common",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/99_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/99_large.webp"
+  },
+  {
+    "id": "neo1-100",
+    "name": "Double Gust",
+    "number": "100",
+    "rarity": "Common",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/100_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/100_large.webp"
+  },
+  {
+    "id": "neo1-101",
+    "name": "Moo-Moo Milk",
+    "number": "101",
+    "rarity": "Common",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/101_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/101_large.webp"
+  },
+  {
+    "id": "neo1-102",
+    "name": "Pokémon March",
+    "number": "102",
+    "rarity": "Common",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/102_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/102_large.webp"
+  },
+  {
+    "id": "neo1-103",
+    "name": "Super Rod",
+    "number": "103",
+    "rarity": "Common",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/103_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/103_large.webp"
+  },
+  {
+    "id": "neo1-104",
+    "name": "Darkness Energy",
+    "number": "104",
+    "rarity": "Rare",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/104_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/104_large.webp"
+  },
+  {
+    "id": "neo1-105",
+    "name": "Recycle Energy",
+    "number": "105",
+    "rarity": "Rare",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/105_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/105_large.webp"
+  },
+  {
+    "id": "neo1-106",
+    "name": "Fighting Energy",
+    "number": "106",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/106_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/106_large.webp"
+  },
+  {
+    "id": "neo1-107",
+    "name": "Fire Energy",
+    "number": "107",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/107_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/107_large.webp"
+  },
+  {
+    "id": "neo1-108",
+    "name": "Grass Energy",
+    "number": "108",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/108_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/108_large.webp"
+  },
+  {
+    "id": "neo1-109",
+    "name": "Lightning Energy",
+    "number": "109",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/109_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/109_large.webp"
+  },
+  {
+    "id": "neo1-110",
+    "name": "Psychic Energy",
+    "number": "110",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/110_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/110_large.webp"
+  },
+  {
+    "id": "neo1-111",
+    "name": "Water Energy",
+    "number": "111",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": true
+    },
+    "local_image_small": "assets/sets/neo1/cards/111_small.webp",
+    "local_image_large": "assets/sets/neo1/cards/111_large.webp"
+  }
+]

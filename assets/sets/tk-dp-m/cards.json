@@ -1,0 +1,220 @@
+[
+  {
+    "id": "tk-dp-m-1",
+    "name": "Buizel",
+    "number": "1",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-dp-m/cards/1_small.webp",
+    "local_image_large": "assets/sets/tk-dp-m/cards/1_large.webp"
+  },
+  {
+    "id": "tk-dp-m-2",
+    "name": "Floatzel",
+    "number": "2",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-dp-m/cards/2_small.webp",
+    "local_image_large": "assets/sets/tk-dp-m/cards/2_large.webp"
+  },
+  {
+    "id": "tk-dp-m-3",
+    "name": "Goldeen",
+    "number": "3",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-dp-m/cards/3_small.webp",
+    "local_image_large": "assets/sets/tk-dp-m/cards/3_large.webp"
+  },
+  {
+    "id": "tk-dp-m-4",
+    "name": "Manaphy",
+    "number": "4",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-dp-m/cards/4_small.webp",
+    "local_image_large": "assets/sets/tk-dp-m/cards/4_large.webp"
+  },
+  {
+    "id": "tk-dp-m-5",
+    "name": "Piplup",
+    "number": "5",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-dp-m/cards/5_small.webp",
+    "local_image_large": "assets/sets/tk-dp-m/cards/5_large.webp"
+  },
+  {
+    "id": "tk-dp-m-6",
+    "name": "Prinplup",
+    "number": "6",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-dp-m/cards/6_small.webp",
+    "local_image_large": "assets/sets/tk-dp-m/cards/6_large.webp"
+  },
+  {
+    "id": "tk-dp-m-7",
+    "name": "Seaking",
+    "number": "7",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-dp-m/cards/7_small.webp",
+    "local_image_large": "assets/sets/tk-dp-m/cards/7_large.webp"
+  },
+  {
+    "id": "tk-dp-m-8",
+    "name": "Totodile",
+    "number": "8",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-dp-m/cards/8_small.webp",
+    "local_image_large": "assets/sets/tk-dp-m/cards/8_large.webp"
+  },
+  {
+    "id": "tk-dp-m-9",
+    "name": "Dusk Ball",
+    "number": "9",
+    "rarity": "None",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-dp-m/cards/9_small.webp",
+    "local_image_large": "assets/sets/tk-dp-m/cards/9_large.webp"
+  },
+  {
+    "id": "tk-dp-m-10",
+    "name": "Energy Search",
+    "number": "10",
+    "rarity": "None",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-dp-m/cards/10_small.webp",
+    "local_image_large": "assets/sets/tk-dp-m/cards/10_large.webp"
+  },
+  {
+    "id": "tk-dp-m-11",
+    "name": "Potion",
+    "number": "11",
+    "rarity": "None",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-dp-m/cards/11_small.webp",
+    "local_image_large": "assets/sets/tk-dp-m/cards/11_large.webp"
+  },
+  {
+    "id": "tk-dp-m-12",
+    "name": "Water Energy",
+    "number": "12",
+    "rarity": "None",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-dp-m/cards/12_small.webp",
+    "local_image_large": "assets/sets/tk-dp-m/cards/12_large.webp"
+  }
+]

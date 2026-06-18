@@ -1,0 +1,564 @@
+[
+  {
+    "id": "tk-xy-w-1",
+    "name": "Swirlix",
+    "number": "1",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/1_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/1_large.webp"
+  },
+  {
+    "id": "tk-xy-w-2",
+    "name": "Pidgeotto",
+    "number": "2",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/2_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/2_large.webp"
+  },
+  {
+    "id": "tk-xy-w-3",
+    "name": "Fairy Energy",
+    "number": "3",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/3_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/3_large.webp"
+  },
+  {
+    "id": "tk-xy-w-4",
+    "name": "Sentret",
+    "number": "4",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/4_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/4_large.webp"
+  },
+  {
+    "id": "tk-xy-w-5",
+    "name": "Fairy Energy",
+    "number": "5",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/5_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/5_large.webp"
+  },
+  {
+    "id": "tk-xy-w-6",
+    "name": "Fairy Energy",
+    "number": "6",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/6_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/6_large.webp"
+  },
+  {
+    "id": "tk-xy-w-7",
+    "name": "Fairy Energy",
+    "number": "7",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/7_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/7_large.webp"
+  },
+  {
+    "id": "tk-xy-w-8",
+    "name": "Fairy Energy",
+    "number": "8",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/8_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/8_large.webp"
+  },
+  {
+    "id": "tk-xy-w-9",
+    "name": "Fairy Energy",
+    "number": "9",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/9_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/9_large.webp"
+  },
+  {
+    "id": "tk-xy-w-10",
+    "name": "Fairy Energy",
+    "number": "10",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/10_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/10_large.webp"
+  },
+  {
+    "id": "tk-xy-w-11",
+    "name": "Pidgey",
+    "number": "11",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/11_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/11_large.webp"
+  },
+  {
+    "id": "tk-xy-w-12",
+    "name": "Jigglypuff",
+    "number": "12",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/12_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/12_large.webp"
+  },
+  {
+    "id": "tk-xy-w-13",
+    "name": "Clefairy",
+    "number": "13",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/13_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/13_large.webp"
+  },
+  {
+    "id": "tk-xy-w-14",
+    "name": "Wigglytuff",
+    "number": "14",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/14_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/14_large.webp"
+  },
+  {
+    "id": "tk-xy-w-15",
+    "name": "Potion",
+    "number": "15",
+    "rarity": "Common",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/15_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/15_large.webp"
+  },
+  {
+    "id": "tk-xy-w-16",
+    "name": "Clefable",
+    "number": "16",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/16_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/16_large.webp"
+  },
+  {
+    "id": "tk-xy-w-17",
+    "name": "Fairy Energy",
+    "number": "17",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/17_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/17_large.webp"
+  },
+  {
+    "id": "tk-xy-w-18",
+    "name": "Swirlix",
+    "number": "18",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/18_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/18_large.webp"
+  },
+  {
+    "id": "tk-xy-w-19",
+    "name": "Clefairy",
+    "number": "19",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/19_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/19_large.webp"
+  },
+  {
+    "id": "tk-xy-w-20",
+    "name": "Potion",
+    "number": "20",
+    "rarity": "Common",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/20_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/20_large.webp"
+  },
+  {
+    "id": "tk-xy-w-21",
+    "name": "Fairy Energy",
+    "number": "21",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/21_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/21_large.webp"
+  },
+  {
+    "id": "tk-xy-w-22",
+    "name": "Fairy Energy",
+    "number": "22",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/22_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/22_large.webp"
+  },
+  {
+    "id": "tk-xy-w-23",
+    "name": "Pidgeotto",
+    "number": "23",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/23_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/23_large.webp"
+  },
+  {
+    "id": "tk-xy-w-24",
+    "name": "Trevor",
+    "number": "24",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/24_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/24_large.webp"
+  },
+  {
+    "id": "tk-xy-w-25",
+    "name": "Jigglypuff",
+    "number": "25",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/25_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/25_large.webp"
+  },
+  {
+    "id": "tk-xy-w-26",
+    "name": "Tierno",
+    "number": "26",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/26_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/26_large.webp"
+  },
+  {
+    "id": "tk-xy-w-27",
+    "name": "Fairy Energy",
+    "number": "27",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/27_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/27_large.webp"
+  },
+  {
+    "id": "tk-xy-w-28",
+    "name": "Clefable",
+    "number": "28",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/28_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/28_large.webp"
+  },
+  {
+    "id": "tk-xy-w-29",
+    "name": "Pidgey",
+    "number": "29",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/29_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/29_large.webp"
+  },
+  {
+    "id": "tk-xy-w-30",
+    "name": "Wigglytuff",
+    "number": "30",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-w/cards/30_small.webp",
+    "local_image_large": "assets/sets/tk-xy-w/cards/30_large.webp"
+  }
+]

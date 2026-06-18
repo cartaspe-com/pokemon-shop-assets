@@ -1,0 +1,988 @@
+[
+  {
+    "id": "mep-001",
+    "name": "Meganium",
+    "number": "001",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "160",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/001_small.webp",
+    "local_image_large": "assets/sets/mep/cards/001_large.webp"
+  },
+  {
+    "id": "mep-002",
+    "name": "Inteleon",
+    "number": "002",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "150",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/002_small.webp",
+    "local_image_large": "assets/sets/mep/cards/002_large.webp"
+  },
+  {
+    "id": "mep-003",
+    "name": "Alakazam",
+    "number": "003",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "140",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/003_small.webp",
+    "local_image_large": "assets/sets/mep/cards/003_large.webp"
+  },
+  {
+    "id": "mep-004",
+    "name": "Lunatone",
+    "number": "004",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/004_small.webp",
+    "local_image_large": "assets/sets/mep/cards/004_large.webp"
+  },
+  {
+    "id": "mep-005",
+    "name": "Drifloon",
+    "number": "005",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/005_small.webp",
+    "local_image_large": "assets/sets/mep/cards/005_large.webp"
+  },
+  {
+    "id": "mep-006",
+    "name": "Drifblim",
+    "number": "006",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/006_small.webp",
+    "local_image_large": "assets/sets/mep/cards/006_large.webp"
+  },
+  {
+    "id": "mep-007",
+    "name": "Psyduck",
+    "number": "007",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/007_small.webp",
+    "local_image_large": "assets/sets/mep/cards/007_large.webp"
+  },
+  {
+    "id": "mep-008",
+    "name": "Golduck",
+    "number": "008",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/008_small.webp",
+    "local_image_large": "assets/sets/mep/cards/008_large.webp"
+  },
+  {
+    "id": "mep-009",
+    "name": "Alakazam",
+    "number": "009",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "140",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/009_small.webp",
+    "local_image_large": "assets/sets/mep/cards/009_large.webp"
+  },
+  {
+    "id": "mep-010",
+    "name": "Riolu",
+    "number": "010",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/010_small.webp",
+    "local_image_large": "assets/sets/mep/cards/010_large.webp"
+  },
+  {
+    "id": "mep-011",
+    "name": "Mega Latias ex",
+    "number": "011",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Dragon"
+    ],
+    "hp": "280",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/011_small.webp",
+    "local_image_large": "assets/sets/mep/cards/011_large.webp"
+  },
+  {
+    "id": "mep-012",
+    "name": "Mega Lucario ex",
+    "number": "012",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "340",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/012_small.webp",
+    "local_image_large": "assets/sets/mep/cards/012_large.webp"
+  },
+  {
+    "id": "mep-013",
+    "name": "Mega Venusaur ex",
+    "number": "013",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "380",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/013_small.webp",
+    "local_image_large": "assets/sets/mep/cards/013_large.webp"
+  },
+  {
+    "id": "mep-014",
+    "name": "Ceruledge",
+    "number": "014",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "140",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/014_small.webp",
+    "local_image_large": "assets/sets/mep/cards/014_large.webp"
+  },
+  {
+    "id": "mep-015",
+    "name": "Zacian",
+    "number": "015",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "130",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/015_small.webp",
+    "local_image_large": "assets/sets/mep/cards/015_large.webp"
+  },
+  {
+    "id": "mep-016",
+    "name": "Flygon",
+    "number": "016",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "150",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/016_small.webp",
+    "local_image_large": "assets/sets/mep/cards/016_large.webp"
+  },
+  {
+    "id": "mep-017",
+    "name": "Toxtricity",
+    "number": "017",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "140",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/017_small.webp",
+    "local_image_large": "assets/sets/mep/cards/017_large.webp"
+  },
+  {
+    "id": "mep-018",
+    "name": "Cottonee",
+    "number": "018",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/018_small.webp",
+    "local_image_large": "assets/sets/mep/cards/018_large.webp"
+  },
+  {
+    "id": "mep-019",
+    "name": "Whimsicott",
+    "number": "019",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/019_small.webp",
+    "local_image_large": "assets/sets/mep/cards/019_large.webp"
+  },
+  {
+    "id": "mep-020",
+    "name": "Sneasel",
+    "number": "020",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/020_small.webp",
+    "local_image_large": "assets/sets/mep/cards/020_large.webp"
+  },
+  {
+    "id": "mep-021",
+    "name": "Weavile",
+    "number": "021",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/021_small.webp",
+    "local_image_large": "assets/sets/mep/cards/021_large.webp"
+  },
+  {
+    "id": "mep-022",
+    "name": "Charcadet",
+    "number": "022",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/022_small.webp",
+    "local_image_large": "assets/sets/mep/cards/022_large.webp"
+  },
+  {
+    "id": "mep-023",
+    "name": "Mega Charizard X ex",
+    "number": "023",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "360",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/023_small.webp",
+    "local_image_large": "assets/sets/mep/cards/023_large.webp"
+  },
+  {
+    "id": "mep-024",
+    "name": "Oricorio ex",
+    "number": "024",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "190",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/024_small.webp",
+    "local_image_large": "assets/sets/mep/cards/024_large.webp"
+  },
+  {
+    "id": "mep-025",
+    "name": "Mega Kangaskhan ex",
+    "number": "025",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "300",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/025_small.webp",
+    "local_image_large": "assets/sets/mep/cards/025_large.webp"
+  },
+  {
+    "id": "mep-026",
+    "name": "Meloetta",
+    "number": "026",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/026_small.webp",
+    "local_image_large": "assets/sets/mep/cards/026_large.webp"
+  },
+  {
+    "id": "mep-027",
+    "name": "Haunter",
+    "number": "027",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/027_small.webp",
+    "local_image_large": "assets/sets/mep/cards/027_large.webp"
+  },
+  {
+    "id": "mep-028",
+    "name": "Celebratory Fanfare",
+    "number": "028",
+    "rarity": "None",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/028_small.webp",
+    "local_image_large": "assets/sets/mep/cards/028_large.webp"
+  },
+  {
+    "id": "mep-029",
+    "name": "Mega Charizard X ex",
+    "number": "029",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "360",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/029_small.webp",
+    "local_image_large": "assets/sets/mep/cards/029_large.webp"
+  },
+  {
+    "id": "mep-030",
+    "name": "Mega Charizard Y ex",
+    "number": "030",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "360",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/030_small.webp",
+    "local_image_large": "assets/sets/mep/cards/030_large.webp"
+  },
+  {
+    "id": "mep-031",
+    "name": "N's Zekrom",
+    "number": "031",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Dragon"
+    ],
+    "hp": "130",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/031_small.webp",
+    "local_image_large": "assets/sets/mep/cards/031_large.webp"
+  },
+  {
+    "id": "mep-032",
+    "name": "Mega Gardevoir ex",
+    "number": "032",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "360",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/032_small.webp",
+    "local_image_large": "assets/sets/mep/cards/032_large.webp"
+  },
+  {
+    "id": "mep-033",
+    "name": "Mega Lucario ex",
+    "number": "033",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "340",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/033_small.webp",
+    "local_image_large": "assets/sets/mep/cards/033_large.webp"
+  },
+  {
+    "id": "mep-034",
+    "name": "Mega Meganium ex",
+    "number": "034",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "360",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/034_small.webp",
+    "local_image_large": "assets/sets/mep/cards/034_large.webp"
+  },
+  {
+    "id": "mep-035",
+    "name": "Mega Emboar ex",
+    "number": "035",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "380",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/035_small.webp",
+    "local_image_large": "assets/sets/mep/cards/035_large.webp"
+  },
+  {
+    "id": "mep-036",
+    "name": "Mega Feraligatr ex",
+    "number": "036",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "370",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/036_small.webp",
+    "local_image_large": "assets/sets/mep/cards/036_large.webp"
+  },
+  {
+    "id": "mep-037",
+    "name": "Bulbasaur",
+    "number": "037",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/037_small.webp",
+    "local_image_large": "assets/sets/mep/cards/037_large.webp"
+  },
+  {
+    "id": "mep-038",
+    "name": "Charmander",
+    "number": "038",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/038_small.webp",
+    "local_image_large": "assets/sets/mep/cards/038_large.webp"
+  },
+  {
+    "id": "mep-039",
+    "name": "Squirtle",
+    "number": "039",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/039_small.webp",
+    "local_image_large": "assets/sets/mep/cards/039_large.webp"
+  },
+  {
+    "id": "mep-040",
+    "name": "Turtwig",
+    "number": "040",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/040_small.webp",
+    "local_image_large": "assets/sets/mep/cards/040_large.webp"
+  },
+  {
+    "id": "mep-041",
+    "name": "Chimchar",
+    "number": "041",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/041_small.webp",
+    "local_image_large": "assets/sets/mep/cards/041_large.webp"
+  },
+  {
+    "id": "mep-042",
+    "name": "Piplup",
+    "number": "042",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/042_small.webp",
+    "local_image_large": "assets/sets/mep/cards/042_large.webp"
+  },
+  {
+    "id": "mep-043",
+    "name": "Rowlet",
+    "number": "043",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/043_small.webp",
+    "local_image_large": "assets/sets/mep/cards/043_large.webp"
+  },
+  {
+    "id": "mep-044",
+    "name": "Litten",
+    "number": "044",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/044_small.webp",
+    "local_image_large": "assets/sets/mep/cards/044_large.webp"
+  },
+  {
+    "id": "mep-045",
+    "name": "Popplio",
+    "number": "045",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/045_small.webp",
+    "local_image_large": "assets/sets/mep/cards/045_large.webp"
+  },
+  {
+    "id": "mep-064",
+    "name": "Serperior",
+    "number": "064",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "160",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/064_small.webp",
+    "local_image_large": "assets/sets/mep/cards/064_large.webp"
+  },
+  {
+    "id": "mep-065",
+    "name": "Barbaracle",
+    "number": "065",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "130",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/065_small.webp",
+    "local_image_large": "assets/sets/mep/cards/065_large.webp"
+  },
+  {
+    "id": "mep-066",
+    "name": "Tyrantrum",
+    "number": "066",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "180",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/066_small.webp",
+    "local_image_large": "assets/sets/mep/cards/066_large.webp"
+  },
+  {
+    "id": "mep-067",
+    "name": "Doublade",
+    "number": "067",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Metal"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/067_small.webp",
+    "local_image_large": "assets/sets/mep/cards/067_large.webp"
+  },
+  {
+    "id": "mep-068",
+    "name": "Makuhita",
+    "number": "068",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/068_small.webp",
+    "local_image_large": "assets/sets/mep/cards/068_large.webp"
+  },
+  {
+    "id": "mep-069",
+    "name": "Chikorita",
+    "number": "069",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/069_small.webp",
+    "local_image_large": "assets/sets/mep/cards/069_large.webp"
+  },
+  {
+    "id": "mep-070",
+    "name": "Tyrunt",
+    "number": "070",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mep/cards/070_small.webp",
+    "local_image_large": "assets/sets/mep/cards/070_large.webp"
+  }
+]

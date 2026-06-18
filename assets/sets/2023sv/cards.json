@@ -1,0 +1,287 @@
+[
+  {
+    "id": "2023sv-1",
+    "name": "Sprigatito",
+    "number": "1",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2023sv/cards/1_small.webp",
+    "local_image_large": "assets/sets/2023sv/cards/1_large.webp"
+  },
+  {
+    "id": "2023sv-2",
+    "name": "Fuecoco",
+    "number": "2",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2023sv/cards/2_small.webp",
+    "local_image_large": "assets/sets/2023sv/cards/2_large.webp"
+  },
+  {
+    "id": "2023sv-3",
+    "name": "Quaxly",
+    "number": "3",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2023sv/cards/3_small.webp",
+    "local_image_large": "assets/sets/2023sv/cards/3_large.webp"
+  },
+  {
+    "id": "2023sv-4",
+    "name": "Cetoddle",
+    "number": "4",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2023sv/cards/4_small.webp",
+    "local_image_large": "assets/sets/2023sv/cards/4_large.webp"
+  },
+  {
+    "id": "2023sv-5",
+    "name": "Cetitan",
+    "number": "5",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "180",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2023sv/cards/5_small.webp",
+    "local_image_large": "assets/sets/2023sv/cards/5_large.webp"
+  },
+  {
+    "id": "2023sv-6",
+    "name": "Pikachu",
+    "number": "6",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2023sv/cards/6_small.webp",
+    "local_image_large": "assets/sets/2023sv/cards/6_large.webp"
+  },
+  {
+    "id": "2023sv-7",
+    "name": "Pawmi",
+    "number": "7",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2023sv/cards/7_small.webp",
+    "local_image_large": "assets/sets/2023sv/cards/7_large.webp"
+  },
+  {
+    "id": "2023sv-8",
+    "name": "Kilowattrel",
+    "number": "8",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2023sv/cards/8_small.webp",
+    "local_image_large": "assets/sets/2023sv/cards/8_large.webp"
+  },
+  {
+    "id": "2023sv-9",
+    "name": "Flittle",
+    "number": "9",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "30",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2023sv/cards/9_small.webp",
+    "local_image_large": "assets/sets/2023sv/cards/9_large.webp"
+  },
+  {
+    "id": "2023sv-10",
+    "name": "Sandaconda",
+    "number": "10",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "140",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2023sv/cards/10_small.webp",
+    "local_image_large": "assets/sets/2023sv/cards/10_large.webp"
+  },
+  {
+    "id": "2023sv-11",
+    "name": "Klawf",
+    "number": "11",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "130",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2023sv/cards/11_small.webp",
+    "local_image_large": "assets/sets/2023sv/cards/11_large.webp"
+  },
+  {
+    "id": "2023sv-12",
+    "name": "Blissey",
+    "number": "12",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "150",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2023sv/cards/12_small.webp",
+    "local_image_large": "assets/sets/2023sv/cards/12_large.webp"
+  },
+  {
+    "id": "2023sv-13",
+    "name": "Tandemaus",
+    "number": "13",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2023sv/cards/13_small.webp",
+    "local_image_large": "assets/sets/2023sv/cards/13_large.webp"
+  },
+  {
+    "id": "2023sv-14",
+    "name": "Cyclizar",
+    "number": "14",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2023sv/cards/14_small.webp",
+    "local_image_large": "assets/sets/2023sv/cards/14_large.webp"
+  },
+  {
+    "id": "2023sv-15",
+    "name": "Kirlia",
+    "number": "15",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/2023sv/cards/15_small.webp",
+    "local_image_large": "assets/sets/2023sv/cards/15_large.webp"
+  }
+]

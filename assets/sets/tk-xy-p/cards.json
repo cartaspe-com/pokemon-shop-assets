@@ -1,0 +1,548 @@
+[
+  {
+    "id": "tk-xy-p-1",
+    "name": "Glameow",
+    "number": "1",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/1_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/1_large.webp"
+  },
+  {
+    "id": "tk-xy-p-2",
+    "name": "Lightning Energy",
+    "number": "2",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/2_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/2_large.webp"
+  },
+  {
+    "id": "tk-xy-p-3",
+    "name": "Lightning Energy",
+    "number": "3",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/3_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/3_large.webp"
+  },
+  {
+    "id": "tk-xy-p-4",
+    "name": "Electivire",
+    "number": "4",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/4_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/4_large.webp"
+  },
+  {
+    "id": "tk-xy-p-5",
+    "name": "Lightning Energy",
+    "number": "5",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/5_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/5_large.webp"
+  },
+  {
+    "id": "tk-xy-p-6",
+    "name": "Lightning Energy",
+    "number": "6",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/6_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/6_large.webp"
+  },
+  {
+    "id": "tk-xy-p-7",
+    "name": "Taillow",
+    "number": "7",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/7_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/7_large.webp"
+  },
+  {
+    "id": "tk-xy-p-8",
+    "name": "Lightning Energy",
+    "number": "8",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/8_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/8_large.webp"
+  },
+  {
+    "id": "tk-xy-p-9",
+    "name": "Lightning Energy",
+    "number": "9",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/9_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/9_large.webp"
+  },
+  {
+    "id": "tk-xy-p-10",
+    "name": "Lightning Energy",
+    "number": "10",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/10_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/10_large.webp"
+  },
+  {
+    "id": "tk-xy-p-11",
+    "name": "Electrike",
+    "number": "11",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/11_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/11_large.webp"
+  },
+  {
+    "id": "tk-xy-p-12",
+    "name": "Blitzle",
+    "number": "12",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/12_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/12_large.webp"
+  },
+  {
+    "id": "tk-xy-p-13",
+    "name": "Manectric",
+    "number": "13",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/13_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/13_large.webp"
+  },
+  {
+    "id": "tk-xy-p-14",
+    "name": "Pikachu Libre",
+    "number": "14",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/14_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/14_large.webp"
+  },
+  {
+    "id": "tk-xy-p-15",
+    "name": "Electabuzz",
+    "number": "15",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/15_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/15_large.webp"
+  },
+  {
+    "id": "tk-xy-p-16",
+    "name": "Fletchling",
+    "number": "16",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/16_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/16_large.webp"
+  },
+  {
+    "id": "tk-xy-p-17",
+    "name": "Lightning Energy",
+    "number": "17",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/17_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/17_large.webp"
+  },
+  {
+    "id": "tk-xy-p-18",
+    "name": "Lightning Energy",
+    "number": "18",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/18_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/18_large.webp"
+  },
+  {
+    "id": "tk-xy-p-19",
+    "name": "Purugly",
+    "number": "19",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/19_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/19_large.webp"
+  },
+  {
+    "id": "tk-xy-p-20",
+    "name": "Tierno",
+    "number": "20",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/20_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/20_large.webp"
+  },
+  {
+    "id": "tk-xy-p-21",
+    "name": "Potion",
+    "number": "21",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/21_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/21_large.webp"
+  },
+  {
+    "id": "tk-xy-p-22",
+    "name": "Manectric",
+    "number": "22",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/22_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/22_large.webp"
+  },
+  {
+    "id": "tk-xy-p-23",
+    "name": "Electabuzz",
+    "number": "23",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/23_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/23_large.webp"
+  },
+  {
+    "id": "tk-xy-p-24",
+    "name": "Purugly",
+    "number": "24",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/24_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/24_large.webp"
+  },
+  {
+    "id": "tk-xy-p-25",
+    "name": "Electivire",
+    "number": "25",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/25_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/25_large.webp"
+  },
+  {
+    "id": "tk-xy-p-26",
+    "name": "Blitzle",
+    "number": "26",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/26_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/26_large.webp"
+  },
+  {
+    "id": "tk-xy-p-27",
+    "name": "Glameow",
+    "number": "27",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/27_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/27_large.webp"
+  },
+  {
+    "id": "tk-xy-p-28",
+    "name": "Electrike",
+    "number": "28",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/28_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/28_large.webp"
+  },
+  {
+    "id": "tk-xy-p-29",
+    "name": "Lightning Energy",
+    "number": "29",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/29_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/29_large.webp"
+  },
+  {
+    "id": "tk-xy-p-30",
+    "name": "Pikachu Libre",
+    "number": "30",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-p/cards/30_small.webp",
+    "local_image_large": "assets/sets/tk-xy-p/cards/30_large.webp"
+  }
+]

@@ -1,0 +1,544 @@
+[
+  {
+    "id": "tk-xy-su-1",
+    "name": "Water Energy",
+    "number": "1",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/1_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/1_large.webp"
+  },
+  {
+    "id": "tk-xy-su-2",
+    "name": "Water Energy",
+    "number": "2",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/2_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/2_large.webp"
+  },
+  {
+    "id": "tk-xy-su-3",
+    "name": "Water Energy",
+    "number": "3",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/3_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/3_large.webp"
+  },
+  {
+    "id": "tk-xy-su-4",
+    "name": "Eevee",
+    "number": "4",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/4_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/4_large.webp"
+  },
+  {
+    "id": "tk-xy-su-5",
+    "name": "Water Energy",
+    "number": "5",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/5_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/5_large.webp"
+  },
+  {
+    "id": "tk-xy-su-6",
+    "name": "Frogadier",
+    "number": "6",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/6_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/6_large.webp"
+  },
+  {
+    "id": "tk-xy-su-7",
+    "name": "Ducklett",
+    "number": "7",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/7_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/7_large.webp"
+  },
+  {
+    "id": "tk-xy-su-8",
+    "name": "Water Energy",
+    "number": "8",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/8_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/8_large.webp"
+  },
+  {
+    "id": "tk-xy-su-9",
+    "name": "Water Energy",
+    "number": "9",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/9_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/9_large.webp"
+  },
+  {
+    "id": "tk-xy-su-10",
+    "name": "Water Energy",
+    "number": "10",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/10_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/10_large.webp"
+  },
+  {
+    "id": "tk-xy-su-11",
+    "name": "Froakie",
+    "number": "11",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/11_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/11_large.webp"
+  },
+  {
+    "id": "tk-xy-su-12",
+    "name": "Seaking",
+    "number": "12",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/12_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/12_large.webp"
+  },
+  {
+    "id": "tk-xy-su-13",
+    "name": "Goldeen",
+    "number": "13",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/13_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/13_large.webp"
+  },
+  {
+    "id": "tk-xy-su-14",
+    "name": "Suicune",
+    "number": "14",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/14_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/14_large.webp"
+  },
+  {
+    "id": "tk-xy-su-15",
+    "name": "Potion",
+    "number": "15",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/15_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/15_large.webp"
+  },
+  {
+    "id": "tk-xy-su-16",
+    "name": "Piplup",
+    "number": "16",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/16_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/16_large.webp"
+  },
+  {
+    "id": "tk-xy-su-17",
+    "name": "Water Energy",
+    "number": "17",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/17_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/17_large.webp"
+  },
+  {
+    "id": "tk-xy-su-18",
+    "name": "Swanna",
+    "number": "18",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/18_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/18_large.webp"
+  },
+  {
+    "id": "tk-xy-su-19",
+    "name": "Water Energy",
+    "number": "19",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/19_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/19_large.webp"
+  },
+  {
+    "id": "tk-xy-su-20",
+    "name": "Tierno",
+    "number": "20",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/20_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/20_large.webp"
+  },
+  {
+    "id": "tk-xy-su-21",
+    "name": "Frogadier",
+    "number": "21",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/21_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/21_large.webp"
+  },
+  {
+    "id": "tk-xy-su-22",
+    "name": "Water Energy",
+    "number": "22",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/22_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/22_large.webp"
+  },
+  {
+    "id": "tk-xy-su-23",
+    "name": "Froakie",
+    "number": "23",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/23_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/23_large.webp"
+  },
+  {
+    "id": "tk-xy-su-24",
+    "name": "Ducklett",
+    "number": "24",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/24_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/24_large.webp"
+  },
+  {
+    "id": "tk-xy-su-25",
+    "name": "Seaking",
+    "number": "25",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/25_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/25_large.webp"
+  },
+  {
+    "id": "tk-xy-su-26",
+    "name": "Goldeen",
+    "number": "26",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/26_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/26_large.webp"
+  },
+  {
+    "id": "tk-xy-su-27",
+    "name": "Swanna",
+    "number": "27",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/27_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/27_large.webp"
+  },
+  {
+    "id": "tk-xy-su-28",
+    "name": "Water Energy",
+    "number": "28",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/28_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/28_large.webp"
+  },
+  {
+    "id": "tk-xy-su-29",
+    "name": "Tierno",
+    "number": "29",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/29_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/29_large.webp"
+  },
+  {
+    "id": "tk-xy-su-30",
+    "name": "Suicune",
+    "number": "30",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-su/cards/30_small.webp",
+    "local_image_large": "assets/sets/tk-xy-su/cards/30_large.webp"
+  }
+]

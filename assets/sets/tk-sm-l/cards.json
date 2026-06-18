@@ -1,0 +1,332 @@
+[
+  {
+    "id": "tk-sm-l-1",
+    "name": "Caterpie",
+    "number": "1",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-sm-l/cards/1_small.webp",
+    "local_image_large": "assets/sets/tk-sm-l/cards/1_large.webp"
+  },
+  {
+    "id": "tk-sm-l-4",
+    "name": "Trumbeak",
+    "number": "4",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-sm-l/cards/4_small.webp",
+    "local_image_large": "assets/sets/tk-sm-l/cards/4_large.webp"
+  },
+  {
+    "id": "tk-sm-l-5",
+    "name": "Fighting Energy",
+    "number": "5",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-sm-l/cards/5_small.webp",
+    "local_image_large": "assets/sets/tk-sm-l/cards/5_large.webp"
+  },
+  {
+    "id": "tk-sm-l-11",
+    "name": "Fletchling",
+    "number": "11",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-sm-l/cards/11_small.webp",
+    "local_image_large": "assets/sets/tk-sm-l/cards/11_large.webp"
+  },
+  {
+    "id": "tk-sm-l-12",
+    "name": "Yungoos",
+    "number": "12",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-sm-l/cards/12_small.webp",
+    "local_image_large": "assets/sets/tk-sm-l/cards/12_large.webp"
+  },
+  {
+    "id": "tk-sm-l-13",
+    "name": "Fletchinder",
+    "number": "13",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-sm-l/cards/13_small.webp",
+    "local_image_large": "assets/sets/tk-sm-l/cards/13_large.webp"
+  },
+  {
+    "id": "tk-sm-l-14",
+    "name": "Rockruff",
+    "number": "14",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-sm-l/cards/14_small.webp",
+    "local_image_large": "assets/sets/tk-sm-l/cards/14_large.webp"
+  },
+  {
+    "id": "tk-sm-l-15",
+    "name": "Pikipek",
+    "number": "15",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-sm-l/cards/15_small.webp",
+    "local_image_large": "assets/sets/tk-sm-l/cards/15_large.webp"
+  },
+  {
+    "id": "tk-sm-l-16",
+    "name": "Lycanroc",
+    "number": "16",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-sm-l/cards/16_small.webp",
+    "local_image_large": "assets/sets/tk-sm-l/cards/16_large.webp"
+  },
+  {
+    "id": "tk-sm-l-18",
+    "name": "Makuhita",
+    "number": "18",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-sm-l/cards/18_small.webp",
+    "local_image_large": "assets/sets/tk-sm-l/cards/18_large.webp"
+  },
+  {
+    "id": "tk-sm-l-19",
+    "name": "Hau",
+    "number": "19",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-sm-l/cards/19_small.webp",
+    "local_image_large": "assets/sets/tk-sm-l/cards/19_large.webp"
+  },
+  {
+    "id": "tk-sm-l-21",
+    "name": "Great Ball",
+    "number": "21",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-sm-l/cards/21_small.webp",
+    "local_image_large": "assets/sets/tk-sm-l/cards/21_large.webp"
+  },
+  {
+    "id": "tk-sm-l-22",
+    "name": "Toucannon",
+    "number": "22",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "140",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-sm-l/cards/22_small.webp",
+    "local_image_large": "assets/sets/tk-sm-l/cards/22_large.webp"
+  },
+  {
+    "id": "tk-sm-l-23",
+    "name": "Hau",
+    "number": "23",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-sm-l/cards/23_small.webp",
+    "local_image_large": "assets/sets/tk-sm-l/cards/23_large.webp"
+  },
+  {
+    "id": "tk-sm-l-25",
+    "name": "Great Ball",
+    "number": "25",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-sm-l/cards/25_small.webp",
+    "local_image_large": "assets/sets/tk-sm-l/cards/25_large.webp"
+  },
+  {
+    "id": "tk-sm-l-27",
+    "name": "Big Malasada",
+    "number": "27",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-sm-l/cards/27_small.webp",
+    "local_image_large": "assets/sets/tk-sm-l/cards/27_large.webp"
+  },
+  {
+    "id": "tk-sm-l-29",
+    "name": "Rockruff",
+    "number": "29",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-sm-l/cards/29_small.webp",
+    "local_image_large": "assets/sets/tk-sm-l/cards/29_large.webp"
+  },
+  {
+    "id": "tk-sm-l-30",
+    "name": "Lycanroc",
+    "number": "30",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-sm-l/cards/30_small.webp",
+    "local_image_large": "assets/sets/tk-sm-l/cards/30_large.webp"
+  }
+]

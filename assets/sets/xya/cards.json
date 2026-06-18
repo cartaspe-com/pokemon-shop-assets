@@ -1,0 +1,112 @@
+[
+  {
+    "id": "xya-107a",
+    "name": "Professor Sycamore",
+    "number": "107a",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/xya/cards/107a_small.webp",
+    "local_image_large": "assets/sets/xya/cards/107a_large.webp"
+  },
+  {
+    "id": "xya-24a",
+    "name": "M Manectric-EX",
+    "number": "24a",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "210",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/xya/cards/24a_small.webp",
+    "local_image_large": "assets/sets/xya/cards/24a_large.webp"
+  },
+  {
+    "id": "xya-28a",
+    "name": "Jolteon-EX",
+    "number": "28a",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "160",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/xya/cards/28a_small.webp",
+    "local_image_large": "assets/sets/xya/cards/28a_large.webp"
+  },
+  {
+    "id": "xya-54a",
+    "name": "Zygarde-EX",
+    "number": "54a",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "190",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/xya/cards/54a_small.webp",
+    "local_image_large": "assets/sets/xya/cards/54a_large.webp"
+  },
+  {
+    "id": "xya-55a",
+    "name": "M Lucario-EX",
+    "number": "55a",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "220",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/xya/cards/55a_small.webp",
+    "local_image_large": "assets/sets/xya/cards/55a_large.webp"
+  },
+  {
+    "id": "xya-92a",
+    "name": "Trainers’ Mail",
+    "number": "92a",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/xya/cards/92a_small.webp",
+    "local_image_large": "assets/sets/xya/cards/92a_large.webp"
+  }
+]

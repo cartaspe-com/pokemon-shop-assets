@@ -1,0 +1,1818 @@
+[
+  {
+    "id": "ex4-1",
+    "name": "Team Aqua's Cacturne",
+    "number": "1",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass",
+      "Darkness"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/1_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/1_large.webp"
+  },
+  {
+    "id": "ex4-2",
+    "name": "Team Aqua's Crawdaunt",
+    "number": "2",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water",
+      "Darkness"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/2_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/2_large.webp"
+  },
+  {
+    "id": "ex4-3",
+    "name": "Team Aqua's Kyogre",
+    "number": "3",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water",
+      "Darkness"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/3_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/3_large.webp"
+  },
+  {
+    "id": "ex4-4",
+    "name": "Team Aqua's Manectric",
+    "number": "4",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning",
+      "Darkness"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/4_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/4_large.webp"
+  },
+  {
+    "id": "ex4-5",
+    "name": "Team Aqua's Sharpedo",
+    "number": "5",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water",
+      "Darkness"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/5_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/5_large.webp"
+  },
+  {
+    "id": "ex4-6",
+    "name": "Team Aqua's Walrein",
+    "number": "6",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water",
+      "Darkness"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/6_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/6_large.webp"
+  },
+  {
+    "id": "ex4-7",
+    "name": "Team Magma's Aggron",
+    "number": "7",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting",
+      "Darkness"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/7_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/7_large.webp"
+  },
+  {
+    "id": "ex4-8",
+    "name": "Team Magma's Claydol",
+    "number": "8",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic",
+      "Darkness"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/8_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/8_large.webp"
+  },
+  {
+    "id": "ex4-9",
+    "name": "Team Magma's Groudon",
+    "number": "9",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting",
+      "Darkness"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/9_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/9_large.webp"
+  },
+  {
+    "id": "ex4-10",
+    "name": "Team Magma's Houndoom",
+    "number": "10",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire",
+      "Darkness"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/10_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/10_large.webp"
+  },
+  {
+    "id": "ex4-11",
+    "name": "Team Magma's Rhydon",
+    "number": "11",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting",
+      "Darkness"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/11_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/11_large.webp"
+  },
+  {
+    "id": "ex4-12",
+    "name": "Team Magma's Torkoal",
+    "number": "12",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire",
+      "Darkness"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/12_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/12_large.webp"
+  },
+  {
+    "id": "ex4-13",
+    "name": "Raichu",
+    "number": "13",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/13_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/13_large.webp"
+  },
+  {
+    "id": "ex4-14",
+    "name": "Team Aqua's Crawdaunt",
+    "number": "14",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/14_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/14_large.webp"
+  },
+  {
+    "id": "ex4-15",
+    "name": "Team Aqua's Mightyena",
+    "number": "15",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/15_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/15_large.webp"
+  },
+  {
+    "id": "ex4-16",
+    "name": "Team Aqua's Sealeo",
+    "number": "16",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/16_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/16_large.webp"
+  },
+  {
+    "id": "ex4-17",
+    "name": "Team Aqua's Seviper",
+    "number": "17",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/17_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/17_large.webp"
+  },
+  {
+    "id": "ex4-18",
+    "name": "Team Aqua's Sharpedo",
+    "number": "18",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/18_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/18_large.webp"
+  },
+  {
+    "id": "ex4-19",
+    "name": "Team Magma's Camerupt",
+    "number": "19",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/19_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/19_large.webp"
+  },
+  {
+    "id": "ex4-20",
+    "name": "Team Magma's Lairon",
+    "number": "20",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/20_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/20_large.webp"
+  },
+  {
+    "id": "ex4-21",
+    "name": "Team Magma's Mightyena",
+    "number": "21",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/21_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/21_large.webp"
+  },
+  {
+    "id": "ex4-22",
+    "name": "Team Magma's Rhydon",
+    "number": "22",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/22_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/22_large.webp"
+  },
+  {
+    "id": "ex4-23",
+    "name": "Team Magma's Zangoose",
+    "number": "23",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/23_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/23_large.webp"
+  },
+  {
+    "id": "ex4-24",
+    "name": "Team Aqua's Cacnea",
+    "number": "24",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass",
+      "Darkness"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/24_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/24_large.webp"
+  },
+  {
+    "id": "ex4-25",
+    "name": "Team Aqua's Carvanha",
+    "number": "25",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/25_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/25_large.webp"
+  },
+  {
+    "id": "ex4-26",
+    "name": "Team Aqua's Corphish",
+    "number": "26",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/26_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/26_large.webp"
+  },
+  {
+    "id": "ex4-27",
+    "name": "Team Aqua's Electrike",
+    "number": "27",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/27_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/27_large.webp"
+  },
+  {
+    "id": "ex4-28",
+    "name": "Team Aqua's Lanturn",
+    "number": "28",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/28_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/28_large.webp"
+  },
+  {
+    "id": "ex4-29",
+    "name": "Team Aqua's Manectric",
+    "number": "29",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/29_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/29_large.webp"
+  },
+  {
+    "id": "ex4-30",
+    "name": "Team Aqua's Mightyena",
+    "number": "30",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/30_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/30_large.webp"
+  },
+  {
+    "id": "ex4-31",
+    "name": "Team Aqua's Sealeo",
+    "number": "31",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/31_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/31_large.webp"
+  },
+  {
+    "id": "ex4-32",
+    "name": "Team Magma's Baltoy",
+    "number": "32",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/32_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/32_large.webp"
+  },
+  {
+    "id": "ex4-33",
+    "name": "Team Magma's Claydol",
+    "number": "33",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/33_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/33_large.webp"
+  },
+  {
+    "id": "ex4-34",
+    "name": "Team Magma's Houndoom",
+    "number": "34",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/34_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/34_large.webp"
+  },
+  {
+    "id": "ex4-35",
+    "name": "Team Magma's Houndour",
+    "number": "35",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/35_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/35_large.webp"
+  },
+  {
+    "id": "ex4-36",
+    "name": "Team Magma's Lairon",
+    "number": "36",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/36_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/36_large.webp"
+  },
+  {
+    "id": "ex4-37",
+    "name": "Team Magma's Mightyena",
+    "number": "37",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/37_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/37_large.webp"
+  },
+  {
+    "id": "ex4-38",
+    "name": "Team Magma's Rhyhorn",
+    "number": "38",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/38_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/38_large.webp"
+  },
+  {
+    "id": "ex4-39",
+    "name": "Bulbasaur",
+    "number": "39",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/39_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/39_large.webp"
+  },
+  {
+    "id": "ex4-40",
+    "name": "Cubone",
+    "number": "40",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/40_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/40_large.webp"
+  },
+  {
+    "id": "ex4-41",
+    "name": "Jigglypuff",
+    "number": "41",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/41_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/41_large.webp"
+  },
+  {
+    "id": "ex4-42",
+    "name": "Meowth",
+    "number": "42",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/42_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/42_large.webp"
+  },
+  {
+    "id": "ex4-43",
+    "name": "Pikachu",
+    "number": "43",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/43_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/43_large.webp"
+  },
+  {
+    "id": "ex4-44",
+    "name": "Psyduck",
+    "number": "44",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/44_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/44_large.webp"
+  },
+  {
+    "id": "ex4-45",
+    "name": "Slowpoke",
+    "number": "45",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/45_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/45_large.webp"
+  },
+  {
+    "id": "ex4-46",
+    "name": "Squirtle",
+    "number": "46",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/46_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/46_large.webp"
+  },
+  {
+    "id": "ex4-47",
+    "name": "Team Aqua's Carvanha",
+    "number": "47",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/47_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/47_large.webp"
+  },
+  {
+    "id": "ex4-48",
+    "name": "Team Aqua's Carvanha",
+    "number": "48",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/48_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/48_large.webp"
+  },
+  {
+    "id": "ex4-49",
+    "name": "Team Aqua's Chinchou",
+    "number": "49",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/49_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/49_large.webp"
+  },
+  {
+    "id": "ex4-50",
+    "name": "Team Aqua's Corphish",
+    "number": "50",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/50_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/50_large.webp"
+  },
+  {
+    "id": "ex4-51",
+    "name": "Team Aqua's Corphish",
+    "number": "51",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/51_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/51_large.webp"
+  },
+  {
+    "id": "ex4-52",
+    "name": "Team Aqua's Electrike",
+    "number": "52",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/52_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/52_large.webp"
+  },
+  {
+    "id": "ex4-53",
+    "name": "Team Aqua's Electrike",
+    "number": "53",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/53_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/53_large.webp"
+  },
+  {
+    "id": "ex4-54",
+    "name": "Team Aqua's Poochyena",
+    "number": "54",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/54_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/54_large.webp"
+  },
+  {
+    "id": "ex4-55",
+    "name": "Team Aqua's Poochyena",
+    "number": "55",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/55_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/55_large.webp"
+  },
+  {
+    "id": "ex4-56",
+    "name": "Team Aqua's Spheal",
+    "number": "56",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/56_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/56_large.webp"
+  },
+  {
+    "id": "ex4-57",
+    "name": "Team Aqua's Spheal",
+    "number": "57",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/57_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/57_large.webp"
+  },
+  {
+    "id": "ex4-58",
+    "name": "Team Magma's Aron",
+    "number": "58",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/58_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/58_large.webp"
+  },
+  {
+    "id": "ex4-59",
+    "name": "Team Magma's Aron",
+    "number": "59",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/59_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/59_large.webp"
+  },
+  {
+    "id": "ex4-60",
+    "name": "Team Magma's Baltoy",
+    "number": "60",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/60_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/60_large.webp"
+  },
+  {
+    "id": "ex4-61",
+    "name": "Team Magma's Baltoy",
+    "number": "61",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/61_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/61_large.webp"
+  },
+  {
+    "id": "ex4-62",
+    "name": "Team Magma's Houndour",
+    "number": "62",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/62_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/62_large.webp"
+  },
+  {
+    "id": "ex4-63",
+    "name": "Team Magma's Houndour",
+    "number": "63",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/63_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/63_large.webp"
+  },
+  {
+    "id": "ex4-64",
+    "name": "Team Magma's Numel",
+    "number": "64",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/64_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/64_large.webp"
+  },
+  {
+    "id": "ex4-65",
+    "name": "Team Magma's Poochyena",
+    "number": "65",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/65_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/65_large.webp"
+  },
+  {
+    "id": "ex4-66",
+    "name": "Team Magma's Poochyena",
+    "number": "66",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/66_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/66_large.webp"
+  },
+  {
+    "id": "ex4-67",
+    "name": "Team Magma's Rhyhorn",
+    "number": "67",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/67_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/67_large.webp"
+  },
+  {
+    "id": "ex4-68",
+    "name": "Team Magma's Rhyhorn",
+    "number": "68",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/68_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/68_large.webp"
+  },
+  {
+    "id": "ex4-69",
+    "name": "Team Aqua Schemer",
+    "number": "69",
+    "rarity": "Common",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/69_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/69_large.webp"
+  },
+  {
+    "id": "ex4-70",
+    "name": "Team Magma Schemer",
+    "number": "70",
+    "rarity": "Common",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/70_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/70_large.webp"
+  },
+  {
+    "id": "ex4-71",
+    "name": "Archie",
+    "number": "71",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/71_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/71_large.webp"
+  },
+  {
+    "id": "ex4-72",
+    "name": "Dual Ball",
+    "number": "72",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/72_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/72_large.webp"
+  },
+  {
+    "id": "ex4-73",
+    "name": "Maxie",
+    "number": "73",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/73_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/73_large.webp"
+  },
+  {
+    "id": "ex4-74",
+    "name": "Strength Charm",
+    "number": "74",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/74_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/74_large.webp"
+  },
+  {
+    "id": "ex4-75",
+    "name": "Team Aqua Ball",
+    "number": "75",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/75_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/75_large.webp"
+  },
+  {
+    "id": "ex4-76",
+    "name": "Team Aqua Belt",
+    "number": "76",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/76_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/76_large.webp"
+  },
+  {
+    "id": "ex4-77",
+    "name": "Team Aqua Conspirator",
+    "number": "77",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/77_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/77_large.webp"
+  },
+  {
+    "id": "ex4-78",
+    "name": "Team Aqua Hideout",
+    "number": "78",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/78_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/78_large.webp"
+  },
+  {
+    "id": "ex4-79",
+    "name": "Team Aqua's Technical Machine 01",
+    "number": "79",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/79_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/79_large.webp"
+  },
+  {
+    "id": "ex4-80",
+    "name": "Team Magma Ball",
+    "number": "80",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/80_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/80_large.webp"
+  },
+  {
+    "id": "ex4-81",
+    "name": "Team Magma Belt",
+    "number": "81",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/81_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/81_large.webp"
+  },
+  {
+    "id": "ex4-82",
+    "name": "Team Magma Conspirator",
+    "number": "82",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/82_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/82_large.webp"
+  },
+  {
+    "id": "ex4-83",
+    "name": "Team Magma Hideout",
+    "number": "83",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/83_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/83_large.webp"
+  },
+  {
+    "id": "ex4-84",
+    "name": "Team Magma's Technical Machine 01",
+    "number": "84",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/84_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/84_large.webp"
+  },
+  {
+    "id": "ex4-85",
+    "name": "Warp Point",
+    "number": "85",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/85_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/85_large.webp"
+  },
+  {
+    "id": "ex4-86",
+    "name": "Aqua Energy",
+    "number": "86",
+    "rarity": "Uncommon",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/86_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/86_large.webp"
+  },
+  {
+    "id": "ex4-87",
+    "name": "Magma Energy",
+    "number": "87",
+    "rarity": "Uncommon",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/87_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/87_large.webp"
+  },
+  {
+    "id": "ex4-88",
+    "name": "Double Rainbow Energy",
+    "number": "88",
+    "rarity": "Rare",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/88_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/88_large.webp"
+  },
+  {
+    "id": "ex4-89",
+    "name": "Blaziken ex",
+    "number": "89",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "150",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/89_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/89_large.webp"
+  },
+  {
+    "id": "ex4-90",
+    "name": "Cradily ex",
+    "number": "90",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "150",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/90_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/90_large.webp"
+  },
+  {
+    "id": "ex4-91",
+    "name": "Entei ex",
+    "number": "91",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/91_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/91_large.webp"
+  },
+  {
+    "id": "ex4-92",
+    "name": "Raikou ex",
+    "number": "92",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/92_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/92_large.webp"
+  },
+  {
+    "id": "ex4-93",
+    "name": "Sceptile ex",
+    "number": "93",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "150",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/93_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/93_large.webp"
+  },
+  {
+    "id": "ex4-94",
+    "name": "Suicune ex",
+    "number": "94",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/94_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/94_large.webp"
+  },
+  {
+    "id": "ex4-95",
+    "name": "Swampert ex",
+    "number": "95",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "150",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/95_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/95_large.webp"
+  },
+  {
+    "id": "ex4-96",
+    "name": "Absol",
+    "number": "96",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/96_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/96_large.webp"
+  },
+  {
+    "id": "ex4-97",
+    "name": "Jirachi",
+    "number": "97",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/ex4/cards/97_small.webp",
+    "local_image_large": "assets/sets/ex4/cards/97_large.webp"
+  }
+]

@@ -1,0 +1,540 @@
+[
+  {
+    "id": "tk-bw-z-1",
+    "name": "Purrloin",
+    "number": "1",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/1_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/1_large.webp"
+  },
+  {
+    "id": "tk-bw-z-2",
+    "name": "Watchog",
+    "number": "2",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/2_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/2_large.webp"
+  },
+  {
+    "id": "tk-bw-z-3",
+    "name": "Darkness Energy",
+    "number": "3",
+    "rarity": "None",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/3_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/3_large.webp"
+  },
+  {
+    "id": "tk-bw-z-4",
+    "name": "Minccino",
+    "number": "4",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/4_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/4_large.webp"
+  },
+  {
+    "id": "tk-bw-z-5",
+    "name": "Darkness Energy",
+    "number": "5",
+    "rarity": "None",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/5_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/5_large.webp"
+  },
+  {
+    "id": "tk-bw-z-6",
+    "name": "Darkness Energy",
+    "number": "6",
+    "rarity": "None",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/6_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/6_large.webp"
+  },
+  {
+    "id": "tk-bw-z-7",
+    "name": "Darkness Energy",
+    "number": "7",
+    "rarity": "None",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/7_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/7_large.webp"
+  },
+  {
+    "id": "tk-bw-z-8",
+    "name": "Darkness Energy",
+    "number": "8",
+    "rarity": "None",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/8_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/8_large.webp"
+  },
+  {
+    "id": "tk-bw-z-9",
+    "name": "Darkness Energy",
+    "number": "9",
+    "rarity": "None",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/9_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/9_large.webp"
+  },
+  {
+    "id": "tk-bw-z-10",
+    "name": "Darkness Energy",
+    "number": "10",
+    "rarity": "None",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/10_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/10_large.webp"
+  },
+  {
+    "id": "tk-bw-z-11",
+    "name": "PlusPower",
+    "number": "11",
+    "rarity": "None",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/11_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/11_large.webp"
+  },
+  {
+    "id": "tk-bw-z-12",
+    "name": "Patrat",
+    "number": "12",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/12_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/12_large.webp"
+  },
+  {
+    "id": "tk-bw-z-13",
+    "name": "Zorua",
+    "number": "13",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/13_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/13_large.webp"
+  },
+  {
+    "id": "tk-bw-z-14",
+    "name": "Pidove",
+    "number": "14",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/14_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/14_large.webp"
+  },
+  {
+    "id": "tk-bw-z-15",
+    "name": "Tranquill",
+    "number": "15",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/15_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/15_large.webp"
+  },
+  {
+    "id": "tk-bw-z-16",
+    "name": "Energy Retrieval",
+    "number": "16",
+    "rarity": "None",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/16_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/16_large.webp"
+  },
+  {
+    "id": "tk-bw-z-17",
+    "name": "Zoroark",
+    "number": "17",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/17_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/17_large.webp"
+  },
+  {
+    "id": "tk-bw-z-18",
+    "name": "Pokémon Communication",
+    "number": "18",
+    "rarity": "None",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/18_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/18_large.webp"
+  },
+  {
+    "id": "tk-bw-z-19",
+    "name": "Minccino",
+    "number": "19",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/19_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/19_large.webp"
+  },
+  {
+    "id": "tk-bw-z-20",
+    "name": "Darkness Energy",
+    "number": "20",
+    "rarity": "None",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/20_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/20_large.webp"
+  },
+  {
+    "id": "tk-bw-z-21",
+    "name": "Pidove",
+    "number": "21",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/21_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/21_large.webp"
+  },
+  {
+    "id": "tk-bw-z-22",
+    "name": "Darkness Energy",
+    "number": "22",
+    "rarity": "None",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/22_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/22_large.webp"
+  },
+  {
+    "id": "tk-bw-z-23",
+    "name": "Zorua",
+    "number": "23",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/23_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/23_large.webp"
+  },
+  {
+    "id": "tk-bw-z-24",
+    "name": "Darkness Energy",
+    "number": "24",
+    "rarity": "None",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/24_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/24_large.webp"
+  },
+  {
+    "id": "tk-bw-z-25",
+    "name": "Purrloin",
+    "number": "25",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/25_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/25_large.webp"
+  },
+  {
+    "id": "tk-bw-z-26",
+    "name": "Darkness Energy",
+    "number": "26",
+    "rarity": "None",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/26_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/26_large.webp"
+  },
+  {
+    "id": "tk-bw-z-27",
+    "name": "Energy Search",
+    "number": "27",
+    "rarity": "None",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/27_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/27_large.webp"
+  },
+  {
+    "id": "tk-bw-z-28",
+    "name": "Darkness Energy",
+    "number": "28",
+    "rarity": "None",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/28_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/28_large.webp"
+  },
+  {
+    "id": "tk-bw-z-29",
+    "name": "Patrat",
+    "number": "29",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/29_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/29_large.webp"
+  },
+  {
+    "id": "tk-bw-z-30",
+    "name": "Zoroark",
+    "number": "30",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-bw-z/cards/30_small.webp",
+    "local_image_large": "assets/sets/tk-bw-z/cards/30_large.webp"
+  }
+]

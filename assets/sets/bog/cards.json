@@ -1,0 +1,155 @@
+[
+  {
+    "id": "bog-1",
+    "name": "Electabuzz",
+    "number": "1",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bog/cards/1_small.webp",
+    "local_image_large": "assets/sets/bog/cards/1_large.webp"
+  },
+  {
+    "id": "bog-2",
+    "name": "Hitmonchan",
+    "number": "2",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [],
+    "hp": "60",
+    "variants": {
+      "normal": false,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bog/cards/2_small.webp",
+    "local_image_large": "assets/sets/bog/cards/2_large.webp"
+  },
+  {
+    "id": "bog-3",
+    "name": "Professor Elm",
+    "number": "3",
+    "rarity": "None",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": false,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bog/cards/3_small.webp",
+    "local_image_large": "assets/sets/bog/cards/3_large.webp"
+  },
+  {
+    "id": "bog-4",
+    "name": "Rocket’s Scizor",
+    "number": "4",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bog/cards/4_small.webp",
+    "local_image_large": "assets/sets/bog/cards/4_large.webp"
+  },
+  {
+    "id": "bog-5",
+    "name": "Rocket’s Sneasel",
+    "number": "5",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bog/cards/5_small.webp",
+    "local_image_large": "assets/sets/bog/cards/5_large.webp"
+  },
+  {
+    "id": "bog-6",
+    "name": "Dark Ivysaur",
+    "number": "6",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bog/cards/6_small.webp",
+    "local_image_large": "assets/sets/bog/cards/6_large.webp"
+  },
+  {
+    "id": "bog-7",
+    "name": "Dark Venusaur",
+    "number": "7",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bog/cards/7_small.webp",
+    "local_image_large": "assets/sets/bog/cards/7_large.webp"
+  },
+  {
+    "id": "bog-8",
+    "name": "Rocket’s Mewtwo",
+    "number": "8",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bog/cards/8_small.webp",
+    "local_image_large": "assets/sets/bog/cards/8_large.webp"
+  },
+  {
+    "id": "bog-9",
+    "name": "Rocket’s Hitmonchan",
+    "number": "9",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [],
+    "hp": "60",
+    "variants": {
+      "normal": false,
+      "reverse_holo": true,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/bog/cards/9_small.webp",
+    "local_image_large": "assets/sets/bog/cards/9_large.webp"
+  }
+]

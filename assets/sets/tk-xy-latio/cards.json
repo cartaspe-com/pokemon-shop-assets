@@ -1,0 +1,544 @@
+[
+  {
+    "id": "tk-xy-latio-1",
+    "name": "Skitty",
+    "number": "1",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/1_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/1_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-2",
+    "name": "Fighting Energy",
+    "number": "2",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/2_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/2_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-3",
+    "name": "Fighting Energy",
+    "number": "3",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/3_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/3_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-4",
+    "name": "Rhydon",
+    "number": "4",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/4_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/4_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-5",
+    "name": "Fighting Energy",
+    "number": "5",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/5_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/5_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-6",
+    "name": "Fighting Energy",
+    "number": "6",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/6_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/6_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-7",
+    "name": "Fighting Energy",
+    "number": "7",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/7_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/7_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-8",
+    "name": "Fighting Energy",
+    "number": "8",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/8_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/8_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-9",
+    "name": "Fighting Energy",
+    "number": "9",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/9_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/9_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-10",
+    "name": "Fighting Energy",
+    "number": "10",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/10_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/10_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-11",
+    "name": "Machop",
+    "number": "11",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/11_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/11_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-12",
+    "name": "Solrock",
+    "number": "12",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/12_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/12_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-13",
+    "name": "Latios",
+    "number": "13",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/13_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/13_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-14",
+    "name": "Machoke",
+    "number": "14",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/14_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/14_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-15",
+    "name": "Rhyhorn",
+    "number": "15",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/15_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/15_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-16",
+    "name": "Psychic Energy",
+    "number": "16",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/16_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/16_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-17",
+    "name": "Fighting Energy",
+    "number": "17",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/17_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/17_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-18",
+    "name": "Psychic Energy",
+    "number": "18",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/18_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/18_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-19",
+    "name": "Delcatty",
+    "number": "19",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/19_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/19_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-20",
+    "name": "Acro Bike",
+    "number": "20",
+    "rarity": "Uncommon",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/20_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/20_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-21",
+    "name": "Potion",
+    "number": "21",
+    "rarity": "Common",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/21_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/21_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-22",
+    "name": "Machoke",
+    "number": "22",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/22_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/22_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-23",
+    "name": "Rhyhorn",
+    "number": "23",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/23_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/23_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-24",
+    "name": "Delcatty",
+    "number": "24",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/24_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/24_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-25",
+    "name": "Rhydon",
+    "number": "25",
+    "rarity": "Uncommon",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/25_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/25_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-26",
+    "name": "Solrock",
+    "number": "26",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/26_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/26_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-27",
+    "name": "Skitty",
+    "number": "27",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/27_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/27_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-28",
+    "name": "Machop",
+    "number": "28",
+    "rarity": "Common",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/28_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/28_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-29",
+    "name": "Psychic Energy",
+    "number": "29",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/29_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/29_large.webp"
+  },
+  {
+    "id": "tk-xy-latio-30",
+    "name": "Latios",
+    "number": "30",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/tk-xy-latio/cards/30_small.webp",
+    "local_image_large": "assets/sets/tk-xy-latio/cards/30_large.webp"
+  }
+]
