@@ -1,0 +1,434 @@
+[
+  {
+    "id": "sve-001",
+    "name": "Grass Energy",
+    "number": "001",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/001_small.webp",
+    "local_image_large": "assets/sets/sve/cards/001_large.webp"
+  },
+  {
+    "id": "sve-002",
+    "name": "Fire Energy",
+    "number": "002",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/002_small.webp",
+    "local_image_large": "assets/sets/sve/cards/002_large.webp"
+  },
+  {
+    "id": "sve-003",
+    "name": "Water Energy",
+    "number": "003",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/003_small.webp",
+    "local_image_large": "assets/sets/sve/cards/003_large.webp"
+  },
+  {
+    "id": "sve-004",
+    "name": "Lightning Energy",
+    "number": "004",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/004_small.webp",
+    "local_image_large": "assets/sets/sve/cards/004_large.webp"
+  },
+  {
+    "id": "sve-005",
+    "name": "Psychic Energy",
+    "number": "005",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/005_small.webp",
+    "local_image_large": "assets/sets/sve/cards/005_large.webp"
+  },
+  {
+    "id": "sve-006",
+    "name": "Fighting Energy",
+    "number": "006",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/006_small.webp",
+    "local_image_large": "assets/sets/sve/cards/006_large.webp"
+  },
+  {
+    "id": "sve-007",
+    "name": "Darkness Energy",
+    "number": "007",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/007_small.webp",
+    "local_image_large": "assets/sets/sve/cards/007_large.webp"
+  },
+  {
+    "id": "sve-008",
+    "name": "Metal Energy",
+    "number": "008",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/008_small.webp",
+    "local_image_large": "assets/sets/sve/cards/008_large.webp"
+  },
+  {
+    "id": "sve-009",
+    "name": "Grass Energy",
+    "number": "009",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/009_small.webp",
+    "local_image_large": "assets/sets/sve/cards/009_large.webp"
+  },
+  {
+    "id": "sve-010",
+    "name": "Fire Energy",
+    "number": "010",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/010_small.webp",
+    "local_image_large": "assets/sets/sve/cards/010_large.webp"
+  },
+  {
+    "id": "sve-011",
+    "name": "Water Energy",
+    "number": "011",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/011_small.webp",
+    "local_image_large": "assets/sets/sve/cards/011_large.webp"
+  },
+  {
+    "id": "sve-012",
+    "name": "Lightning Energy",
+    "number": "012",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/012_small.webp",
+    "local_image_large": "assets/sets/sve/cards/012_large.webp"
+  },
+  {
+    "id": "sve-013",
+    "name": "Psychic Energy",
+    "number": "013",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/013_small.webp",
+    "local_image_large": "assets/sets/sve/cards/013_large.webp"
+  },
+  {
+    "id": "sve-014",
+    "name": "Fighting Energy",
+    "number": "014",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/014_small.webp",
+    "local_image_large": "assets/sets/sve/cards/014_large.webp"
+  },
+  {
+    "id": "sve-015",
+    "name": "Darkness Energy",
+    "number": "015",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/015_small.webp",
+    "local_image_large": "assets/sets/sve/cards/015_large.webp"
+  },
+  {
+    "id": "sve-016",
+    "name": "Metal Energy",
+    "number": "016",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/016_small.webp",
+    "local_image_large": "assets/sets/sve/cards/016_large.webp"
+  },
+  {
+    "id": "sve-017",
+    "name": "Grass Energy",
+    "number": "017",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/017_small.webp",
+    "local_image_large": "assets/sets/sve/cards/017_large.webp"
+  },
+  {
+    "id": "sve-018",
+    "name": "Fire Energy",
+    "number": "018",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/018_small.webp",
+    "local_image_large": "assets/sets/sve/cards/018_large.webp"
+  },
+  {
+    "id": "sve-019",
+    "name": "Water Energy",
+    "number": "019",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/019_small.webp",
+    "local_image_large": "assets/sets/sve/cards/019_large.webp"
+  },
+  {
+    "id": "sve-020",
+    "name": "Lightning Energy",
+    "number": "020",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/020_small.webp",
+    "local_image_large": "assets/sets/sve/cards/020_large.webp"
+  },
+  {
+    "id": "sve-021",
+    "name": "Psychic Energy",
+    "number": "021",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/021_small.webp",
+    "local_image_large": "assets/sets/sve/cards/021_large.webp"
+  },
+  {
+    "id": "sve-022",
+    "name": "Fighting Energy",
+    "number": "022",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/022_small.webp",
+    "local_image_large": "assets/sets/sve/cards/022_large.webp"
+  },
+  {
+    "id": "sve-023",
+    "name": "Darkness Energy",
+    "number": "023",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/023_small.webp",
+    "local_image_large": "assets/sets/sve/cards/023_large.webp"
+  },
+  {
+    "id": "sve-024",
+    "name": "Metal Energy",
+    "number": "024",
+    "rarity": "Common",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "language": "en",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/sve/cards/024_small.webp",
+    "local_image_large": "assets/sets/sve/cards/024_large.webp"
+  }
+]

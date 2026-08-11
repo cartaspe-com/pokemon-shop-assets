@@ -11,9 +11,11 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/001_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/001_large.webp"
@@ -30,9 +32,11 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/002_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/002_large.webp"
@@ -68,9 +72,11 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/004_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/004_large.webp"
@@ -87,9 +93,11 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/005_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/005_large.webp"
@@ -106,9 +114,11 @@
     "hp": "150",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/006_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/006_large.webp"
@@ -125,9 +135,11 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/007_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/007_large.webp"
@@ -144,9 +156,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/008_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/008_large.webp"
@@ -163,9 +177,11 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/009_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/009_large.webp"
@@ -201,9 +217,11 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/011_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/011_large.webp"
@@ -220,9 +238,11 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/012_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/012_large.webp"
@@ -239,9 +259,11 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/013_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/013_large.webp"
@@ -258,9 +280,11 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/014_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/014_large.webp"
@@ -277,9 +301,11 @@
     "hp": "140",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/015_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/015_large.webp"
@@ -296,9 +322,11 @@
     "hp": "30",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/016_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/016_large.webp"
@@ -315,9 +343,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/017_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/017_large.webp"
@@ -334,9 +364,11 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/018_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/018_large.webp"
@@ -353,9 +385,11 @@
     "hp": "130",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/019_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/019_large.webp"
@@ -372,9 +406,11 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/020_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/020_large.webp"
@@ -391,9 +427,11 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/021_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/021_large.webp"
@@ -429,9 +467,11 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/023_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/023_large.webp"
@@ -448,9 +488,11 @@
     "hp": "130",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/024_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/024_large.webp"
@@ -467,9 +509,11 @@
     "hp": "140",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/025_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/025_large.webp"
@@ -505,9 +549,11 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/027_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/027_large.webp"
@@ -524,9 +570,11 @@
     "hp": "140",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/028_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/028_large.webp"
@@ -543,9 +591,11 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/029_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/029_large.webp"
@@ -562,9 +612,11 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/030_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/030_large.webp"
@@ -600,9 +652,11 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/032_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/032_large.webp"
@@ -619,9 +673,11 @@
     "hp": "140",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/033_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/033_large.webp"
@@ -638,9 +694,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/034_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/034_large.webp"
@@ -657,9 +715,11 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/035_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/035_large.webp"
@@ -676,9 +736,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/036_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/036_large.webp"
@@ -695,9 +757,11 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/037_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/037_large.webp"
@@ -733,9 +797,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/039_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/039_large.webp"
@@ -752,9 +818,11 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/040_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/040_large.webp"
@@ -771,9 +839,11 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/041_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/041_large.webp"
@@ -790,9 +860,11 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/042_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/042_large.webp"
@@ -828,9 +900,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/044_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/044_large.webp"
@@ -847,9 +921,11 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/045_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/045_large.webp"
@@ -866,9 +942,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/046_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/046_large.webp"
@@ -923,9 +1001,11 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/049_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/049_large.webp"
@@ -942,9 +1022,11 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/050_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/050_large.webp"
@@ -961,9 +1043,11 @@
     "hp": "150",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/051_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/051_large.webp"
@@ -980,9 +1064,11 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/052_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/052_large.webp"
@@ -999,9 +1085,11 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/053_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/053_large.webp"
@@ -1018,9 +1106,11 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/054_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/054_large.webp"
@@ -1037,9 +1127,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/055_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/055_large.webp"
@@ -1056,9 +1148,11 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/056_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/056_large.webp"
@@ -1113,9 +1207,11 @@
     "hp": "40",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/059_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/059_large.webp"
@@ -1132,9 +1228,11 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/060_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/060_large.webp"
@@ -1170,9 +1268,11 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/062_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/062_large.webp"
@@ -1189,9 +1289,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/063_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/063_large.webp"
@@ -1208,9 +1310,11 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/064_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/064_large.webp"
@@ -1227,9 +1331,11 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/065_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/065_large.webp"
@@ -1246,9 +1352,11 @@
     "hp": "160",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/066_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/066_large.webp"
@@ -1265,9 +1373,11 @@
     "hp": "120",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/067_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/067_large.webp"
@@ -1303,9 +1413,11 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/069_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/069_large.webp"
@@ -1341,9 +1453,11 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/071_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/071_large.webp"
@@ -1360,9 +1474,11 @@
     "hp": "120",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/072_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/072_large.webp"
@@ -1398,9 +1514,11 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/074_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/074_large.webp"
@@ -1417,9 +1535,11 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/075_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/075_large.webp"
@@ -1455,9 +1575,11 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/077_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/077_large.webp"
@@ -1474,9 +1596,11 @@
     "hp": "140",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/078_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/078_large.webp"
@@ -1512,9 +1636,11 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/080_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/080_large.webp"
@@ -1531,9 +1657,11 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/081_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/081_large.webp"
@@ -1550,9 +1678,11 @@
     "hp": "140",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/082_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/082_large.webp"
@@ -1569,9 +1699,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/083_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/083_large.webp"
@@ -1607,9 +1739,11 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/085_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/085_large.webp"
@@ -1626,9 +1760,11 @@
     "hp": "110",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/086_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/086_large.webp"
@@ -1645,9 +1781,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/087_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/087_large.webp"
@@ -1664,9 +1802,11 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/088_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/088_large.webp"
@@ -1702,9 +1842,11 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/090_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/090_large.webp"
@@ -1721,9 +1863,11 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/091_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/091_large.webp"
@@ -1740,9 +1884,11 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/092_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/092_large.webp"
@@ -1759,9 +1905,11 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/093_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/093_large.webp"
@@ -1778,9 +1926,11 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/094_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/094_large.webp"
@@ -1797,9 +1947,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/095_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/095_large.webp"
@@ -1816,9 +1968,11 @@
     "hp": "140",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/096_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/096_large.webp"
@@ -1835,9 +1989,11 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/097_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/097_large.webp"
@@ -1854,9 +2010,11 @@
     "hp": "120",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/098_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/098_large.webp"
@@ -1873,9 +2031,11 @@
     "hp": "110",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/099_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/099_large.webp"
@@ -1892,9 +2052,11 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/100_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/100_large.webp"
@@ -1911,9 +2073,11 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/101_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/101_large.webp"
@@ -1930,9 +2094,11 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/102_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/102_large.webp"
@@ -1949,9 +2115,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/103_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/103_large.webp"
@@ -1968,9 +2136,11 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/104_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/104_large.webp"
@@ -1987,9 +2157,11 @@
     "hp": "110",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/105_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/105_large.webp"
@@ -2006,9 +2178,11 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/106_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/106_large.webp"
@@ -2044,9 +2218,11 @@
     "hp": "140",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/108_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/108_large.webp"
@@ -2063,9 +2239,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/109_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/109_large.webp"
@@ -2082,9 +2260,11 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/110_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/110_large.webp"
@@ -2120,9 +2300,11 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/112_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/112_large.webp"
@@ -2177,9 +2359,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/115_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/115_large.webp"
@@ -2215,9 +2399,11 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/117_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/117_large.webp"
@@ -2234,9 +2420,11 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/118_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/118_large.webp"
@@ -2253,9 +2441,11 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/119_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/119_large.webp"
@@ -2272,9 +2462,11 @@
     "hp": "180",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/120_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/120_large.webp"
@@ -2310,9 +2502,11 @@
     "hp": "140",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/122_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/122_large.webp"
@@ -2329,9 +2523,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/123_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/123_large.webp"
@@ -2348,9 +2544,11 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/124_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/124_large.webp"
@@ -2386,9 +2584,11 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/126_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/126_large.webp"
@@ -2405,9 +2605,11 @@
     "hp": "130",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/127_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/127_large.webp"
@@ -2424,9 +2626,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/128_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/128_large.webp"
@@ -2443,9 +2647,11 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/129_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/129_large.webp"
@@ -2462,9 +2668,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/130_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/130_large.webp"
@@ -2481,9 +2689,11 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/131_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/131_large.webp"
@@ -2500,9 +2710,11 @@
     "hp": "170",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/132_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/132_large.webp"
@@ -2519,9 +2731,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/133_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/133_large.webp"
@@ -2538,9 +2752,11 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/134_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/134_large.webp"
@@ -2576,9 +2792,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/136_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/136_large.webp"
@@ -2614,9 +2832,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/138_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/138_large.webp"
@@ -2652,9 +2872,11 @@
     "hp": "140",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/140_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/140_large.webp"
@@ -2671,9 +2893,11 @@
     "hp": "120",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/141_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/141_large.webp"
@@ -2709,9 +2933,11 @@
     "hp": "80",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/143_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/143_large.webp"
@@ -2728,9 +2954,11 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/144_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/144_large.webp"
@@ -2766,9 +2994,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/146_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/146_large.webp"
@@ -2785,9 +3015,11 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/147_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/147_large.webp"
@@ -2804,9 +3036,11 @@
     "hp": "170",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/148_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/148_large.webp"
@@ -2842,9 +3076,11 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/150_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/150_large.webp"
@@ -2861,9 +3097,11 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/151_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/151_large.webp"
@@ -2899,9 +3137,11 @@
     "hp": "120",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/153_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/153_large.webp"
@@ -2918,9 +3158,11 @@
     "hp": "130",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/154_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/154_large.webp"
@@ -2937,9 +3179,11 @@
     "hp": "130",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/155_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/155_large.webp"
@@ -2956,9 +3200,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/156_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/156_large.webp"
@@ -2975,9 +3221,11 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/157_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/157_large.webp"
@@ -2994,9 +3242,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/158_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/158_large.webp"
@@ -3013,9 +3263,11 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/159_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/159_large.webp"
@@ -3051,9 +3303,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/161_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/161_large.webp"
@@ -3089,9 +3343,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/163_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/163_large.webp"
@@ -3127,9 +3383,11 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/165_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/165_large.webp"
@@ -3146,9 +3404,11 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/166_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/166_large.webp"
@@ -3184,9 +3444,11 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/168_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/168_large.webp"
@@ -3203,9 +3465,11 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/169_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/169_large.webp"
@@ -3222,9 +3486,11 @@
     "hp": "150",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/170_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/170_large.webp"
@@ -3241,9 +3507,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/171_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/171_large.webp"
@@ -3279,9 +3547,11 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/173_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/173_large.webp"
@@ -3298,9 +3568,11 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/174_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/174_large.webp"
@@ -3317,9 +3589,11 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/175_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/175_large.webp"
@@ -3336,9 +3610,11 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/176_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/176_large.webp"
@@ -3355,9 +3631,11 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/177_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/177_large.webp"
@@ -3374,9 +3652,11 @@
     "hp": "120",
     "variants": {
       "normal": false,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/178_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/178_large.webp"
@@ -3410,9 +3690,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/180_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/180_large.webp"
@@ -3427,9 +3709,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/181_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/181_large.webp"
@@ -3444,9 +3728,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/182_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/182_large.webp"
@@ -3461,9 +3747,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/183_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/183_large.webp"
@@ -3478,9 +3766,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/184_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/184_large.webp"
@@ -3495,9 +3785,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/185_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/185_large.webp"
@@ -3512,9 +3804,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/186_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/186_large.webp"
@@ -3529,9 +3823,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/187_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/187_large.webp"
@@ -3546,9 +3842,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/188_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/188_large.webp"
@@ -3563,9 +3861,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/189_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/189_large.webp"
@@ -3580,9 +3880,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/190_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/190_large.webp"
@@ -3597,9 +3899,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/191_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/191_large.webp"
@@ -3614,9 +3918,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/192_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/192_large.webp"
@@ -3631,9 +3937,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/193_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/193_large.webp"
@@ -3648,9 +3956,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/194_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/194_large.webp"
@@ -3665,9 +3975,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/195_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/195_large.webp"
@@ -3682,9 +3994,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/196_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/196_large.webp"
@@ -3699,9 +4013,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/197_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/197_large.webp"
@@ -3716,9 +4032,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/198_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/198_large.webp"
@@ -3733,9 +4051,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/199_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/199_large.webp"
@@ -3750,9 +4070,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/200_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/200_large.webp"
@@ -3767,9 +4089,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/201_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/201_large.webp"
@@ -3784,9 +4108,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/202_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/202_large.webp"
@@ -3801,9 +4127,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/203_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/203_large.webp"
@@ -3818,9 +4146,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/204_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/204_large.webp"
@@ -3835,9 +4165,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/205_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/205_large.webp"
@@ -3852,9 +4184,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/206_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/206_large.webp"
@@ -3869,9 +4203,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/207_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/207_large.webp"
@@ -3886,9 +4222,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/208_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/208_large.webp"
@@ -3903,9 +4241,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/209_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/209_large.webp"
@@ -3920,9 +4260,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/210_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/210_large.webp"
@@ -3937,9 +4279,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/211_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/211_large.webp"
@@ -3954,9 +4298,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/212_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/212_large.webp"
@@ -3971,9 +4317,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/213_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/213_large.webp"
@@ -3988,9 +4336,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/214_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/214_large.webp"
@@ -4005,9 +4355,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/215_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/215_large.webp"
@@ -4022,9 +4374,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/216_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/216_large.webp"
@@ -4039,9 +4393,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": true,
+      "reverse_holo": false,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true,
+      "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/217_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/217_large.webp"
