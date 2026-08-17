@@ -1,0 +1,560 @@
+[
+  {
+    "id": "swsh11.5tg-TG01",
+    "name": "Parasect",
+    "number": "TG01",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG01_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG01_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG02",
+    "name": "Roserade",
+    "number": "TG02",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG02_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG02_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG03",
+    "name": "Charizard",
+    "number": "TG03",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "170",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG03_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG03_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG04",
+    "name": "Chandelure",
+    "number": "TG04",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "150",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG04_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG04_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG05",
+    "name": "Pikachu",
+    "number": "TG05",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG05_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG05_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG06",
+    "name": "Gengar",
+    "number": "TG06",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG06_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG06_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG07",
+    "name": "Banette",
+    "number": "TG07",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG07_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG07_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG08",
+    "name": "Hisuian Arcanine",
+    "number": "TG08",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "130",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG08_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG08_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG09",
+    "name": "Spiritomb",
+    "number": "TG09",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG09_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG09_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG10",
+    "name": "Snorlax",
+    "number": "TG10",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "150",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG10_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG10_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG11",
+    "name": "Castform",
+    "number": "TG11",
+    "rarity": "Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG11_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG11_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG12",
+    "name": "Orbeetle V",
+    "number": "TG12",
+    "rarity": "Ultra Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "180",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG12_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG12_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG13",
+    "name": "Orbeetle VMAX",
+    "number": "TG13",
+    "rarity": "Ultra Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "310",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG13_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG13_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG14",
+    "name": "Centiskorch V",
+    "number": "TG14",
+    "rarity": "Ultra Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "210",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG14_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG14_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG15",
+    "name": "Centiskorch VMAX",
+    "number": "TG15",
+    "rarity": "Ultra Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "320",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG15_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG15_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG16",
+    "name": "Pikachu V",
+    "number": "TG16",
+    "rarity": "Ultra Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "190",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG16_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG16_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG17",
+    "name": "Pikachu VMAX",
+    "number": "TG17",
+    "rarity": "Ultra Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "310",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG17_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG17_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG18",
+    "name": "Enamorus V",
+    "number": "TG18",
+    "rarity": "Ultra Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "210",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG18_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG18_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG19",
+    "name": "Gallade V",
+    "number": "TG19",
+    "rarity": "Ultra Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "220",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG19_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG19_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG20",
+    "name": "Crobat V",
+    "number": "TG20",
+    "rarity": "Ultra Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "180",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG20_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG20_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG21",
+    "name": "Eternatus V",
+    "number": "TG21",
+    "rarity": "Ultra Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "220",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG21_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG21_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG22",
+    "name": "Eternatus VMAX",
+    "number": "TG22",
+    "rarity": "Ultra Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "340",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG22_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG22_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG23",
+    "name": "Adventurer's Discovery",
+    "number": "TG23",
+    "rarity": "Ultra Rare",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG23_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG23_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG24",
+    "name": "Boss's Orders",
+    "number": "TG24",
+    "rarity": "Ultra Rare",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG24_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG24_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG25",
+    "name": "Cook",
+    "number": "TG25",
+    "rarity": "Ultra Rare",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG25_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG25_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG26",
+    "name": "Kabu",
+    "number": "TG26",
+    "rarity": "Ultra Rare",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG26_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG26_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG27",
+    "name": "Nessa",
+    "number": "TG27",
+    "rarity": "Ultra Rare",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG27_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG27_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG28",
+    "name": "Opal",
+    "number": "TG28",
+    "rarity": "Ultra Rare",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG28_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG28_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG29",
+    "name": "Pikachu VMAX",
+    "number": "TG29",
+    "rarity": "Secret Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "310",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG29_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG29_large.webp"
+  },
+  {
+    "id": "swsh11.5tg-TG30",
+    "name": "Mew VMAX",
+    "number": "TG30",
+    "rarity": "Secret Rare",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "310",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/swsh11.5tg/cards/TG30_small.webp",
+    "local_image_large": "assets/sets/swsh11.5tg/cards/TG30_large.webp"
+  }
+]

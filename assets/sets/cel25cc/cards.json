@@ -1,0 +1,471 @@
+[
+  {
+    "id": "cel25cc-CC001",
+    "name": "Blastoise",
+    "number": "CC001",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC001_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC001_large.webp"
+  },
+  {
+    "id": "cel25cc-CC002",
+    "name": "Charizard",
+    "number": "CC002",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC002_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC002_large.webp"
+  },
+  {
+    "id": "cel25cc-CC003",
+    "name": "Venusaur",
+    "number": "CC003",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC003_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC003_large.webp"
+  },
+  {
+    "id": "cel25cc-CC004",
+    "name": "Imposter Professor Oak",
+    "number": "CC004",
+    "rarity": "Classic Collection",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC004_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC004_large.webp"
+  },
+  {
+    "id": "cel25cc-CC005",
+    "name": "Dark Gyarados",
+    "number": "CC005",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC005_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC005_large.webp"
+  },
+  {
+    "id": "cel25cc-CC006",
+    "name": "Here Comes Team Rocket!",
+    "number": "CC006",
+    "rarity": "Classic Collection",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC006_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC006_large.webp"
+  },
+  {
+    "id": "cel25cc-CC007",
+    "name": "Rocket's Zapdos",
+    "number": "CC007",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC007_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC007_large.webp"
+  },
+  {
+    "id": "cel25cc-CC008",
+    "name": "_____'s Pikachu",
+    "number": "CC008",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC008_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC008_large.webp"
+  },
+  {
+    "id": "cel25cc-CC009",
+    "name": "Cleffa",
+    "number": "CC009",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "30",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC009_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC009_large.webp"
+  },
+  {
+    "id": "cel25cc-CC010",
+    "name": "Shining Magikarp",
+    "number": "CC010",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "30",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC010_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC010_large.webp"
+  },
+  {
+    "id": "cel25cc-CC011",
+    "name": "Team Magma's Groudon",
+    "number": "CC011",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC011_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC011_large.webp"
+  },
+  {
+    "id": "cel25cc-CC012",
+    "name": "Rocket's Admin.",
+    "number": "CC012",
+    "rarity": "Classic Collection",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC012_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC012_large.webp"
+  },
+  {
+    "id": "cel25cc-CC013",
+    "name": "Mew ex",
+    "number": "CC013",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC013_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC013_large.webp"
+  },
+  {
+    "id": "cel25cc-CC014",
+    "name": "Gardevoir ex",
+    "number": "CC014",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "150",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC014_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC014_large.webp"
+  },
+  {
+    "id": "cel25cc-CC015",
+    "name": "Umbreon ☆",
+    "number": "CC015",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC015_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC015_large.webp"
+  },
+  {
+    "id": "cel25cc-CC016",
+    "name": "Claydol",
+    "number": "CC016",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC016_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC016_large.webp"
+  },
+  {
+    "id": "cel25cc-CC017",
+    "name": "Luxray GL LV.X",
+    "number": "CC017",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC017_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC017_large.webp"
+  },
+  {
+    "id": "cel25cc-CC018",
+    "name": "Garchomp C LV.X",
+    "number": "CC018",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC018_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC018_large.webp"
+  },
+  {
+    "id": "cel25cc-CC019",
+    "name": "Donphan",
+    "number": "CC019",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC019_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC019_large.webp"
+  },
+  {
+    "id": "cel25cc-CC020",
+    "name": "Reshiram",
+    "number": "CC020",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "130",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC020_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC020_large.webp"
+  },
+  {
+    "id": "cel25cc-CC021",
+    "name": "Zekrom",
+    "number": "CC021",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "130",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC021_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC021_large.webp"
+  },
+  {
+    "id": "cel25cc-CC022",
+    "name": "Mewtwo EX",
+    "number": "CC022",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "170",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC022_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC022_large.webp"
+  },
+  {
+    "id": "cel25cc-CC023",
+    "name": "Xerneas EX",
+    "number": "CC023",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "170",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC023_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC023_large.webp"
+  },
+  {
+    "id": "cel25cc-CC024",
+    "name": "M Rayquaza EX",
+    "number": "CC024",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "220",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC024_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC024_large.webp"
+  },
+  {
+    "id": "cel25cc-CC025",
+    "name": "Tapu Lele GX",
+    "number": "CC025",
+    "rarity": "Classic Collection",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "170",
+    "variants": {
+      "normal": false,
+      "reverse_holo": false,
+      "holo": true,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/cel25cc/cards/CC025_small.webp",
+    "local_image_large": "assets/sets/cel25cc/cards/CC025_large.webp"
+  }
+]
