@@ -1,0 +1,636 @@
+[
+  {
+    "id": "mfb-1",
+    "name": "Bulbasaur",
+    "number": "1",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/1_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/1_large.webp"
+  },
+  {
+    "id": "mfb-2",
+    "name": "Ivysaur",
+    "number": "2",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/2_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/2_large.webp"
+  },
+  {
+    "id": "mfb-3",
+    "name": "Oddish",
+    "number": "3",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/3_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/3_large.webp"
+  },
+  {
+    "id": "mfb-4",
+    "name": "Gloom",
+    "number": "4",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/4_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/4_large.webp"
+  },
+  {
+    "id": "mfb-5",
+    "name": "Exeggcute",
+    "number": "5",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/5_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/5_large.webp"
+  },
+  {
+    "id": "mfb-6",
+    "name": "Exeggutor",
+    "number": "6",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/6_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/6_large.webp"
+  },
+  {
+    "id": "mfb-7",
+    "name": "Scyther",
+    "number": "7",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/7_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/7_large.webp"
+  },
+  {
+    "id": "mfb-8",
+    "name": "Grass Energy",
+    "number": "8",
+    "rarity": "None",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/8_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/8_large.webp"
+  },
+  {
+    "id": "mfb-9",
+    "name": "Charmander",
+    "number": "9",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/9_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/9_large.webp"
+  },
+  {
+    "id": "mfb-10",
+    "name": "Charmeleon",
+    "number": "10",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/10_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/10_large.webp"
+  },
+  {
+    "id": "mfb-11",
+    "name": "Vulpix",
+    "number": "11",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/11_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/11_large.webp"
+  },
+  {
+    "id": "mfb-12",
+    "name": "Ninetales",
+    "number": "12",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/12_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/12_large.webp"
+  },
+  {
+    "id": "mfb-13",
+    "name": "Growlithe",
+    "number": "13",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/13_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/13_large.webp"
+  },
+  {
+    "id": "mfb-14",
+    "name": "Arcanine",
+    "number": "14",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "140",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/14_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/14_large.webp"
+  },
+  {
+    "id": "mfb-15",
+    "name": "Magmar",
+    "number": "15",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/15_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/15_large.webp"
+  },
+  {
+    "id": "mfb-16",
+    "name": "Fire Energy",
+    "number": "16",
+    "rarity": "None",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/16_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/16_large.webp"
+  },
+  {
+    "id": "mfb-17",
+    "name": "Pikachu",
+    "number": "17",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/17_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/17_large.webp"
+  },
+  {
+    "id": "mfb-18",
+    "name": "Raichu",
+    "number": "18",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/18_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/18_large.webp"
+  },
+  {
+    "id": "mfb-19",
+    "name": "Magnemite",
+    "number": "19",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/19_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/19_large.webp"
+  },
+  {
+    "id": "mfb-20",
+    "name": "Magneton",
+    "number": "20",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/20_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/20_large.webp"
+  },
+  {
+    "id": "mfb-21",
+    "name": "Voltorb",
+    "number": "21",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/21_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/21_large.webp"
+  },
+  {
+    "id": "mfb-22",
+    "name": "Electrode",
+    "number": "22",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/22_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/22_large.webp"
+  },
+  {
+    "id": "mfb-23",
+    "name": "Electabuzz",
+    "number": "23",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/23_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/23_large.webp"
+  },
+  {
+    "id": "mfb-24",
+    "name": "Lightning Energy",
+    "number": "24",
+    "rarity": "None",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/24_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/24_large.webp"
+  },
+  {
+    "id": "mfb-25",
+    "name": "Squirtle",
+    "number": "25",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/25_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/25_large.webp"
+  },
+  {
+    "id": "mfb-26",
+    "name": "Wartortle",
+    "number": "26",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/26_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/26_large.webp"
+  },
+  {
+    "id": "mfb-27",
+    "name": "Poliwag",
+    "number": "27",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/27_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/27_large.webp"
+  },
+  {
+    "id": "mfb-28",
+    "name": "Poliwhirl",
+    "number": "28",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "90",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/28_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/28_large.webp"
+  },
+  {
+    "id": "mfb-29",
+    "name": "Magikarp",
+    "number": "29",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "30",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/29_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/29_large.webp"
+  },
+  {
+    "id": "mfb-30",
+    "name": "Gyarados",
+    "number": "30",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "160",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/30_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/30_large.webp"
+  },
+  {
+    "id": "mfb-31",
+    "name": "Lapras",
+    "number": "31",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/31_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/31_large.webp"
+  },
+  {
+    "id": "mfb-32",
+    "name": "Water Energy",
+    "number": "32",
+    "rarity": "None",
+    "supertype": "Energy",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/32_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/32_large.webp"
+  },
+  {
+    "id": "mfb-33",
+    "name": "Potion",
+    "number": "33",
+    "rarity": "None",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/33_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/33_large.webp"
+  },
+  {
+    "id": "mfb-34",
+    "name": "Switch",
+    "number": "34",
+    "rarity": "None",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/mfb/cards/34_small.webp",
+    "local_image_large": "assets/sets/mfb/cards/34_large.webp"
+  }
+]
