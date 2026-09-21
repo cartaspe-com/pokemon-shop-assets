@@ -1,0 +1,568 @@
+[
+  {
+    "id": "30th-c-001",
+    "name": "Charizard",
+    "number": "001",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fire"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/001_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/001_large.webp"
+  },
+  {
+    "id": "30th-c-002",
+    "name": "Delcatty",
+    "number": "002",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/002_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/002_large.webp"
+  },
+  {
+    "id": "30th-c-003",
+    "name": "Metagross",
+    "number": "003",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "100",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/003_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/003_large.webp"
+  },
+  {
+    "id": "30th-c-004",
+    "name": "Genesect EX",
+    "number": "004",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "170",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/004_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/004_large.webp"
+  },
+  {
+    "id": "30th-c-005",
+    "name": "Misty",
+    "number": "005",
+    "rarity": "None",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/005_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/005_large.webp"
+  },
+  {
+    "id": "30th-c-006",
+    "name": "Dark Tyranitar",
+    "number": "006",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/006_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/006_large.webp"
+  },
+  {
+    "id": "30th-c-007",
+    "name": "Sneasel",
+    "number": "007",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Darkness"
+    ],
+    "hp": "60",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/007_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/007_large.webp"
+  },
+  {
+    "id": "30th-c-008",
+    "name": "Pikachu & Zekrom GX",
+    "number": "008",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "240",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/008_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/008_large.webp"
+  },
+  {
+    "id": "30th-c-009",
+    "name": "Greninja BREAK",
+    "number": "009",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "170",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/009_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/009_large.webp"
+  },
+  {
+    "id": "30th-c-010",
+    "name": "Uxie",
+    "number": "010",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "70",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/010_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/010_large.webp"
+  },
+  {
+    "id": "30th-c-011",
+    "name": "Crobat G",
+    "number": "011",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/011_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/011_large.webp"
+  },
+  {
+    "id": "30th-c-012",
+    "name": "Raikou",
+    "number": "012",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "110",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/012_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/012_large.webp"
+  },
+  {
+    "id": "30th-c-013",
+    "name": "Buzzwole GX",
+    "number": "013",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fighting"
+    ],
+    "hp": "190",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/013_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/013_large.webp"
+  },
+  {
+    "id": "30th-c-014",
+    "name": "Pikachu",
+    "number": "014",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Lightning"
+    ],
+    "hp": "40",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/014_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/014_large.webp"
+  },
+  {
+    "id": "30th-c-015",
+    "name": "Erika's Jigglypuff",
+    "number": "015",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/015_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/015_large.webp"
+  },
+  {
+    "id": "30th-c-016",
+    "name": "Rayquaza EX",
+    "number": "016",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Dragon"
+    ],
+    "hp": "170",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/016_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/016_large.webp"
+  },
+  {
+    "id": "30th-c-017",
+    "name": "Solgaleo GX",
+    "number": "017",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Metal"
+    ],
+    "hp": "250",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/017_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/017_large.webp"
+  },
+  {
+    "id": "30th-c-018",
+    "name": "Gengar",
+    "number": "018",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "130",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/018_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/018_large.webp"
+  },
+  {
+    "id": "30th-c-019",
+    "name": "Darkrai & Cresselia LEGEND",
+    "number": "019",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "150",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/019_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/019_large.webp"
+  },
+  {
+    "id": "30th-c-020",
+    "name": "Darkrai & Cresselia LEGEND",
+    "number": "020",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "150",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/020_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/020_large.webp"
+  },
+  {
+    "id": "30th-c-021",
+    "name": "N",
+    "number": "021",
+    "rarity": "None",
+    "supertype": "Trainer",
+    "types": [],
+    "hp": "",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/021_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/021_large.webp"
+  },
+  {
+    "id": "30th-c-022",
+    "name": "Palkia",
+    "number": "022",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/022_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/022_large.webp"
+  },
+  {
+    "id": "30th-c-023",
+    "name": "M Gardevoir EX",
+    "number": "023",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Fairy"
+    ],
+    "hp": "210",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/023_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/023_large.webp"
+  },
+  {
+    "id": "30th-c-024",
+    "name": "Shining Celebi",
+    "number": "024",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Grass"
+    ],
+    "hp": "50",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/024_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/024_large.webp"
+  },
+  {
+    "id": "30th-c-025",
+    "name": "Scizor ex",
+    "number": "025",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Metal"
+    ],
+    "hp": "120",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/025_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/025_large.webp"
+  },
+  {
+    "id": "30th-c-026",
+    "name": "Mew VMAX",
+    "number": "026",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Psychic"
+    ],
+    "hp": "310",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/026_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/026_large.webp"
+  },
+  {
+    "id": "30th-c-027",
+    "name": "Arceus VSTAR",
+    "number": "027",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "280",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/027_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/027_large.webp"
+  },
+  {
+    "id": "30th-c-028",
+    "name": "Zacian V",
+    "number": "028",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Metal"
+    ],
+    "hp": "220",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/028_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/028_large.webp"
+  },
+  {
+    "id": "30th-c-029",
+    "name": "Lugia",
+    "number": "029",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Colorless"
+    ],
+    "hp": "80",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/029_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/029_large.webp"
+  },
+  {
+    "id": "30th-c-030",
+    "name": "Magikarp",
+    "number": "030",
+    "rarity": "None",
+    "supertype": "Pokemon",
+    "types": [
+      "Water"
+    ],
+    "hp": "30",
+    "variants": {
+      "normal": true,
+      "reverse_holo": false,
+      "holo": false,
+      "first_edition": false
+    },
+    "local_image_small": "assets/sets/30th-c/cards/030_small.webp",
+    "local_image_large": "assets/sets/30th-c/cards/030_large.webp"
+  }
+]

@@ -1,0 +1,1626 @@
+[
+  {
+    "id": "m2-inferno-x-001",
+    "name": "Oddish",
+    "number": "001",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044531.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044531.jpg"
+  },
+  {
+    "id": "m2-inferno-x-002",
+    "name": "Gloom",
+    "number": "002",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044606.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044606.jpg"
+  },
+  {
+    "id": "m2-inferno-x-003",
+    "name": "Vileplume",
+    "number": "003",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044579.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044579.jpg"
+  },
+  {
+    "id": "m2-inferno-x-004",
+    "name": "Mega Heracross ex - 004/080",
+    "number": "004",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044193.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044193.jpg"
+  },
+  {
+    "id": "m2-inferno-x-005",
+    "name": "Lotad",
+    "number": "005",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044583.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044583.jpg"
+  },
+  {
+    "id": "m2-inferno-x-006",
+    "name": "Lombre",
+    "number": "006",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044607.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044607.jpg"
+  },
+  {
+    "id": "m2-inferno-x-007",
+    "name": "Ludicolo - 007/080",
+    "number": "007",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044574.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044574.jpg"
+  },
+  {
+    "id": "m2-inferno-x-008",
+    "name": "Genesect",
+    "number": "008",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044565.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044565.jpg"
+  },
+  {
+    "id": "m2-inferno-x-009",
+    "name": "Nymble - 009/080",
+    "number": "009",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044528.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044528.jpg"
+  },
+  {
+    "id": "m2-inferno-x-010",
+    "name": "Lokix",
+    "number": "010",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044540.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044540.jpg"
+  },
+  {
+    "id": "m2-inferno-x-011",
+    "name": "Charmander",
+    "number": "011",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044525.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044525.jpg"
+  },
+  {
+    "id": "m2-inferno-x-012",
+    "name": "Charmeleon",
+    "number": "012",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044541.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044541.jpg"
+  },
+  {
+    "id": "m2-inferno-x-013",
+    "name": "Mega Charizard X ex - 013/080",
+    "number": "013",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044166.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044166.jpg"
+  },
+  {
+    "id": "m2-inferno-x-014",
+    "name": "Moltres",
+    "number": "014",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044536.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044536.jpg"
+  },
+  {
+    "id": "m2-inferno-x-015",
+    "name": "Darumaka",
+    "number": "015",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044537.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044537.jpg"
+  },
+  {
+    "id": "m2-inferno-x-016",
+    "name": "Darmanitan",
+    "number": "016",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044572.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044572.jpg"
+  },
+  {
+    "id": "m2-inferno-x-017",
+    "name": "Reshiram",
+    "number": "017",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044229.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044229.jpg"
+  },
+  {
+    "id": "m2-inferno-x-018",
+    "name": "Oricorio ex - 018/080",
+    "number": "018",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044200.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044200.jpg"
+  },
+  {
+    "id": "m2-inferno-x-019",
+    "name": "Charcadet - 019/080",
+    "number": "019",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044527.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044527.jpg"
+  },
+  {
+    "id": "m2-inferno-x-020",
+    "name": "Ceruledge",
+    "number": "020",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044526.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044526.jpg"
+  },
+  {
+    "id": "m2-inferno-x-021",
+    "name": "Seel",
+    "number": "021",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044573.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044573.jpg"
+  },
+  {
+    "id": "m2-inferno-x-022",
+    "name": "Dewgong - 022/080",
+    "number": "022",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044538.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044538.jpg"
+  },
+  {
+    "id": "m2-inferno-x-023",
+    "name": "Swinub",
+    "number": "023",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044569.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044569.jpg"
+  },
+  {
+    "id": "m2-inferno-x-024",
+    "name": "Piloswine",
+    "number": "024",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044542.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044542.jpg"
+  },
+  {
+    "id": "m2-inferno-x-025",
+    "name": "Mamoswine",
+    "number": "025",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044568.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044568.jpg"
+  },
+  {
+    "id": "m2-inferno-x-026",
+    "name": "Suicune",
+    "number": "026",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044234.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044234.jpg"
+  },
+  {
+    "id": "m2-inferno-x-027",
+    "name": "Piplup - 027/080",
+    "number": "027",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044529.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044529.jpg"
+  },
+  {
+    "id": "m2-inferno-x-028",
+    "name": "Prinplup",
+    "number": "028",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044604.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044604.jpg"
+  },
+  {
+    "id": "m2-inferno-x-029",
+    "name": "Rotom ex - 029/080",
+    "number": "029",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044191.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044191.jpg"
+  },
+  {
+    "id": "m2-inferno-x-030",
+    "name": "Yamper - 030/080",
+    "number": "030",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044535.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044535.jpg"
+  },
+  {
+    "id": "m2-inferno-x-031",
+    "name": "Boltund",
+    "number": "031",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044610.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044610.jpg"
+  },
+  {
+    "id": "m2-inferno-x-032",
+    "name": "Pawmi",
+    "number": "032",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044613.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044613.jpg"
+  },
+  {
+    "id": "m2-inferno-x-033",
+    "name": "Pawmo",
+    "number": "033",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044566.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044566.jpg"
+  },
+  {
+    "id": "m2-inferno-x-034",
+    "name": "Pawmot",
+    "number": "034",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044533.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044533.jpg"
+  },
+  {
+    "id": "m2-inferno-x-035",
+    "name": "Misdreavus",
+    "number": "035",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044877.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044877.jpg"
+  },
+  {
+    "id": "m2-inferno-x-036",
+    "name": "Mismagius ex - 036/080",
+    "number": "036",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044198.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044198.jpg"
+  },
+  {
+    "id": "m2-inferno-x-037",
+    "name": "Cottonee",
+    "number": "037",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044575.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044575.jpg"
+  },
+  {
+    "id": "m2-inferno-x-038",
+    "name": "Whimsicott",
+    "number": "038",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044578.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044578.jpg"
+  },
+  {
+    "id": "m2-inferno-x-039",
+    "name": "Zacian - 039/080",
+    "number": "039",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044226.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044226.jpg"
+  },
+  {
+    "id": "m2-inferno-x-040",
+    "name": "Bramblin",
+    "number": "040",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044878.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044878.jpg"
+  },
+  {
+    "id": "m2-inferno-x-041",
+    "name": "Brambleghast",
+    "number": "041",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044871.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044871.jpg"
+  },
+  {
+    "id": "m2-inferno-x-042",
+    "name": "Paldean Tauros",
+    "number": "042",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044890.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044890.jpg"
+  },
+  {
+    "id": "m2-inferno-x-043",
+    "name": "Gligar",
+    "number": "043",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044895.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044895.jpg"
+  },
+  {
+    "id": "m2-inferno-x-044",
+    "name": "Gliscor",
+    "number": "044",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044611.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044611.jpg"
+  },
+  {
+    "id": "m2-inferno-x-045",
+    "name": "Trapinch",
+    "number": "045",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044570.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044570.jpg"
+  },
+  {
+    "id": "m2-inferno-x-046",
+    "name": "Vibrava",
+    "number": "046",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044608.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044608.jpg"
+  },
+  {
+    "id": "m2-inferno-x-047",
+    "name": "Flygon - 047/080",
+    "number": "047",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044532.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044532.jpg"
+  },
+  {
+    "id": "m2-inferno-x-048",
+    "name": "Sneasel",
+    "number": "048",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044874.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044874.jpg"
+  },
+  {
+    "id": "m2-inferno-x-049",
+    "name": "Weavile",
+    "number": "049",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044605.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044605.jpg"
+  },
+  {
+    "id": "m2-inferno-x-050",
+    "name": "Carvanha",
+    "number": "050",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044872.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044872.jpg"
+  },
+  {
+    "id": "m2-inferno-x-051",
+    "name": "Mega Sharpedo ex - 051/080",
+    "number": "051",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044189.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044189.jpg"
+  },
+  {
+    "id": "m2-inferno-x-052",
+    "name": "Seviper",
+    "number": "052",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044891.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044891.jpg"
+  },
+  {
+    "id": "m2-inferno-x-053",
+    "name": "Sandile",
+    "number": "053",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044896.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044896.jpg"
+  },
+  {
+    "id": "m2-inferno-x-054",
+    "name": "Krokorok",
+    "number": "054",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044576.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044576.jpg"
+  },
+  {
+    "id": "m2-inferno-x-055",
+    "name": "Krookodile",
+    "number": "055",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044892.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044892.jpg"
+  },
+  {
+    "id": "m2-inferno-x-056",
+    "name": "Toxel",
+    "number": "056",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044612.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044612.jpg"
+  },
+  {
+    "id": "m2-inferno-x-057",
+    "name": "Toxtricity - 057/080",
+    "number": "057",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044564.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044564.jpg"
+  },
+  {
+    "id": "m2-inferno-x-058",
+    "name": "Empoleon ex - 058/080",
+    "number": "058",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044192.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044192.jpg"
+  },
+  {
+    "id": "m2-inferno-x-059",
+    "name": "Bronzor",
+    "number": "059",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044581.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044581.jpg"
+  },
+  {
+    "id": "m2-inferno-x-060",
+    "name": "Bronzong",
+    "number": "060",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044873.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044873.jpg"
+  },
+  {
+    "id": "m2-inferno-x-061",
+    "name": "Togedemaru - 061/080",
+    "number": "061",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044876.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044876.jpg"
+  },
+  {
+    "id": "m2-inferno-x-062",
+    "name": "Duraludon",
+    "number": "062",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044534.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044534.jpg"
+  },
+  {
+    "id": "m2-inferno-x-063",
+    "name": "Archaludon",
+    "number": "063",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044875.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044875.jpg"
+  },
+  {
+    "id": "m2-inferno-x-064",
+    "name": "Jigglypuff",
+    "number": "064",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044539.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044539.jpg"
+  },
+  {
+    "id": "m2-inferno-x-065",
+    "name": "Wigglytuff - 065/080",
+    "number": "065",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044580.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044580.jpg"
+  },
+  {
+    "id": "m2-inferno-x-066",
+    "name": "Aipom",
+    "number": "066",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044567.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044567.jpg"
+  },
+  {
+    "id": "m2-inferno-x-067",
+    "name": "Ambipom - 067/080",
+    "number": "067",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044530.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044530.jpg"
+  },
+  {
+    "id": "m2-inferno-x-068",
+    "name": "Smeargle",
+    "number": "068",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044897.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044897.jpg"
+  },
+  {
+    "id": "m2-inferno-x-069",
+    "name": "Zigzagoon",
+    "number": "069",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044879.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044879.jpg"
+  },
+  {
+    "id": "m2-inferno-x-070",
+    "name": "Linoone",
+    "number": "070",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044571.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044571.jpg"
+  },
+  {
+    "id": "m2-inferno-x-071",
+    "name": "Buneary",
+    "number": "071",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044543.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044543.jpg"
+  },
+  {
+    "id": "m2-inferno-x-072",
+    "name": "Mega Lopunny ex - 072/080",
+    "number": "072",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044190.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044190.jpg"
+  },
+  {
+    "id": "m2-inferno-x-073",
+    "name": "Jumbo Ice Cream",
+    "number": "073",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044235.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044235.jpg"
+  },
+  {
+    "id": "m2-inferno-x-074",
+    "name": "Heat Burner - 074/080",
+    "number": "074",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044582.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044582.jpg"
+  },
+  {
+    "id": "m2-inferno-x-075",
+    "name": "Sacred Charm - 075/080",
+    "number": "075",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044577.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044577.jpg"
+  },
+  {
+    "id": "m2-inferno-x-076",
+    "name": "Grimsley's One Move - 076/080",
+    "number": "076",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044893.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044893.jpg"
+  },
+  {
+    "id": "m2-inferno-x-077",
+    "name": "Dawn - 077/080",
+    "number": "077",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044232.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044232.jpg"
+  },
+  {
+    "id": "m2-inferno-x-078",
+    "name": "Firebreather - 078/080",
+    "number": "078",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044609.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044609.jpg"
+  },
+  {
+    "id": "m2-inferno-x-079",
+    "name": "Battle Colosseum - 079/080",
+    "number": "079",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044237.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044237.jpg"
+  },
+  {
+    "id": "m2-inferno-x-080",
+    "name": "Dizzying Valley",
+    "number": "080",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044870.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044870.jpg"
+  },
+  {
+    "id": "m2-inferno-x-081",
+    "name": "Ludicolo - 081/080",
+    "number": "081",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044170.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044170.jpg"
+  },
+  {
+    "id": "m2-inferno-x-082",
+    "name": "Nymble - 082/080",
+    "number": "082",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044184.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044184.jpg"
+  },
+  {
+    "id": "m2-inferno-x-083",
+    "name": "Charcadet - 083/080",
+    "number": "083",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044172.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044172.jpg"
+  },
+  {
+    "id": "m2-inferno-x-084",
+    "name": "Dewgong - 084/080",
+    "number": "084",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044167.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044167.jpg"
+  },
+  {
+    "id": "m2-inferno-x-085",
+    "name": "Piplup - 085/080",
+    "number": "085",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044185.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044185.jpg"
+  },
+  {
+    "id": "m2-inferno-x-086",
+    "name": "Yamper - 086/080",
+    "number": "086",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044186.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044186.jpg"
+  },
+  {
+    "id": "m2-inferno-x-087",
+    "name": "Zacian - 087/080",
+    "number": "087",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044171.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044171.jpg"
+  },
+  {
+    "id": "m2-inferno-x-088",
+    "name": "Flygon - 088/080",
+    "number": "088",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044165.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044165.jpg"
+  },
+  {
+    "id": "m2-inferno-x-089",
+    "name": "Toxtricity - 089/080",
+    "number": "089",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044187.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044187.jpg"
+  },
+  {
+    "id": "m2-inferno-x-090",
+    "name": "Togedemaru - 090/080",
+    "number": "090",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044188.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044188.jpg"
+  },
+  {
+    "id": "m2-inferno-x-091",
+    "name": "Wigglytuff - 091/080",
+    "number": "091",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044168.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044168.jpg"
+  },
+  {
+    "id": "m2-inferno-x-092",
+    "name": "Ambipom - 092/080",
+    "number": "092",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044173.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044173.jpg"
+  },
+  {
+    "id": "m2-inferno-x-093",
+    "name": "Mega Heracross ex - 093/080",
+    "number": "093",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044223.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044223.jpg"
+  },
+  {
+    "id": "m2-inferno-x-094",
+    "name": "Mega Charizard X ex - 094/080",
+    "number": "094",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044220.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044220.jpg"
+  },
+  {
+    "id": "m2-inferno-x-095",
+    "name": "Oricorio ex - 095/080",
+    "number": "095",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044227.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044227.jpg"
+  },
+  {
+    "id": "m2-inferno-x-096",
+    "name": "Rotom ex - 096/080",
+    "number": "096",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044206.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044206.jpg"
+  },
+  {
+    "id": "m2-inferno-x-097",
+    "name": "Mismagius ex - 097/080",
+    "number": "097",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044224.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044224.jpg"
+  },
+  {
+    "id": "m2-inferno-x-098",
+    "name": "Mega Sharpedo ex - 098/080",
+    "number": "098",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044222.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044222.jpg"
+  },
+  {
+    "id": "m2-inferno-x-099",
+    "name": "Empoleon ex - 099/080",
+    "number": "099",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044221.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044221.jpg"
+  },
+  {
+    "id": "m2-inferno-x-100",
+    "name": "Mega Lopunny ex - 100/080",
+    "number": "100",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044203.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044203.jpg"
+  },
+  {
+    "id": "m2-inferno-x-101",
+    "name": "Heat Burner - 101/080",
+    "number": "101",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044202.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044202.jpg"
+  },
+  {
+    "id": "m2-inferno-x-102",
+    "name": "Switch - 102/080",
+    "number": "102",
+    "rarity": "Promo",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044205.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044205.jpg"
+  },
+  {
+    "id": "m2-inferno-x-103",
+    "name": "Sacred Charm - 103/080",
+    "number": "103",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044231.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044231.jpg"
+  },
+  {
+    "id": "m2-inferno-x-104",
+    "name": "Punk Helmet - 104/080",
+    "number": "104",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044225.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044225.jpg"
+  },
+  {
+    "id": "m2-inferno-x-105",
+    "name": "Grimsley's One Move - 105/080",
+    "number": "105",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044228.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044228.jpg"
+  },
+  {
+    "id": "m2-inferno-x-106",
+    "name": "Dawn - 106/080",
+    "number": "106",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044219.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044219.jpg"
+  },
+  {
+    "id": "m2-inferno-x-107",
+    "name": "Firebreather - 107/080",
+    "number": "107",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044233.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044233.jpg"
+  },
+  {
+    "id": "m2-inferno-x-108",
+    "name": "Battle Colosseum - 108/080",
+    "number": "108",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044204.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044204.jpg"
+  },
+  {
+    "id": "m2-inferno-x-109",
+    "name": "Ignition Energy - 109/080",
+    "number": "109",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044207.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044207.jpg"
+  },
+  {
+    "id": "m2-inferno-x-110",
+    "name": "Mega Charizard X ex - 110/080",
+    "number": "110",
+    "rarity": "Special Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044524.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044524.jpg"
+  },
+  {
+    "id": "m2-inferno-x-111",
+    "name": "Oricorio ex - 111/080",
+    "number": "111",
+    "rarity": "Special Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044236.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044236.jpg"
+  },
+  {
+    "id": "m2-inferno-x-112",
+    "name": "Rotom ex - 112/080",
+    "number": "112",
+    "rarity": "Special Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044201.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044201.jpg"
+  },
+  {
+    "id": "m2-inferno-x-113",
+    "name": "Mega Sharpedo ex - 113/080",
+    "number": "113",
+    "rarity": "Special Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044199.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044199.jpg"
+  },
+  {
+    "id": "m2-inferno-x-114",
+    "name": "Mega Lopunny ex - 114/080",
+    "number": "114",
+    "rarity": "Special Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044218.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044218.jpg"
+  },
+  {
+    "id": "m2-inferno-x-115",
+    "name": "Dawn - 115/080",
+    "number": "115",
+    "rarity": "Special Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044230.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044230.jpg"
+  },
+  {
+    "id": "m2-inferno-x-116",
+    "name": "Mega Charizard X ex - 116/080",
+    "number": "116",
+    "rarity": "Mega Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900246/1044894.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900246/1044894.jpg"
+  }
+]
