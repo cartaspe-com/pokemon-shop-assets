@@ -16,7 +16,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/001_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/001_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/001_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/001_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-002",
@@ -35,7 +41,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/002_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/002_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/002_large.webp",
+    "variant_images": [
+      {
+        "label": "Master Ball",
+        "img": "assets/sets/sv10.5b/cards/002_master-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-003",
@@ -73,7 +85,17 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/004_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/004_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/004_large.webp",
+    "variant_images": [
+      {
+        "label": "Master Ball",
+        "img": "assets/sets/sv10.5b/cards/004_master-ball.webp"
+      },
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/004_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-005",
@@ -111,7 +133,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/006_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/006_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/006_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/006_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-007",
@@ -149,7 +177,17 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/008_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/008_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/008_large.webp",
+    "variant_images": [
+      {
+        "label": "Master Ball",
+        "img": "assets/sets/sv10.5b/cards/008_master-ball.webp"
+      },
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/008_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-009",
@@ -168,7 +206,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/009_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/009_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/009_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/009_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-010",
@@ -206,7 +250,17 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/011_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/011_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/011_large.webp",
+    "variant_images": [
+      {
+        "label": "Master Ball",
+        "img": "assets/sets/sv10.5b/cards/011_master-ball.webp"
+      },
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/011_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-012",
@@ -225,7 +279,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/012_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/012_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/012_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/012_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-013",
@@ -244,7 +304,17 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/013_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/013_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/013_large.webp",
+    "variant_images": [
+      {
+        "label": "Master Ball",
+        "img": "assets/sets/sv10.5b/cards/013_master-ball.webp"
+      },
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/013_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-014",
@@ -263,7 +333,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/014_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/014_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/014_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/014_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-015",
@@ -282,7 +358,17 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/015_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/015_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/015_large.webp",
+    "variant_images": [
+      {
+        "label": "Master Ball",
+        "img": "assets/sets/sv10.5b/cards/015_master-ball.webp"
+      },
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/015_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-016",
@@ -339,7 +425,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/018_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/018_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/018_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/018_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-019",
@@ -358,7 +450,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/019_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/019_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/019_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/019_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-020",
@@ -396,7 +494,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/021_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/021_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/021_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/021_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-022",
@@ -415,7 +519,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/022_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/022_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/022_large.webp",
+    "variant_images": [
+      {
+        "label": "Master Ball",
+        "img": "assets/sets/sv10.5b/cards/022_master-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-023",
@@ -434,7 +544,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/023_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/023_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/023_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/023_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-024",
@@ -453,7 +569,17 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/024_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/024_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/024_large.webp",
+    "variant_images": [
+      {
+        "label": "Master Ball",
+        "img": "assets/sets/sv10.5b/cards/024_master-ball.webp"
+      },
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/024_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-025",
@@ -472,7 +598,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/025_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/025_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/025_large.webp",
+    "variant_images": [
+      {
+        "label": "Master Ball",
+        "img": "assets/sets/sv10.5b/cards/025_master-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-026",
@@ -491,7 +623,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/026_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/026_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/026_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/026_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-027",
@@ -510,7 +648,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/027_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/027_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/027_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/027_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-028",
@@ -548,7 +692,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/029_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/029_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/029_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/029_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-030",
@@ -567,7 +717,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/030_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/030_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/030_large.webp",
+    "variant_images": [
+      {
+        "label": "Master Ball",
+        "img": "assets/sets/sv10.5b/cards/030_master-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-031",
@@ -605,7 +761,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/032_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/032_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/032_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/032_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-033",
@@ -624,7 +786,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/033_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/033_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/033_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/033_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-034",
@@ -662,7 +830,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/035_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/035_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/035_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/035_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-036",
@@ -681,7 +855,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/036_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/036_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/036_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/036_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-037",
@@ -700,7 +880,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/037_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/037_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/037_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/037_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-038",
@@ -719,7 +905,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/038_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/038_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/038_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/038_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-039",
@@ -738,7 +930,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/039_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/039_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/039_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/039_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-040",
@@ -757,7 +955,17 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/040_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/040_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/040_large.webp",
+    "variant_images": [
+      {
+        "label": "Master Ball",
+        "img": "assets/sets/sv10.5b/cards/040_master-ball.webp"
+      },
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/040_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-041",
@@ -776,7 +984,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/041_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/041_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/041_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/041_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-042",
@@ -795,7 +1009,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/042_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/042_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/042_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/042_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-043",
@@ -814,7 +1034,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/043_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/043_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/043_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/043_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-044",
@@ -852,7 +1078,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/045_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/045_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/045_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/045_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-046",
@@ -890,7 +1122,17 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/047_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/047_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/047_large.webp",
+    "variant_images": [
+      {
+        "label": "Master Ball",
+        "img": "assets/sets/sv10.5b/cards/047_master-ball.webp"
+      },
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/047_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-048",
@@ -928,7 +1170,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/049_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/049_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/049_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/049_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-050",
@@ -947,7 +1195,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/050_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/050_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/050_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/050_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-051",
@@ -966,7 +1220,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/051_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/051_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/051_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/051_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-052",
@@ -1023,7 +1283,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/054_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/054_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/054_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/054_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-055",
@@ -1042,7 +1308,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/055_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/055_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/055_large.webp",
+    "variant_images": [
+      {
+        "label": "Master Ball",
+        "img": "assets/sets/sv10.5b/cards/055_master-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-056",
@@ -1061,7 +1333,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/056_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/056_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/056_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/056_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-057",
@@ -1080,7 +1358,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/057_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/057_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/057_large.webp",
+    "variant_images": [
+      {
+        "label": "Master Ball",
+        "img": "assets/sets/sv10.5b/cards/057_master-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-058",
@@ -1099,7 +1383,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/058_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/058_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/058_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/058_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-059",
@@ -1118,7 +1408,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/059_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/059_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/059_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/059_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-060",
@@ -1137,7 +1433,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/060_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/060_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/060_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/060_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-061",
@@ -1156,7 +1458,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/061_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/061_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/061_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/061_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-062",
@@ -1175,7 +1483,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/062_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/062_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/062_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/062_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-063",
@@ -1194,7 +1508,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/063_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/063_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/063_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/063_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-064",
@@ -1213,7 +1533,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/064_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/064_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/064_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/064_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-065",
@@ -1232,7 +1558,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/065_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/065_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/065_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/065_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-066",
@@ -1251,7 +1583,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/066_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/066_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/066_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/066_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-067",
@@ -1289,7 +1627,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/068_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/068_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/068_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/068_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-069",
@@ -1346,7 +1690,17 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/071_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/071_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/071_large.webp",
+    "variant_images": [
+      {
+        "label": "Master Ball",
+        "img": "assets/sets/sv10.5b/cards/071_master-ball.webp"
+      },
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/071_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-072",
@@ -1365,7 +1719,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/072_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/072_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/072_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/072_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-073",
@@ -1384,7 +1744,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/073_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/073_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/073_large.webp",
+    "variant_images": [
+      {
+        "label": "Master Ball",
+        "img": "assets/sets/sv10.5b/cards/073_master-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-074",
@@ -1403,7 +1769,17 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/074_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/074_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/074_large.webp",
+    "variant_images": [
+      {
+        "label": "Master Ball",
+        "img": "assets/sets/sv10.5b/cards/074_master-ball.webp"
+      },
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/074_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-075",
@@ -1422,7 +1798,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/075_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/075_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/075_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/075_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-076",
@@ -1441,7 +1823,17 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/076_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/076_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/076_large.webp",
+    "variant_images": [
+      {
+        "label": "Master Ball",
+        "img": "assets/sets/sv10.5b/cards/076_master-ball.webp"
+      },
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/076_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-077",
@@ -1460,7 +1852,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/077_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/077_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/077_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/077_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-078",
@@ -1479,7 +1877,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/078_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/078_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/078_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/078_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-079",
@@ -1530,7 +1934,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/081_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/081_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/081_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/081_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-082",
@@ -1564,7 +1974,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/083_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/083_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/083_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/083_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-084",
@@ -1581,7 +1997,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/084_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/084_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/084_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/084_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-085",
@@ -1598,7 +2020,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/085_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/085_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/085_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/085_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-086",
@@ -1615,7 +2043,13 @@
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv10.5b/cards/086_small.webp",
-    "local_image_large": "assets/sets/sv10.5b/cards/086_large.webp"
+    "local_image_large": "assets/sets/sv10.5b/cards/086_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/sv10.5b/cards/086_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "sv10.5b-087",

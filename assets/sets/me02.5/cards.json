@@ -18,7 +18,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/001_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/001_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/001_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/001_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/001_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-002",
@@ -39,7 +49,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/002_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/002_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/002_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/002_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/002_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-003",
@@ -79,7 +99,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/004_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/004_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/004_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/004_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/004_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-005",
@@ -100,7 +130,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/005_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/005_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/005_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/005_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/005_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-006",
@@ -121,7 +161,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/006_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/006_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/006_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/006_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/006_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-007",
@@ -142,7 +192,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/007_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/007_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/007_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/007_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/007_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-008",
@@ -163,7 +223,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/008_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/008_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/008_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/008_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/008_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-009",
@@ -184,7 +254,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/009_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/009_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/009_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/009_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/009_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-010",
@@ -224,7 +304,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/011_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/011_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/011_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/011_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/011_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-012",
@@ -245,7 +335,13 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/012_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/012_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/012_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/012_love-ball.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-013",
@@ -266,7 +362,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/013_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/013_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/013_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/013_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/013_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-014",
@@ -287,7 +393,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/014_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/014_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/014_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/014_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/014_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-015",
@@ -308,7 +424,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/015_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/015_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/015_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/015_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/015_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-016",
@@ -329,7 +455,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/016_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/016_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/016_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/016_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/016_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-017",
@@ -350,7 +486,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/017_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/017_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/017_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/017_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/017_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-018",
@@ -371,7 +517,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/018_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/018_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/018_large.webp",
+    "variant_images": [
+      {
+        "label": "Team Rocket",
+        "img": "assets/sets/me02.5/cards/018_team-rocket.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/018_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-019",
@@ -392,7 +548,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/019_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/019_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/019_large.webp",
+    "variant_images": [
+      {
+        "label": "Team Rocket",
+        "img": "assets/sets/me02.5/cards/019_team-rocket.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/019_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-020",
@@ -413,7 +579,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/020_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/020_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/020_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/020_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/020_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-021",
@@ -434,7 +610,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/021_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/021_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/021_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/021_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/021_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-022",
@@ -474,7 +660,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/023_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/023_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/023_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/023_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/023_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-024",
@@ -495,7 +691,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/024_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/024_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/024_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/024_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/024_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-025",
@@ -516,7 +722,13 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/025_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/025_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/025_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/025_quick-ball.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-026",
@@ -556,7 +768,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/027_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/027_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/027_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/027_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/027_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-028",
@@ -577,7 +799,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/028_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/028_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/028_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/028_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/028_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-029",
@@ -598,7 +830,13 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/029_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/029_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/029_large.webp",
+    "variant_images": [
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/029_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-030",
@@ -619,7 +857,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/030_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/030_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/030_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/030_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/030_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-031",
@@ -659,7 +907,13 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/032_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/032_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/032_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/032_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-033",
@@ -680,7 +934,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/033_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/033_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/033_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/033_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/033_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-034",
@@ -701,7 +965,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/034_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/034_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/034_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/034_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/034_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-035",
@@ -722,7 +996,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/035_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/035_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/035_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/035_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/035_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-036",
@@ -743,7 +1027,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/036_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/036_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/036_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/036_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/036_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-037",
@@ -764,7 +1058,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/037_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/037_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/037_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/037_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/037_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-038",
@@ -804,7 +1108,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/039_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/039_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/039_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/039_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/039_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-040",
@@ -825,7 +1139,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/040_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/040_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/040_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/040_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/040_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-041",
@@ -846,7 +1170,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/041_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/041_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/041_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/041_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/041_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-042",
@@ -867,7 +1201,13 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/042_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/042_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/042_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/042_friend-ball.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-043",
@@ -907,7 +1247,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/044_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/044_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/044_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/044_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/044_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-045",
@@ -928,7 +1278,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/045_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/045_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/045_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/045_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/045_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-046",
@@ -949,7 +1309,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/046_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/046_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/046_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/046_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/046_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-047",
@@ -1008,7 +1378,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/049_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/049_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/049_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/049_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/049_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-050",
@@ -1029,7 +1409,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/050_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/050_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/050_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/050_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/050_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-051",
@@ -1050,7 +1440,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/051_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/051_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/051_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/051_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/051_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-052",
@@ -1071,7 +1471,13 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/052_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/052_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/052_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/052_friend-ball.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-053",
@@ -1092,7 +1498,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/053_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/053_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/053_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/053_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/053_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-054",
@@ -1113,7 +1529,13 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/054_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/054_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/054_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/054_friend-ball.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-055",
@@ -1134,7 +1556,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/055_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/055_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/055_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/055_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/055_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-056",
@@ -1155,7 +1587,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/056_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/056_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/056_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/056_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/056_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-057",
@@ -1214,7 +1656,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/059_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/059_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/059_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/059_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/059_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-060",
@@ -1235,7 +1687,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/060_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/060_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/060_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/060_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/060_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-061",
@@ -1275,7 +1737,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/062_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/062_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/062_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/062_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/062_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-063",
@@ -1296,7 +1768,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/063_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/063_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/063_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/063_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/063_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-064",
@@ -1317,7 +1799,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/064_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/064_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/064_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/064_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/064_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-065",
@@ -1338,7 +1830,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/065_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/065_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/065_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/065_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/065_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-066",
@@ -1380,7 +1882,13 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/067_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/067_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/067_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/067_quick-ball.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-068",
@@ -1521,7 +2029,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/074_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/074_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/074_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/074_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/074_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-075",
@@ -1542,7 +2060,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/075_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/075_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/075_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/075_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/075_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-076",
@@ -1582,7 +2110,13 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/077_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/077_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/077_large.webp",
+    "variant_images": [
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/077_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-078",
@@ -1603,7 +2137,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/078_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/078_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/078_large.webp",
+    "variant_images": [
+      {
+        "label": "Team Rocket",
+        "img": "assets/sets/me02.5/cards/078_team-rocket.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/078_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-079",
@@ -1643,7 +2187,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/080_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/080_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/080_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/080_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/080_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-081",
@@ -1664,7 +2218,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/081_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/081_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/081_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/081_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/081_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-082",
@@ -1685,7 +2249,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/082_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/082_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/082_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/082_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/082_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-083",
@@ -1706,7 +2280,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/083_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/083_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/083_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/083_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/083_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-084",
@@ -1746,7 +2330,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/085_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/085_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/085_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/085_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/085_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-086",
@@ -1767,7 +2361,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/086_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/086_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/086_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/086_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/086_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-087",
@@ -1788,7 +2392,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/087_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/087_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/087_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/087_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/087_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-088",
@@ -1809,7 +2423,13 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/088_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/088_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/088_large.webp",
+    "variant_images": [
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/088_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-089",
@@ -1849,7 +2469,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/090_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/090_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/090_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/090_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/090_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-091",
@@ -1870,7 +2500,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/091_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/091_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/091_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/091_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/091_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-092",
@@ -1891,7 +2531,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/092_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/092_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/092_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/092_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/092_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-093",
@@ -1912,7 +2562,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/093_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/093_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/093_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/093_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/093_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-094",
@@ -1933,7 +2593,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/094_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/094_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/094_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/094_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/094_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-095",
@@ -1954,7 +2624,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/095_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/095_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/095_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/095_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/095_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-096",
@@ -1975,7 +2655,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/096_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/096_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/096_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/096_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/096_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-097",
@@ -1996,7 +2686,13 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/097_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/097_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/097_large.webp",
+    "variant_images": [
+      {
+        "label": "Team Rocket",
+        "img": "assets/sets/me02.5/cards/097_team-rocket.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-098",
@@ -2017,7 +2713,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/098_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/098_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/098_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/098_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/098_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-099",
@@ -2038,7 +2744,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/099_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/099_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/099_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/099_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/099_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-100",
@@ -2059,7 +2775,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/100_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/100_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/100_large.webp",
+    "variant_images": [
+      {
+        "label": "Team Rocket",
+        "img": "assets/sets/me02.5/cards/100_team-rocket.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/100_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-101",
@@ -2080,7 +2806,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/101_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/101_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/101_large.webp",
+    "variant_images": [
+      {
+        "label": "Team Rocket",
+        "img": "assets/sets/me02.5/cards/101_team-rocket.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/101_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-102",
@@ -2101,7 +2837,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/102_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/102_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/102_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/102_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/102_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-103",
@@ -2122,7 +2868,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/103_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/103_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/103_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/103_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/103_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-104",
@@ -2143,7 +2899,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/104_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/104_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/104_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/104_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/104_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-105",
@@ -2164,7 +2930,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/105_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/105_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/105_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/105_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/105_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-106",
@@ -2185,7 +2961,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/106_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/106_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/106_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/106_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/106_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-107",
@@ -2225,7 +3011,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/108_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/108_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/108_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/108_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/108_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-109",
@@ -2246,7 +3042,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/109_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/109_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/109_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/109_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/109_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-110",
@@ -2267,7 +3073,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/110_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/110_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/110_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/110_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/110_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-111",
@@ -2307,7 +3123,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/112_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/112_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/112_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/112_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/112_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-113",
@@ -2366,7 +3192,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/115_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/115_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/115_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/115_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/115_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-116",
@@ -2406,7 +3242,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/117_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/117_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/117_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/117_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/117_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-118",
@@ -2427,7 +3273,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/118_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/118_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/118_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/118_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/118_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-119",
@@ -2448,7 +3304,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/119_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/119_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/119_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/119_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/119_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-120",
@@ -2469,7 +3335,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/120_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/120_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/120_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/120_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/120_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-121",
@@ -2509,7 +3385,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/122_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/122_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/122_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/122_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/122_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-123",
@@ -2530,7 +3416,13 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/123_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/123_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/123_large.webp",
+    "variant_images": [
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/123_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-124",
@@ -2551,7 +3443,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/124_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/124_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/124_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/124_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/124_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-125",
@@ -2591,7 +3493,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/126_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/126_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/126_large.webp",
+    "variant_images": [
+      {
+        "label": "Team Rocket",
+        "img": "assets/sets/me02.5/cards/126_team-rocket.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/126_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-127",
@@ -2612,7 +3524,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/127_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/127_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/127_large.webp",
+    "variant_images": [
+      {
+        "label": "Team Rocket",
+        "img": "assets/sets/me02.5/cards/127_team-rocket.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/127_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-128",
@@ -2633,7 +3555,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/128_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/128_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/128_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/128_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/128_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-129",
@@ -2654,7 +3586,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/129_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/129_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/129_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/129_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/129_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-130",
@@ -2675,7 +3617,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/130_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/130_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/130_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/130_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/130_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-131",
@@ -2696,7 +3648,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/131_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/131_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/131_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/131_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/131_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-132",
@@ -2717,7 +3679,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/132_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/132_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/132_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/132_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/132_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-133",
@@ -2738,7 +3710,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/133_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/133_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/133_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/133_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/133_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-134",
@@ -2759,7 +3741,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/134_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/134_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/134_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/134_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/134_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-135",
@@ -2799,7 +3791,13 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/136_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/136_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/136_large.webp",
+    "variant_images": [
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/136_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-137",
@@ -2839,7 +3837,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/138_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/138_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/138_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/138_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/138_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-139",
@@ -2879,7 +3887,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/140_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/140_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/140_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/140_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/140_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-141",
@@ -2900,7 +3918,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/141_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/141_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/141_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/141_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/141_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-142",
@@ -2940,7 +3968,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/143_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/143_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/143_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/143_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/143_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-144",
@@ -2961,7 +3999,13 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/144_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/144_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/144_large.webp",
+    "variant_images": [
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/144_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-145",
@@ -3001,7 +4045,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/146_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/146_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/146_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/146_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/146_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-147",
@@ -3022,7 +4076,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/147_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/147_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/147_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/147_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/147_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-148",
@@ -3043,7 +4107,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/148_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/148_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/148_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/148_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/148_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-149",
@@ -3083,7 +4157,13 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/150_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/150_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/150_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/150_love-ball.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-151",
@@ -3104,7 +4184,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/151_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/151_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/151_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/151_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/151_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-152",
@@ -3144,7 +4234,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/153_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/153_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/153_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/153_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/153_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-154",
@@ -3165,7 +4265,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/154_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/154_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/154_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/154_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/154_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-155",
@@ -3186,7 +4296,13 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/155_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/155_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/155_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/155_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-156",
@@ -3207,7 +4323,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/156_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/156_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/156_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/156_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/156_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-157",
@@ -3228,7 +4354,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/157_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/157_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/157_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/157_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/157_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-158",
@@ -3249,7 +4385,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/158_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/158_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/158_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/158_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/158_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-159",
@@ -3270,7 +4416,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/159_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/159_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/159_large.webp",
+    "variant_images": [
+      {
+        "label": "Quick Ball",
+        "img": "assets/sets/me02.5/cards/159_quick-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/159_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-160",
@@ -3310,7 +4466,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/161_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/161_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/161_large.webp",
+    "variant_images": [
+      {
+        "label": "Team Rocket",
+        "img": "assets/sets/me02.5/cards/161_team-rocket.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/161_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-162",
@@ -3350,7 +4516,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/163_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/163_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/163_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/163_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/163_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-164",
@@ -3390,7 +4566,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/165_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/165_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/165_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/165_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/165_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-166",
@@ -3411,7 +4597,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/166_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/166_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/166_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/166_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/166_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-167",
@@ -3451,7 +4647,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/168_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/168_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/168_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/168_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/168_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-169",
@@ -3472,7 +4678,13 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/169_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/169_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/169_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/169_poke-ball.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-170",
@@ -3493,7 +4705,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/170_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/170_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/170_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/170_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/170_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-171",
@@ -3514,7 +4736,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/171_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/171_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/171_large.webp",
+    "variant_images": [
+      {
+        "label": "Dusk Ball",
+        "img": "assets/sets/me02.5/cards/171_dusk-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/171_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-172",
@@ -3554,7 +4786,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/173_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/173_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/173_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/173_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/173_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-174",
@@ -3575,7 +4817,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/174_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/174_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/174_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/174_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/174_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-175",
@@ -3596,7 +4848,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/175_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/175_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/175_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/175_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/175_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-176",
@@ -3617,7 +4879,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/176_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/176_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/176_large.webp",
+    "variant_images": [
+      {
+        "label": "Friend Ball",
+        "img": "assets/sets/me02.5/cards/176_friend-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/176_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-177",
@@ -3638,7 +4910,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/177_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/177_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/177_large.webp",
+    "variant_images": [
+      {
+        "label": "Poké Ball",
+        "img": "assets/sets/me02.5/cards/177_poke-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/177_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-178",
@@ -3659,7 +4941,17 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/178_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/178_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/178_large.webp",
+    "variant_images": [
+      {
+        "label": "Love Ball",
+        "img": "assets/sets/me02.5/cards/178_love-ball.webp"
+      },
+      {
+        "label": "Energy",
+        "img": "assets/sets/me02.5/cards/178_energy.webp"
+      }
+    ]
   },
   {
     "id": "me02.5-179",
