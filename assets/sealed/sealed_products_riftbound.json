@@ -1,7 +1,7 @@
 {
   "source": "tcgcsv.com",
   "category": "Riftbound",
-  "product_count": 75,
+  "product_count": 76,
   "products": [
     {
       "product_id": 714486,
@@ -387,6 +387,17 @@
       "tcgplayer_url": "https://www.tcgplayer.com/product/658333/riftbound-league-of-legends-trading-card-game-riftbound-worlds-bundle-2025-riftbound-worlds-bundle-2025",
       "local_image_small": "assets/sealed/riftbound/rb-riftbound-worlds-bundle-2025/658333_small.jpg",
       "local_image_large": "assets/sealed/riftbound/rb-riftbound-worlds-bundle-2025/658333_large.jpg"
+    },
+    {
+      "product_id": 710238,
+      "name": "Secret Garden Box",
+      "set_name": "Secret Garden",
+      "set_code": "rb-secret-garden",
+      "group_id": 24797,
+      "published_on": "2025-07-30T00:00:00",
+      "tcgplayer_url": "https://www.tcgplayer.com/product/710238/riftbound-league-of-legends-trading-card-game-secret-garden-secret-garden-box",
+      "local_image_small": "assets/sealed/riftbound/rb-secret-garden/710238_small.jpg",
+      "local_image_large": "assets/sealed/riftbound/rb-secret-garden/710238_large.jpg"
     },
     {
       "product_id": 678130,
