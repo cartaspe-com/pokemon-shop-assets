@@ -1,0 +1,912 @@
+[
+  {
+    "id": "xy8-br-red-flash-001",
+    "name": "Paras",
+    "number": "001",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889418.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889418.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-002",
+    "name": "Parasect",
+    "number": "002",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889632.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889632.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-003",
+    "name": "Chespin",
+    "number": "003",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889381.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889381.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-004",
+    "name": "Quilladin",
+    "number": "004",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889398.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889398.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-005",
+    "name": "Chesnaught",
+    "number": "005",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889616.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889616.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-006",
+    "name": "Chesnaught BREAK",
+    "number": "006",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889400.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889400.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-007",
+    "name": "Skiddo",
+    "number": "007",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889635.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889635.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-008",
+    "name": "Gogoat",
+    "number": "008",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889634.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889634.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-009",
+    "name": "Houndoom EX - 009/059",
+    "number": "009",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889402.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889402.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-010",
+    "name": "Mega Houndoom EX - 010/059",
+    "number": "010",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889401.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889401.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-011",
+    "name": "Pansear",
+    "number": "011",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889406.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889406.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-012",
+    "name": "Simisear",
+    "number": "012",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889419.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889419.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-013",
+    "name": "Goldeen",
+    "number": "013",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889378.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889378.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-014",
+    "name": "Seaking",
+    "number": "014",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889614.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889614.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-015",
+    "name": "Staryu",
+    "number": "015",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889367.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889367.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-016",
+    "name": "Starmie",
+    "number": "016",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889420.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889420.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-017",
+    "name": "Remoraid",
+    "number": "017",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889399.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889399.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-018",
+    "name": "Piplup",
+    "number": "018",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889397.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889397.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-019",
+    "name": "Prinplup",
+    "number": "019",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889633.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889633.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-020",
+    "name": "Empoleon",
+    "number": "020",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889376.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889376.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-021",
+    "name": "Snover",
+    "number": "021",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889408.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889408.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-022",
+    "name": "Abomasnow",
+    "number": "022",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889364.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889364.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-023",
+    "name": "Magnemite",
+    "number": "023",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889631.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889631.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-024",
+    "name": "Magneton",
+    "number": "024",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889379.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889379.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-025",
+    "name": "Magnezone",
+    "number": "025",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889613.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889613.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-026",
+    "name": "Raikou",
+    "number": "026",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889612.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889612.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-027",
+    "name": "Mewtwo EX - 027/059",
+    "number": "027",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889395.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889395.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-028",
+    "name": "M Mewtwo ex - 028/059",
+    "number": "028",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889373.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889373.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-029",
+    "name": "Misdreavus",
+    "number": "029",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889371.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889371.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-030",
+    "name": "Mismagius",
+    "number": "030",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889415.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889415.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-031",
+    "name": "Ralts",
+    "number": "031",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889380.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889380.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-032",
+    "name": "Kirlia",
+    "number": "032",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889369.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889369.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-033",
+    "name": "Cresselia",
+    "number": "033",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889617.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889617.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-034",
+    "name": "Cubone",
+    "number": "034",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889403.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889403.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-035",
+    "name": "Marowak",
+    "number": "035",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889370.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889370.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-036",
+    "name": "Marowak BREAK",
+    "number": "036",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889393.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889393.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-037",
+    "name": "Swinub",
+    "number": "037",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889365.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889365.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-038",
+    "name": "Piloswine",
+    "number": "038",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889362.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889362.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-039",
+    "name": "Mamoswine",
+    "number": "039",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889416.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889416.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-040",
+    "name": "Gallade",
+    "number": "040",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889620.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889620.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-041",
+    "name": "Zorua",
+    "number": "041",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889394.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889394.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-042",
+    "name": "Yveltal",
+    "number": "042",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889375.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889375.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-043",
+    "name": "Bronzor",
+    "number": "043",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889409.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889409.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-044",
+    "name": "Bronzong",
+    "number": "044",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889611.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889611.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-045",
+    "name": "Mr. Mime",
+    "number": "045",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889618.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889618.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-046",
+    "name": "Spritzee",
+    "number": "046",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889366.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889366.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-047",
+    "name": "Aromatisse",
+    "number": "047",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889396.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889396.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-048",
+    "name": "Axew",
+    "number": "048",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889368.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889368.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-049",
+    "name": "Doduo",
+    "number": "049",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889392.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889392.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-050",
+    "name": "Dodrio",
+    "number": "050",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889372.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889372.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-051",
+    "name": "Starly",
+    "number": "051",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889374.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889374.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-052",
+    "name": "Staravia",
+    "number": "052",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889619.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889619.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-053",
+    "name": "Staraptor",
+    "number": "053",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889363.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889363.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-054",
+    "name": "Heavy Ball",
+    "number": "054",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889410.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889410.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-055",
+    "name": "Assault Vest",
+    "number": "055",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889424.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889424.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-056",
+    "name": "Houndoom Spirit Link",
+    "number": "056",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889411.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889411.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-057",
+    "name": "Mewtwo Spirit Link",
+    "number": "057",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889615.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889615.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-058",
+    "name": "Giovanni's Scheme - 058/059",
+    "number": "058",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889404.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889404.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-059",
+    "name": "Burning Energy",
+    "number": "059",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889417.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889417.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-060",
+    "name": "Houndoom EX - 060/059",
+    "number": "060",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889421.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889421.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-061",
+    "name": "M Houndoom Ex - 061/059",
+    "number": "061",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889407.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889407.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-062",
+    "name": "Mewtwo EX - 062/059",
+    "number": "062",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889422.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889422.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-063",
+    "name": "Mega Mewtwo EX - 063/059",
+    "number": "063",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889423.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889423.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-064",
+    "name": "Giovanni's Scheme - 064/059",
+    "number": "064",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889405.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889405.jpg"
+  },
+  {
+    "id": "xy8-br-red-flash-065",
+    "name": "Mewtwo EX - 065/059",
+    "number": "065",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900234/889377.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900234/889377.jpg"
+  }
+]

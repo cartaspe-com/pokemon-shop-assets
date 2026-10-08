@@ -1,0 +1,1220 @@
+[
+  {
+    "id": "s10d-time-gazer-001",
+    "name": "Yanma",
+    "number": "001",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966127.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966127.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-002",
+    "name": "Yanmega",
+    "number": "002",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966154.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966154.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-003",
+    "name": "Leafeon",
+    "number": "003",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965744.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965744.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-004",
+    "name": "Shaymin",
+    "number": "004",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966146.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966146.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-005",
+    "name": "Petilil",
+    "number": "005",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966136.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966136.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-006",
+    "name": "Hisuian Lilligant",
+    "number": "006",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965757.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965757.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-007",
+    "name": "Hisuian Lilligant V - 007/067",
+    "number": "007",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966128.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966128.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-008",
+    "name": "Hisuian Lilligant VSTAR - 008/067",
+    "number": "008",
+    "rarity": "Triple Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965711.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965711.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-009",
+    "name": "Cyndaquil",
+    "number": "009",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965710.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965710.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-010",
+    "name": "Quilava",
+    "number": "010",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965718.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965718.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-011",
+    "name": "Poliwag",
+    "number": "011",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965759.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965759.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-012",
+    "name": "Poliwhirl",
+    "number": "012",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965722.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965722.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-013",
+    "name": "Politoed",
+    "number": "013",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965720.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965720.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-014",
+    "name": "Mantine",
+    "number": "014",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965782.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965782.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-015",
+    "name": "Oshawott",
+    "number": "015",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965740.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965740.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-016",
+    "name": "Dewott",
+    "number": "016",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965707.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965707.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-017",
+    "name": "Ducklett",
+    "number": "017",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965725.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965725.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-018",
+    "name": "Swanna",
+    "number": "018",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965785.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965785.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-019",
+    "name": "Electrike",
+    "number": "019",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965760.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965760.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-020",
+    "name": "Manectric",
+    "number": "020",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966144.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966144.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-021",
+    "name": "Luxray V - 021/067",
+    "number": "021",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965737.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965737.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-022",
+    "name": "Regieleki",
+    "number": "022",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966137.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966137.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-023",
+    "name": "Hisuian Typhlosion",
+    "number": "023",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965716.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965716.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-024",
+    "name": "Mawile",
+    "number": "024",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965714.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965714.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-025",
+    "name": "Jirachi V - 025/067",
+    "number": "025",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965723.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965723.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-026",
+    "name": "Drifloon",
+    "number": "026",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965761.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965761.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-027",
+    "name": "Drifblim",
+    "number": "027",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966145.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966145.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-028",
+    "name": "Cresselia",
+    "number": "028",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965738.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965738.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-029",
+    "name": "Hisuian Growlithe",
+    "number": "029",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965742.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965742.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-030",
+    "name": "Hisuian Arcanine",
+    "number": "030",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965739.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965739.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-031",
+    "name": "Poliwrath",
+    "number": "031",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966149.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966149.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-032",
+    "name": "Machamp V - 032/067",
+    "number": "032",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965709.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965709.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-033",
+    "name": "Machamp VMAX - 033/067",
+    "number": "033",
+    "rarity": "Triple Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965708.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965708.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-034",
+    "name": "Sudowoodo",
+    "number": "034",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965776.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965776.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-035",
+    "name": "Cranidos",
+    "number": "035",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965745.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965745.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-036",
+    "name": "Rampardos",
+    "number": "036",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966138.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966138.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-037",
+    "name": "Mienfoo",
+    "number": "037",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965746.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965746.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-038",
+    "name": "Mienshao",
+    "number": "038",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965762.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965762.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-040",
+    "name": "Ariados",
+    "number": "040",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965717.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965717.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-041",
+    "name": "Hisuian Samurott",
+    "number": "041",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966150.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966150.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-042",
+    "name": "Nickit",
+    "number": "042",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966124.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966124.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-043",
+    "name": "Thievul",
+    "number": "043",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966162.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966162.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-044",
+    "name": "Magnemite",
+    "number": "044",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965715.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965715.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-045",
+    "name": "Magneton",
+    "number": "045",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966139.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966139.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-046",
+    "name": "Magnezone",
+    "number": "046",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965780.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965780.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-047",
+    "name": "Registeel",
+    "number": "047",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966155.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966155.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-048",
+    "name": "Origin Forme Dialga V - 048/067",
+    "number": "048",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965713.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965713.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-049",
+    "name": "Origin Forme Dialga VSTAR - 049/067",
+    "number": "049",
+    "rarity": "Triple Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965712.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965712.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-050",
+    "name": "Pawniard",
+    "number": "050",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965781.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965781.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-051",
+    "name": "Bisharp",
+    "number": "051",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965743.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965743.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-052",
+    "name": "Eevee",
+    "number": "052",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966125.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966125.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-053",
+    "name": "Chatot",
+    "number": "053",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965758.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965758.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-054",
+    "name": "Regigigas",
+    "number": "054",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966130.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966130.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-055",
+    "name": "Rufflet",
+    "number": "055",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966157.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966157.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-056",
+    "name": "Hisuian Braviary",
+    "number": "056",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966160.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966160.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-057",
+    "name": "Skwovet",
+    "number": "057",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966151.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966151.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-058",
+    "name": "Greedent",
+    "number": "058",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966135.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966135.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-059",
+    "name": "Wyrdeer V - 059/067",
+    "number": "059",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965721.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965721.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-060",
+    "name": "Switch Cart",
+    "number": "060",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965777.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965777.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-061",
+    "name": "Trekking Shoes - 061/067",
+    "number": "061",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966158.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966158.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-062",
+    "name": "Unidentified Fossil",
+    "number": "062",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966161.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966161.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-063",
+    "name": "Feather Ball",
+    "number": "063",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966140.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966140.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-064",
+    "name": "Adaman - 064/067",
+    "number": "064",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966141.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966141.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-065",
+    "name": "Gardenia's Vigor - 065/067",
+    "number": "065",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966159.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966159.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-066",
+    "name": "Zisu - 066/067",
+    "number": "066",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966163.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966163.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-067",
+    "name": "Gapejaw Bog",
+    "number": "067",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965763.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965763.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-068",
+    "name": "Hisuian Lilligant V - 068/067",
+    "number": "068",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966142.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966142.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-069",
+    "name": "Hisuian Lilligant V - 069/067",
+    "number": "069",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965784.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965784.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-070",
+    "name": "Luxray V - 070/067",
+    "number": "070",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966132.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966132.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-071",
+    "name": "Jirachi V - 071/067",
+    "number": "071",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965764.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965764.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-072",
+    "name": "Machamp V - 072/067",
+    "number": "072",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965756.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965756.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-073",
+    "name": "Machamp V - 073/067",
+    "number": "073",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965726.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965726.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-074",
+    "name": "Origin Forme Dialga V - 074/067",
+    "number": "074",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966129.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966129.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-075",
+    "name": "Origin Forme Dialga V - 075/067",
+    "number": "075",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966133.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966133.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-076",
+    "name": "Wyrdeer V - 076/067",
+    "number": "076",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966152.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966152.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-077",
+    "name": "Adaman - 077/067",
+    "number": "077",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966156.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966156.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-078",
+    "name": "Gardenia's Vigor - 078/067",
+    "number": "078",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966134.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966134.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-079",
+    "name": "Zisu - 079/067",
+    "number": "079",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965724.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965724.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-080",
+    "name": "Hisuian Lilligant VSTAR - 080/067",
+    "number": "080",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965778.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965778.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-081",
+    "name": "Machamp VMAX - 081/067",
+    "number": "081",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965783.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965783.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-082",
+    "name": "Origin Forme Dialga VSTAR - 082/067",
+    "number": "082",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966131.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966131.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-083",
+    "name": "Adaman - 083/067",
+    "number": "083",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966153.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966153.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-084",
+    "name": "Gardenia's Vigor - 084/067",
+    "number": "084",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966143.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966143.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-085",
+    "name": "Zisu - 085/067",
+    "number": "085",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965779.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965779.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-086",
+    "name": "Origin Forme Dialga VSTAR - 086/067",
+    "number": "086",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/965765.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/965765.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-087",
+    "name": "Trekking Shoes - 087/067",
+    "number": "087",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966148.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966148.jpg"
+  },
+  {
+    "id": "s10d-time-gazer-088",
+    "name": "Path to the Peak",
+    "number": "088",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900101/966147.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900101/966147.jpg"
+  }
+]

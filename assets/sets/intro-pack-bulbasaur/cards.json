@@ -1,0 +1,576 @@
+[
+  {
+    "id": "intro-pack-bulbasaur-839995",
+    "name": "Venusaur",
+    "number": null,
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/839995.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/839995.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-1",
+    "name": "Bulbasaur - 1",
+    "number": "1",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/839970.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/839970.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-10",
+    "name": "Basic Lightning Energy - 10",
+    "number": "10",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840032.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840032.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-11",
+    "name": "Basic Grass Energy - 11",
+    "number": "11",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840003.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840003.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-12",
+    "name": "Basic Lightning Energy - 12",
+    "number": "12",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840025.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840025.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-13",
+    "name": "Pikachu - 13",
+    "number": "13",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/839973.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/839973.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-14",
+    "name": "Basic Lightning Energy - 14",
+    "number": "14",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840079.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840079.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-15",
+    "name": "Basic Grass Energy - 15",
+    "number": "15",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840004.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840004.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-16",
+    "name": "Meowth",
+    "number": "16",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/839971.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/839971.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-17",
+    "name": "Basic Lightning Energy - 17",
+    "number": "17",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840030.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840030.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-18",
+    "name": "Bulbasaur - 18",
+    "number": "18",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/839996.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/839996.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-19",
+    "name": "Switch",
+    "number": "19",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840047.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840047.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-2",
+    "name": "Drowzee",
+    "number": "2",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/839975.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/839975.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-20",
+    "name": "Bill's Teleporter",
+    "number": "20",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840002.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840002.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-21",
+    "name": "Basic Grass Energy - 21",
+    "number": "21",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840053.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840053.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-22",
+    "name": "Ivysaur - 22",
+    "number": "22",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/839969.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/839969.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-23",
+    "name": "Double Colorless Energy",
+    "number": "23",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/839998.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/839998.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-24",
+    "name": "Basic Psychic Energy - 24",
+    "number": "24",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840048.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840048.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-25",
+    "name": "Basic Grass Energy - 25",
+    "number": "25",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840049.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840049.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-26",
+    "name": "Electabuzz",
+    "number": "26",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840033.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840033.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-27",
+    "name": "Basic Psychic Energy - 27",
+    "number": "27",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840027.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840027.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-28",
+    "name": "Gust of Wind",
+    "number": "28",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840051.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840051.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-29",
+    "name": "Bulbasaur - 29",
+    "number": "29",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/839972.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/839972.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-3",
+    "name": "Raichu",
+    "number": "3",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/839974.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/839974.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-30",
+    "name": "Doduo",
+    "number": "30",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840052.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840052.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-31",
+    "name": "Basic Psychic Energy - 31",
+    "number": "31",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840028.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840028.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-32",
+    "name": "Ivysaur - 32",
+    "number": "32",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840034.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840034.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-33",
+    "name": "Basic Lightning Energy - 33",
+    "number": "33",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840026.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840026.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-34",
+    "name": "Basic Grass Energy - 34",
+    "number": "34",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840054.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840054.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-35",
+    "name": "Bulbasaur - 35",
+    "number": "35",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/839997.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/839997.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-36",
+    "name": "Basic Grass Energy - 36",
+    "number": "36",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840050.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840050.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-37",
+    "name": "Jynx",
+    "number": "37",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/839976.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/839976.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-38",
+    "name": "Basic Psychic Energy - 38",
+    "number": "38",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840001.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840001.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-39",
+    "name": "Koffing",
+    "number": "39",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/839977.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/839977.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-4",
+    "name": "Basic Grass Energy - 4",
+    "number": "4",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840045.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840045.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-40",
+    "name": "Pikachu - 40",
+    "number": "40",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/839978.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/839978.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-5",
+    "name": "Basic Grass Energy - 5",
+    "number": "5",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840031.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840031.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-6",
+    "name": "Basic Lightning Energy - 6",
+    "number": "6",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840000.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840000.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-7",
+    "name": "Potion",
+    "number": "7",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840046.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840046.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-8",
+    "name": "Basic Grass Energy - 8",
+    "number": "8",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/839999.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/839999.jpg"
+  },
+  {
+    "id": "intro-pack-bulbasaur-9",
+    "name": "Super Scoop Up",
+    "number": "9",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900303/840029.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900303/840029.jpg"
+  }
+]

@@ -1,0 +1,828 @@
+[
+  {
+    "id": "xy11-bb-fever-burst-fighter-001",
+    "name": "Seedot",
+    "number": "001",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866039.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866039.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-002",
+    "name": "Nuzleaf",
+    "number": "002",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866168.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866168.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-003",
+    "name": "Shiftry",
+    "number": "003",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866037.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866037.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-004",
+    "name": "Foongus",
+    "number": "004",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/865989.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/865989.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-005",
+    "name": "Amoonguss",
+    "number": "005",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866050.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866050.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-006",
+    "name": "Ponyta",
+    "number": "006",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866026.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866026.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-007",
+    "name": "Rapidash",
+    "number": "007",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866015.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866015.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-008",
+    "name": "Litleo",
+    "number": "008",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866025.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866025.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-009",
+    "name": "Pyroar",
+    "number": "009",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866029.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866029.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-010",
+    "name": "Pyroar BREAK",
+    "number": "010",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866007.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866007.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-011",
+    "name": "Volcanion",
+    "number": "011",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866022.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866022.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-012",
+    "name": "Volcanion EX - 012/054",
+    "number": "012",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866172.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866172.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-013",
+    "name": "Shellos",
+    "number": "013",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/865995.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/865995.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-014",
+    "name": "Gastrodon",
+    "number": "014",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866006.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866006.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-015",
+    "name": "Oshawott",
+    "number": "015",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866028.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866028.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-016",
+    "name": "Dewott",
+    "number": "016",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866051.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866051.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-017",
+    "name": "Samurott",
+    "number": "017",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/865994.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/865994.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-018",
+    "name": "Clauncher",
+    "number": "018",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866013.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866013.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-019",
+    "name": "Clawitzer",
+    "number": "019",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/865987.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/865987.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-020",
+    "name": "Clawitzer BREAK",
+    "number": "020",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866030.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866030.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-021",
+    "name": "Joltik",
+    "number": "021",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866012.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866012.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-022",
+    "name": "Galvantula",
+    "number": "022",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866024.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866024.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-023",
+    "name": "Drifloon",
+    "number": "023",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866173.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866173.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-024",
+    "name": "Drifblim",
+    "number": "024",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866031.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866031.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-025",
+    "name": "Litwick",
+    "number": "025",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866174.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866174.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-026",
+    "name": "Lampent",
+    "number": "026",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866046.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866046.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-027",
+    "name": "Chandelure",
+    "number": "027",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866023.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866023.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-028",
+    "name": "Nosepass",
+    "number": "028",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866048.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866048.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-029",
+    "name": "Probopass",
+    "number": "029",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/865993.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/865993.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-030",
+    "name": "Croagunk",
+    "number": "030",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866166.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866166.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-031",
+    "name": "Toxicroak",
+    "number": "031",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866047.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866047.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-032",
+    "name": "Steelix EX - 032/054",
+    "number": "032",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/865988.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/865988.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-033",
+    "name": "Steelix - 033/054",
+    "number": "033",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/865990.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/865990.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-034",
+    "name": "Shieldon",
+    "number": "034",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/865986.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/865986.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-035",
+    "name": "Bastiodon",
+    "number": "035",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866033.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866033.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-036",
+    "name": "Klink",
+    "number": "036",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866171.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866171.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-037",
+    "name": "Klang",
+    "number": "037",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866041.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866041.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-038",
+    "name": "Klinklang",
+    "number": "038",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866036.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866036.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-039",
+    "name": "Cobalion",
+    "number": "039",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866038.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866038.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-040",
+    "name": "Klefki",
+    "number": "040",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866035.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866035.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-041",
+    "name": "Xerneas",
+    "number": "041",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866009.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866009.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-042",
+    "name": "Xerneas BREAK",
+    "number": "042",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866011.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866011.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-043",
+    "name": "Druddigon",
+    "number": "043",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866044.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866044.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-044",
+    "name": "Aipom",
+    "number": "044",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/865992.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/865992.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-045",
+    "name": "Ambipom",
+    "number": "045",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866034.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866034.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-046",
+    "name": "Fletchling",
+    "number": "046",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866014.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866014.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-047",
+    "name": "Fletchinder",
+    "number": "047",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866040.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866040.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-048",
+    "name": "Talonflame",
+    "number": "048",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866169.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866169.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-049",
+    "name": "Armor Fossil Shieldon",
+    "number": "049",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866052.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866052.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-050",
+    "name": "Special Charge",
+    "number": "050",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866027.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866027.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-051",
+    "name": "Greedy Dice",
+    "number": "051",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866045.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866045.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-052",
+    "name": "Steelix Spirit Link",
+    "number": "052",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866008.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866008.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-053",
+    "name": "Ninja Boy",
+    "number": "053",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866167.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866167.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-054",
+    "name": "Pokemon Ranger - 054/054",
+    "number": "054",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866049.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866049.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-055",
+    "name": "Volcanion EX - 055/054",
+    "number": "055",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/865991.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/865991.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-056",
+    "name": "Steelix EX - 056/054",
+    "number": "056",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866170.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866170.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-057",
+    "name": "Steelix - 057/054",
+    "number": "057",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866043.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866043.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-058",
+    "name": "Pokemon Ranger - 058/054",
+    "number": "058",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866042.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866042.jpg"
+  },
+  {
+    "id": "xy11-bb-fever-burst-fighter-059",
+    "name": "Volcanion EX - 059/054",
+    "number": "059",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900181/866010.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900181/866010.jpg"
+  }
+]

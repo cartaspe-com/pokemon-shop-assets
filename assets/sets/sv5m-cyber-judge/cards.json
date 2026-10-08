@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "sv5m-cyber-judge-001",
+    "name": "Scyther",
+    "number": "001",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006102.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006102.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-002",
+    "name": "Pineco",
+    "number": "002",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006039.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006039.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-003",
+    "name": "Seedot",
+    "number": "003",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005972.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005972.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-004",
+    "name": "Nuzleaf",
+    "number": "004",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006076.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006076.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-005",
+    "name": "Shiftry - 005/071",
+    "number": "005",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006068.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006068.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-006",
+    "name": "Shroomish",
+    "number": "006",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006151.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006151.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-007",
+    "name": "Breloom",
+    "number": "007",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005976.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005976.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-008",
+    "name": "Deerling - 008/071",
+    "number": "008",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006012.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006012.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-009",
+    "name": "Sawsbuck - 009/071",
+    "number": "009",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006103.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006103.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-010",
+    "name": "Grubbin",
+    "number": "010",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006040.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006040.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-011",
+    "name": "Dhelmise",
+    "number": "011",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006007.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006007.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-012",
+    "name": "Bramblin",
+    "number": "012",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006097.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006097.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-013",
+    "name": "Brambleghast",
+    "number": "013",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006016.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006016.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-014",
+    "name": "Rellor",
+    "number": "014",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006106.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006106.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-015",
+    "name": "Rabsca",
+    "number": "015",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006015.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006015.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-016",
+    "name": "Iron Leaves ex - 016/071",
+    "number": "016",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005642.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005642.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-017",
+    "name": "Slugma",
+    "number": "017",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006071.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006071.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-018",
+    "name": "Magcargo",
+    "number": "018",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006104.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006104.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-019",
+    "name": "Victini",
+    "number": "019",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005723.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005723.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-020",
+    "name": "Litten - 020/071",
+    "number": "020",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006008.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006008.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-021",
+    "name": "Torracat",
+    "number": "021",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005969.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005969.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-022",
+    "name": "Incineroar ex - 022/071",
+    "number": "022",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005683.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005683.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-023",
+    "name": "Pikachu",
+    "number": "023",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005690.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005690.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-024",
+    "name": "Raichu",
+    "number": "024",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005970.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005970.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-025",
+    "name": "Electabuzz",
+    "number": "025",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006013.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006013.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-026",
+    "name": "Electivire",
+    "number": "026",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006098.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006098.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-027",
+    "name": "Charjabug - 027/071",
+    "number": "027",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006042.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006042.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-028",
+    "name": "Vikavolt",
+    "number": "028",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006099.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006099.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-029",
+    "name": "Zeraora",
+    "number": "029",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005968.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005968.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-030",
+    "name": "Iron Thorns - 030/071",
+    "number": "030",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005759.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005759.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-031",
+    "name": "Mr. Mime",
+    "number": "031",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005973.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005973.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-032",
+    "name": "Girafarig",
+    "number": "032",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006075.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006075.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-033",
+    "name": "Cutiefly - 033/071",
+    "number": "033",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006069.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006069.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-034",
+    "name": "Ribombee",
+    "number": "034",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005732.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005732.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-035",
+    "name": "Iron Valiant",
+    "number": "035",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006037.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006037.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-036",
+    "name": "Iron Crown ex - 036/071",
+    "number": "036",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005639.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005639.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-037",
+    "name": "Meditite",
+    "number": "037",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006009.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006009.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-038",
+    "name": "Medicham",
+    "number": "038",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005971.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005971.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-039",
+    "name": "Drilbur",
+    "number": "039",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006011.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006011.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-040",
+    "name": "Excadrill - 040/071",
+    "number": "040",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006044.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006044.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-041",
+    "name": "Iron Boulder ex - 041/071",
+    "number": "041",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005637.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005637.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-042",
+    "name": "Farigiraf ex - 042/071",
+    "number": "042",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005640.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005640.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-043",
+    "name": "Forretress",
+    "number": "043",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006105.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006105.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-044",
+    "name": "Scizor ex - 044/071",
+    "number": "044",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005638.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005638.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-045",
+    "name": "Mawile",
+    "number": "045",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005763.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005763.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-046",
+    "name": "Beldum",
+    "number": "046",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006072.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006072.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-047",
+    "name": "Metang",
+    "number": "047",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006100.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006100.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-048",
+    "name": "Metagross - 048/071",
+    "number": "048",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006038.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006038.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-049",
+    "name": "Meltan - 049/071",
+    "number": "049",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006010.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006010.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-050",
+    "name": "Melmetal",
+    "number": "050",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006073.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006073.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-051",
+    "name": "Iron Treads",
+    "number": "051",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005975.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005975.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-052",
+    "name": "Miraidon",
+    "number": "052",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005726.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005726.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-053",
+    "name": "Lickitung - 053/071",
+    "number": "053",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006041.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006041.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-054",
+    "name": "Lickilicky",
+    "number": "054",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006101.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006101.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-055",
+    "name": "Skitty",
+    "number": "055",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005757.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005757.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-056",
+    "name": "Delcatty",
+    "number": "056",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005967.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005967.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-057",
+    "name": "Pidove",
+    "number": "057",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006152.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006152.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-058",
+    "name": "Tranquill",
+    "number": "058",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006070.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006070.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-059",
+    "name": "Unfezant",
+    "number": "059",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006045.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006045.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-060",
+    "name": "Drampa - 060/071",
+    "number": "060",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005729.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005729.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-061",
+    "name": "Hand Trimmer",
+    "number": "061",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006046.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006046.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-062",
+    "name": "Prime Catcher",
+    "number": "062",
+    "rarity": "ACE Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005684.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005684.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-063",
+    "name": "Reboot Pod",
+    "number": "063",
+    "rarity": "ACE Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005727.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005727.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-064",
+    "name": "Hero's Cape",
+    "number": "064",
+    "rarity": "ACE Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005687.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005687.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-065",
+    "name": "Future Booster Energy Capsule",
+    "number": "065",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006043.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006043.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-066",
+    "name": "Heavy Baton",
+    "number": "066",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005974.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005974.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-067",
+    "name": "Ciphermaniac's Codebreaking - 067/071",
+    "number": "067",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006074.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006074.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-068",
+    "name": "Salvatore - 068/071",
+    "number": "068",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005692.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005692.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-069",
+    "name": "Bianca's Devotion - 069/071",
+    "number": "069",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006014.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006014.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-070",
+    "name": "Full Metal Lab",
+    "number": "070",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005766.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005766.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-071",
+    "name": "Mist Energy",
+    "number": "071",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005724.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005724.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-072",
+    "name": "Shiftry - 072/071",
+    "number": "072",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005614.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005614.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-073",
+    "name": "Deerling - 073/071",
+    "number": "073",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005634.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005634.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-074",
+    "name": "Sawsbuck - 074/071",
+    "number": "074",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005621.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005621.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-075",
+    "name": "Litten - 075/071",
+    "number": "075",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005613.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005613.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-076",
+    "name": "Charjabug - 076/071",
+    "number": "076",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005617.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005617.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-077",
+    "name": "Iron Thorns - 077/071",
+    "number": "077",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005636.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005636.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-078",
+    "name": "Cutiefly - 078/071",
+    "number": "078",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005615.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005615.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-079",
+    "name": "Excadrill - 079/071",
+    "number": "079",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005633.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005633.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-080",
+    "name": "Metagross - 080/071",
+    "number": "080",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005622.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005622.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-081",
+    "name": "Meltan - 081/071",
+    "number": "081",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005616.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005616.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-082",
+    "name": "Lickitung - 082/071",
+    "number": "082",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005618.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005618.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-083",
+    "name": "Drampa - 083/071",
+    "number": "083",
+    "rarity": "Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005620.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005620.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-084",
+    "name": "Iron Leaves ex - 084/071",
+    "number": "084",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005725.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005725.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-085",
+    "name": "Incineroar ex - 085/071",
+    "number": "085",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005641.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005641.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-086",
+    "name": "Iron Crown ex - 086/071",
+    "number": "086",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005758.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005758.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-087",
+    "name": "Iron Boulder ex - 087/071",
+    "number": "087",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005688.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005688.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-088",
+    "name": "Farigiraf ex - 088/071",
+    "number": "088",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005728.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005728.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-089",
+    "name": "Scizor ex - 089/071",
+    "number": "089",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005731.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005731.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-090",
+    "name": "Ciphermaniac's Codebreaking - 090/071",
+    "number": "090",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005685.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005685.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-091",
+    "name": "Salvatore - 091/071",
+    "number": "091",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005689.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005689.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-092",
+    "name": "Bianca's Devotion - 092/071",
+    "number": "092",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005730.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005730.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-093",
+    "name": "Iron Leaves ex - 093/071",
+    "number": "093",
+    "rarity": "Special Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005691.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005691.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-094",
+    "name": "Iron Crown ex - 094/071",
+    "number": "094",
+    "rarity": "Special Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005686.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005686.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-095",
+    "name": "Iron Boulder ex - 095/071",
+    "number": "095",
+    "rarity": "Special Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005761.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005761.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-096",
+    "name": "Salvatore - 096/071",
+    "number": "096",
+    "rarity": "Special Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1006067.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1006067.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-097",
+    "name": "Bianca's Devotion - 097/071",
+    "number": "097",
+    "rarity": "Special Art Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005760.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005760.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-098",
+    "name": "Iron Leaves ex - 098/071",
+    "number": "098",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005762.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005762.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-099",
+    "name": "Iron Crown ex - 099/071",
+    "number": "099",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005765.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005765.jpg"
+  },
+  {
+    "id": "sv5m-cyber-judge-100",
+    "name": "Iron Boulder ex - 100/071",
+    "number": "100",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900375/1005764.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900375/1005764.jpg"
+  }
+]

@@ -1,0 +1,660 @@
+[
+  {
+    "id": "pokemon-web-001",
+    "name": "Ivysaur",
+    "number": "001",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844746.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844746.jpg"
+  },
+  {
+    "id": "pokemon-web-002",
+    "name": "Nidoran",
+    "number": "002",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844725.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844725.jpg"
+  },
+  {
+    "id": "pokemon-web-003",
+    "name": "Venonat",
+    "number": "003",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844751.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844751.jpg"
+  },
+  {
+    "id": "pokemon-web-004",
+    "name": "Exeggcute",
+    "number": "004",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844749.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844749.jpg"
+  },
+  {
+    "id": "pokemon-web-005",
+    "name": "Tangela",
+    "number": "005",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844734.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844734.jpg"
+  },
+  {
+    "id": "pokemon-web-006",
+    "name": "Growlithe",
+    "number": "006",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844747.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844747.jpg"
+  },
+  {
+    "id": "pokemon-web-007",
+    "name": "Charmeleon",
+    "number": "007",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844743.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844743.jpg"
+  },
+  {
+    "id": "pokemon-web-008",
+    "name": "Vulpix",
+    "number": "008",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844730.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844730.jpg"
+  },
+  {
+    "id": "pokemon-web-009",
+    "name": "Wartortle",
+    "number": "009",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844736.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844736.jpg"
+  },
+  {
+    "id": "pokemon-web-010",
+    "name": "Marill",
+    "number": "010",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844750.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844750.jpg"
+  },
+  {
+    "id": "pokemon-web-011",
+    "name": "Voltorb",
+    "number": "011",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844763.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844763.jpg"
+  },
+  {
+    "id": "pokemon-web-012",
+    "name": "Slowpoke",
+    "number": "012",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844739.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844739.jpg"
+  },
+  {
+    "id": "pokemon-web-013",
+    "name": "Diglett",
+    "number": "013",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844737.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844737.jpg"
+  },
+  {
+    "id": "pokemon-web-014",
+    "name": "Hitmonlee",
+    "number": "014",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844741.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844741.jpg"
+  },
+  {
+    "id": "pokemon-web-015",
+    "name": "Bill's Teleporter",
+    "number": "015",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844767.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844767.jpg"
+  },
+  {
+    "id": "pokemon-web-016",
+    "name": "New Pokedex",
+    "number": "016",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844723.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844723.jpg"
+  },
+  {
+    "id": "pokemon-web-017",
+    "name": "Dark Ivysaur",
+    "number": "017",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844733.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844733.jpg"
+  },
+  {
+    "id": "pokemon-web-018",
+    "name": "Nidorino",
+    "number": "018",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844738.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844738.jpg"
+  },
+  {
+    "id": "pokemon-web-019",
+    "name": "Venomoth",
+    "number": "019",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844735.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844735.jpg"
+  },
+  {
+    "id": "pokemon-web-020",
+    "name": "Exeggutor",
+    "number": "020",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844726.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844726.jpg"
+  },
+  {
+    "id": "pokemon-web-021",
+    "name": "Dark Weezing",
+    "number": "021",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844727.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844727.jpg"
+  },
+  {
+    "id": "pokemon-web-022",
+    "name": "Dark Charmeleon",
+    "number": "022",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844722.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844722.jpg"
+  },
+  {
+    "id": "pokemon-web-023",
+    "name": "Arcanine",
+    "number": "023",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844742.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844742.jpg"
+  },
+  {
+    "id": "pokemon-web-024",
+    "name": "Dark Wartortle",
+    "number": "024",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844740.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844740.jpg"
+  },
+  {
+    "id": "pokemon-web-025",
+    "name": "Surfing Pikachu",
+    "number": "025",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844761.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844761.jpg"
+  },
+  {
+    "id": "pokemon-web-026",
+    "name": "Electrode",
+    "number": "026",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844752.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844752.jpg"
+  },
+  {
+    "id": "pokemon-web-027",
+    "name": "Dark Kadabra",
+    "number": "027",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844721.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844721.jpg"
+  },
+  {
+    "id": "pokemon-web-028",
+    "name": "Dark Slowbro",
+    "number": "028",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844731.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844731.jpg"
+  },
+  {
+    "id": "pokemon-web-029",
+    "name": "Dugtrio",
+    "number": "029",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844755.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844755.jpg"
+  },
+  {
+    "id": "pokemon-web-030",
+    "name": "Max Revive",
+    "number": "030",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844760.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844760.jpg"
+  },
+  {
+    "id": "pokemon-web-031",
+    "name": "Hyper Devolution Spray",
+    "number": "031",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844764.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844764.jpg"
+  },
+  {
+    "id": "pokemon-web-032",
+    "name": "Pokemon Retransfer",
+    "number": "032",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844754.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844754.jpg"
+  },
+  {
+    "id": "pokemon-web-033",
+    "name": "Nidoking",
+    "number": "033",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844732.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844732.jpg"
+  },
+  {
+    "id": "pokemon-web-034",
+    "name": "Ninetales",
+    "number": "034",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844745.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844745.jpg"
+  },
+  {
+    "id": "pokemon-web-035",
+    "name": "Magikarp",
+    "number": "035",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844757.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844757.jpg"
+  },
+  {
+    "id": "pokemon-web-036",
+    "name": "Raichu",
+    "number": "036",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844762.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844762.jpg"
+  },
+  {
+    "id": "pokemon-web-037",
+    "name": "Dark Alakazam",
+    "number": "037",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844766.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844766.jpg"
+  },
+  {
+    "id": "pokemon-web-038",
+    "name": "Dragonite",
+    "number": "038",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844744.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844744.jpg"
+  },
+  {
+    "id": "pokemon-web-040",
+    "name": "Rocket's Sneak Attack",
+    "number": "040",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844728.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844728.jpg"
+  },
+  {
+    "id": "pokemon-web-041",
+    "name": "Dark Venusaur",
+    "number": "041",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844748.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844748.jpg"
+  },
+  {
+    "id": "pokemon-web-042",
+    "name": "Dark Charizard",
+    "number": "042",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844759.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844759.jpg"
+  },
+  {
+    "id": "pokemon-web-043",
+    "name": "Moltres",
+    "number": "043",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844753.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844753.jpg"
+  },
+  {
+    "id": "pokemon-web-044",
+    "name": "Dark Blastoise",
+    "number": "044",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844758.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844758.jpg"
+  },
+  {
+    "id": "pokemon-web-045",
+    "name": "Articuno",
+    "number": "045",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844729.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844729.jpg"
+  },
+  {
+    "id": "pokemon-web-046",
+    "name": "Zapdos",
+    "number": "046",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844765.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844765.jpg"
+  },
+  {
+    "id": "pokemon-web-047",
+    "name": "Gengar",
+    "number": "047",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844756.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844756.jpg"
+  },
+  {
+    "id": "pokemon-web-048",
+    "name": "Machamp",
+    "number": "048",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900230/844724.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900230/844724.jpg"
+  }
+]

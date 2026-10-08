@@ -1,0 +1,800 @@
+[
+  {
+    "id": "bw3-hail-blizzard-001",
+    "name": "Pansage",
+    "number": "001",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858097.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858097.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-002",
+    "name": "Simisage",
+    "number": "002",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858133.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858133.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-003",
+    "name": "Petilil",
+    "number": "003",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858071.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858071.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-004",
+    "name": "Lilligant",
+    "number": "004",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858027.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858027.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-005",
+    "name": "Deerling",
+    "number": "005",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858102.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858102.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-006",
+    "name": "Sawsbuck",
+    "number": "006",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858098.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858098.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-007",
+    "name": "Foongus",
+    "number": "007",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858036.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858036.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-008",
+    "name": "Amoonguss",
+    "number": "008",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858099.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858099.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-009",
+    "name": "Growlithe",
+    "number": "009",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858076.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858076.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-010",
+    "name": "Arcanine",
+    "number": "010",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858052.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858052.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-011",
+    "name": "Darumaka",
+    "number": "011",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858067.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858067.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-012",
+    "name": "Litwick",
+    "number": "012",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858053.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858053.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-013",
+    "name": "Lampent",
+    "number": "013",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858049.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858049.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-014",
+    "name": "Chandelure - 014/052",
+    "number": "014",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858034.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858034.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-015",
+    "name": "Lapras",
+    "number": "015",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858073.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858073.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-016",
+    "name": "Vanillite",
+    "number": "016",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858054.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858054.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-017",
+    "name": "Vanillish",
+    "number": "017",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858131.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858131.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-018",
+    "name": "Vanilluxe",
+    "number": "018",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858135.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858135.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-019",
+    "name": "Cubchoo",
+    "number": "019",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858101.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858101.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-020",
+    "name": "Beartic",
+    "number": "020",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858100.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858100.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-021",
+    "name": "Cryogonal",
+    "number": "021",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858035.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858035.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-022",
+    "name": "Kyurem EX - 022/052",
+    "number": "022",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858048.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858048.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-023",
+    "name": "Pikachu",
+    "number": "023",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858069.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858069.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-024",
+    "name": "Raichu",
+    "number": "024",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858262.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858262.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-025",
+    "name": "Zapdos",
+    "number": "025",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858074.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858074.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-026",
+    "name": "Ralts",
+    "number": "026",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858029.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858029.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-027",
+    "name": "Kirlia",
+    "number": "027",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858031.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858031.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-028",
+    "name": "Gardevoir",
+    "number": "028",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858050.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858050.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-029",
+    "name": "Darmanitan",
+    "number": "029",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858070.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858070.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-030",
+    "name": "Elgyem",
+    "number": "030",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858267.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858267.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-031",
+    "name": "Beheeyem",
+    "number": "031",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858261.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858261.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-032",
+    "name": "Groudon EX - 032/052",
+    "number": "032",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858047.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858047.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-033",
+    "name": "Riolu",
+    "number": "033",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858075.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858075.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-034",
+    "name": "Lucario",
+    "number": "034",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858068.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858068.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-035",
+    "name": "Hippopotas",
+    "number": "035",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858103.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858103.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-036",
+    "name": "Hippowdon",
+    "number": "036",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858264.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858264.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-037",
+    "name": "Sneasel",
+    "number": "037",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858263.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858263.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-038",
+    "name": "Weavile",
+    "number": "038",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858266.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858266.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-039",
+    "name": "Bronzor",
+    "number": "039",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858132.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858132.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-040",
+    "name": "Bronzong",
+    "number": "040",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858129.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858129.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-041",
+    "name": "Pawniard",
+    "number": "041",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858033.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858033.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-042",
+    "name": "Bisharp",
+    "number": "042",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858032.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858032.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-043",
+    "name": "Jigglypuff",
+    "number": "043",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858028.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858028.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-044",
+    "name": "Wigglytuff",
+    "number": "044",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858104.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858104.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-045",
+    "name": "Regigigas EX - 045/052",
+    "number": "045",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858030.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858030.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-046",
+    "name": "Pidove",
+    "number": "046",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858136.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858136.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-047",
+    "name": "Tranquill",
+    "number": "047",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858130.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858130.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-048",
+    "name": "Unfezant",
+    "number": "048",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858128.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858128.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-049",
+    "name": "Heavy Ball",
+    "number": "049",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858127.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858127.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-050",
+    "name": "Cilan",
+    "number": "050",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858056.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858056.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-051",
+    "name": "Pokemon Center",
+    "number": "051",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858134.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858134.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-052",
+    "name": "Double Colorless Energy",
+    "number": "052",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858105.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858105.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-053",
+    "name": "Kyurem EX - 053/052",
+    "number": "053",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858055.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858055.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-054",
+    "name": "Groudon EX - 054/052",
+    "number": "054",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858051.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858051.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-055",
+    "name": "Regigigas EX - 055/052",
+    "number": "055",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858072.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858072.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-056",
+    "name": "Emboar",
+    "number": "056",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858265.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858265.jpg"
+  },
+  {
+    "id": "bw3-hail-blizzard-057",
+    "name": "Chandelure - 057/052",
+    "number": "057",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900070/858106.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900070/858106.jpg"
+  }
+]

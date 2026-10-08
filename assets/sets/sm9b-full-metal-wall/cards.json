@@ -1,0 +1,968 @@
+[
+  {
+    "id": "sm9b-full-metal-wall-001",
+    "name": "Pheromosa & Buzzwole GX - 001/054",
+    "number": "001",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907286.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907286.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-002",
+    "name": "Caterpie",
+    "number": "002",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907284.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907284.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-003",
+    "name": "Metapod",
+    "number": "003",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907533.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907533.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-004",
+    "name": "Butterfree",
+    "number": "004",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907530.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907530.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-005",
+    "name": "Tangela",
+    "number": "005",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907342.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907342.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-006",
+    "name": "Tangrowth",
+    "number": "006",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907314.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907314.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-007",
+    "name": "Kartana",
+    "number": "007",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907281.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907281.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-008",
+    "name": "Squirtle",
+    "number": "008",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907308.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907308.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-009",
+    "name": "Wartortle",
+    "number": "009",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907303.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907303.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-010",
+    "name": "Blastoise GX - 010/054",
+    "number": "010",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907282.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907282.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-011",
+    "name": "Slowpoke",
+    "number": "011",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907348.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907348.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-012",
+    "name": "Slowbro",
+    "number": "012",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907534.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907534.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-013",
+    "name": "Pyukumuku",
+    "number": "013",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907289.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907289.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-014",
+    "name": "Ekans",
+    "number": "014",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907315.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907315.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-015",
+    "name": "Arbok",
+    "number": "015",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907316.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907316.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-016",
+    "name": "Zubat",
+    "number": "016",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907323.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907323.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-017",
+    "name": "Golbat",
+    "number": "017",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907304.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907304.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-018",
+    "name": "Crobat",
+    "number": "018",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907285.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907285.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-019",
+    "name": "Drowzee",
+    "number": "019",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907340.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907340.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-020",
+    "name": "Hypno",
+    "number": "020",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907305.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907305.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-021",
+    "name": "Sandshrew",
+    "number": "021",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907324.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907324.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-022",
+    "name": "Sandslash",
+    "number": "022",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907319.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907319.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-023",
+    "name": "Geodude",
+    "number": "023",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907317.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907317.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-024",
+    "name": "Graveler",
+    "number": "024",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907557.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907557.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-025",
+    "name": "Golem",
+    "number": "025",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907341.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907341.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-026",
+    "name": "Hitmontop",
+    "number": "026",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907301.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907301.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-027",
+    "name": "Riolu",
+    "number": "027",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907309.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907309.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-028",
+    "name": "Stakataka",
+    "number": "028",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907306.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907306.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-029",
+    "name": "Lucario & Melmetal GX - 029/054",
+    "number": "029",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907280.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907280.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-030",
+    "name": "Alolan Diglett",
+    "number": "030",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907320.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907320.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-031",
+    "name": "Alolan Dugtrio",
+    "number": "031",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907325.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907325.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-032",
+    "name": "Aron",
+    "number": "032",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907552.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907552.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-033",
+    "name": "Lairon",
+    "number": "033",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907329.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907329.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-034",
+    "name": "Aggron",
+    "number": "034",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907553.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907553.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-035",
+    "name": "Lucario",
+    "number": "035",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907318.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907318.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-036",
+    "name": "Genesect",
+    "number": "036",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907531.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907531.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-037",
+    "name": "Meltan",
+    "number": "037",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907345.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907345.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-038",
+    "name": "Melmetal",
+    "number": "038",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907307.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907307.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-039",
+    "name": "Spearow",
+    "number": "039",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907346.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907346.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-040",
+    "name": "Fearow",
+    "number": "040",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907311.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907311.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-041",
+    "name": "Glameow",
+    "number": "041",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907343.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907343.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-042",
+    "name": "Purugly",
+    "number": "042",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907326.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907326.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-043",
+    "name": "Celesteela GX - 043/054",
+    "number": "043",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907287.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907287.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-044",
+    "name": "Devolution Spray Z",
+    "number": "044",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907568.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907568.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-045",
+    "name": "Beast Bringer - 045/054",
+    "number": "045",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907555.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907555.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-046",
+    "name": "Metal Core Barrier - 046/054",
+    "number": "046",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907549.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907549.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-047",
+    "name": "Ultra Forest Kartenvoy",
+    "number": "047",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907548.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907548.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-048",
+    "name": "Green's Exploration - 048/054",
+    "number": "048",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907283.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907283.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-049",
+    "name": "Molayne - 049/054",
+    "number": "049",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907537.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907537.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-050",
+    "name": "Power Plant",
+    "number": "050",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907556.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907556.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-051",
+    "name": "Ultra Ball",
+    "number": "051",
+    "rarity": "Trainer Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907310.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907310.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-052",
+    "name": "Beast Ring",
+    "number": "052",
+    "rarity": "Trainer Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907551.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907551.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-053",
+    "name": "Metal Frying Pan",
+    "number": "053",
+    "rarity": "Trainer Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907554.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907554.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-054",
+    "name": "Acerola",
+    "number": "054",
+    "rarity": "Trainer Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907327.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907327.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-055",
+    "name": "Pheromosa & Buzzwole GX - 055/054",
+    "number": "055",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907300.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907300.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-056",
+    "name": "Pheromosa & Buzzwole GX - 056/054",
+    "number": "056",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907349.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907349.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-057",
+    "name": "Blastoise GX - 057/054",
+    "number": "057",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907535.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907535.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-058",
+    "name": "Lucario & Melmetal GX - 058/054",
+    "number": "058",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907528.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907528.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-059",
+    "name": "Lucario & Melmetal GX - 059/054",
+    "number": "059",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907321.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907321.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-060",
+    "name": "Celesteela GX - 060/054",
+    "number": "060",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907322.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907322.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-061",
+    "name": "Green's Exploration - 061/054",
+    "number": "061",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907529.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907529.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-062",
+    "name": "Molayne - 062/054",
+    "number": "062",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907302.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907302.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-063",
+    "name": "Pheromosa & Buzzwole GX - 063/054",
+    "number": "063",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907536.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907536.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-064",
+    "name": "Blastoise GX - 064/054",
+    "number": "064",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907344.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907344.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-065",
+    "name": "Lucario & Melmetal GX - 065/054",
+    "number": "065",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907288.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907288.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-066",
+    "name": "Celesteela GX - 066/054",
+    "number": "066",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907532.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907532.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-067",
+    "name": "Beast Bringer - 067/054",
+    "number": "067",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907347.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907347.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-068",
+    "name": "Metal Core Barrier - 068/054",
+    "number": "068",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907312.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907312.jpg"
+  },
+  {
+    "id": "sm9b-full-metal-wall-069",
+    "name": "Mt. Coronet",
+    "number": "069",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900031/907550.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900031/907550.jpg"
+  }
+]

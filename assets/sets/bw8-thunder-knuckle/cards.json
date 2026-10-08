@@ -1,0 +1,814 @@
+[
+  {
+    "id": "bw8-thunder-knuckle-001",
+    "name": "Weedle",
+    "number": "001",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861235.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861235.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-002",
+    "name": "Kakuna",
+    "number": "002",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/860983.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/860983.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-003",
+    "name": "Beedrill",
+    "number": "003",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861034.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861034.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-004",
+    "name": "Cacnea",
+    "number": "004",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861238.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861238.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-005",
+    "name": "Cacturne",
+    "number": "005",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861047.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861047.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-006",
+    "name": "Leafeon (Team Plasma)",
+    "number": "006",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861017.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861017.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-007",
+    "name": "Flareon (Team Plasma)",
+    "number": "007",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861016.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861016.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-008",
+    "name": "Reshiram",
+    "number": "008",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861011.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861011.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-009",
+    "name": "Vaporeon (Team Plasma)",
+    "number": "009",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861031.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861031.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-010",
+    "name": "Wooper",
+    "number": "010",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861029.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861029.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-011",
+    "name": "Quagsire",
+    "number": "011",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861032.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861032.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-012",
+    "name": "Vanillite",
+    "number": "012",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861004.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861004.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-013",
+    "name": "Vanillish",
+    "number": "013",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861234.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861234.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-014",
+    "name": "Vanilluxe (Team Plasma)",
+    "number": "014",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861013.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861013.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-015",
+    "name": "Cryogonal (Team Plasma)",
+    "number": "015",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861035.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861035.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-016",
+    "name": "Kyurem (Team Plasma)",
+    "number": "016",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/860985.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/860985.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-017",
+    "name": "Voltorb",
+    "number": "017",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861042.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861042.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-018",
+    "name": "Electrode",
+    "number": "018",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861003.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861003.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-019",
+    "name": "Pachirisu",
+    "number": "019",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861048.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861048.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-020",
+    "name": "Thundurus EX (Team Plasma) - 020/051",
+    "number": "020",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861012.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861012.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-021",
+    "name": "NidoranM",
+    "number": "021",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861009.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861009.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-022",
+    "name": "Nidorino",
+    "number": "022",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861010.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861010.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-023",
+    "name": "Grimer",
+    "number": "023",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861045.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861045.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-024",
+    "name": "Muk (Team Plasma)",
+    "number": "024",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/860987.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/860987.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-025",
+    "name": "Beldum",
+    "number": "025",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861008.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861008.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-026",
+    "name": "Metang",
+    "number": "026",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861233.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861233.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-027",
+    "name": "Metagross (Team Plasma)",
+    "number": "027",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861015.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861015.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-028",
+    "name": "Nidoking",
+    "number": "028",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861030.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861030.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-029",
+    "name": "Makuhita",
+    "number": "029",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861232.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861232.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-030",
+    "name": "Hariyama",
+    "number": "030",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861039.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861039.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-031",
+    "name": "Umbreon (Team Plasma)",
+    "number": "031",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861033.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861033.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-032",
+    "name": "Pawniard",
+    "number": "032",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861040.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861040.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-033",
+    "name": "Bisharp (Team Plasma)",
+    "number": "033",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/860999.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/860999.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-034",
+    "name": "Deino",
+    "number": "034",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/860982.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/860982.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-035",
+    "name": "Zweilous",
+    "number": "035",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861043.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861043.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-036",
+    "name": "Hydreigon (Team Plasma)",
+    "number": "036",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861044.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861044.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-037",
+    "name": "Mawile",
+    "number": "037",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/860981.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/860981.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-038",
+    "name": "Dratini",
+    "number": "038",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861002.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861002.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-039",
+    "name": "Dragonair",
+    "number": "039",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861001.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861001.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-040",
+    "name": "Dragonite",
+    "number": "040",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/860984.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/860984.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-041",
+    "name": "Latias EX - 041/051",
+    "number": "041",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/860979.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/860979.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-042",
+    "name": "Eevee",
+    "number": "042",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/860980.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/860980.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-043",
+    "name": "Starly",
+    "number": "043",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861006.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861006.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-044",
+    "name": "Staravia",
+    "number": "044",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861041.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861041.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-045",
+    "name": "Staraptor",
+    "number": "045",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861005.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861005.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-046",
+    "name": "Tornadus EX (Team Plasma) - 046/051",
+    "number": "046",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/860986.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/860986.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-047",
+    "name": "Team Plasma Ball",
+    "number": "047",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861236.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861236.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-048",
+    "name": "Float Stone",
+    "number": "048",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861037.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861037.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-049",
+    "name": "Shadow Triad",
+    "number": "049",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861038.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861038.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-050",
+    "name": "Life Dew",
+    "number": "050",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861231.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861231.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-051",
+    "name": "Plasma Energy",
+    "number": "051",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861014.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861014.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-052",
+    "name": "Thundurus EX (Team Plasma) - 052/051",
+    "number": "052",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/860988.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/860988.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-053",
+    "name": "Latias EX - 053/051",
+    "number": "053",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861018.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861018.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-054",
+    "name": "Tornadus EX (Team Plasma) - 054/051",
+    "number": "054",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861007.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861007.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-055",
+    "name": "Professor Juniper",
+    "number": "055",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861000.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861000.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-056",
+    "name": "Garbodor",
+    "number": "056",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861046.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861046.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-057",
+    "name": "Garchomp",
+    "number": "057",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861237.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861237.jpg"
+  },
+  {
+    "id": "bw8-thunder-knuckle-058",
+    "name": "Max Potion",
+    "number": "058",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900211/861036.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900211/861036.jpg"
+  }
+]

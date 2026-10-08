@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "wind-from-the-sea-001",
+    "name": "Oddish",
+    "number": "001",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968155.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968155.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-002",
+    "name": "Gloom",
+    "number": "002",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968159.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968159.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-003",
+    "name": "Vileplume - 003/087",
+    "number": "003",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968503.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968503.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-004",
+    "name": "Vileplume - 004/087",
+    "number": "004",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968190.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968190.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-005",
+    "name": "Paras",
+    "number": "005",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968536.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968536.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-006",
+    "name": "Parasect",
+    "number": "006",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968549.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968549.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-007",
+    "name": "Bellsprout - 007/087",
+    "number": "007",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968258.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968258.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-008",
+    "name": "Bellsprout - 008/087",
+    "number": "008",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968297.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968297.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-009",
+    "name": "Weepinbell",
+    "number": "009",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968529.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968529.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-010",
+    "name": "Victreebel - 010/087",
+    "number": "010",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968502.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968502.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-011",
+    "name": "Victreebel - 011/087",
+    "number": "011",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968296.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968296.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-012",
+    "name": "Exeggcute - 012/087",
+    "number": "012",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968553.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968553.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-013",
+    "name": "Exeggutor - 013/087",
+    "number": "013",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968254.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968254.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-014",
+    "name": "Exeggutor - 014/087",
+    "number": "014",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968189.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968189.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-015",
+    "name": "Tangela",
+    "number": "015",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968160.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968160.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-016",
+    "name": "Scyther - 016/087",
+    "number": "016",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968293.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968293.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-017",
+    "name": "Scyther - 017/087",
+    "number": "017",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968508.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968508.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-018",
+    "name": "Pinsir",
+    "number": "018",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968500.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968500.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-019",
+    "name": "Bellossom - 019/087",
+    "number": "019",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968253.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968253.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-020",
+    "name": "Bellossom - 020/087",
+    "number": "020",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968530.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968530.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-021",
+    "name": "Vulpix",
+    "number": "021",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968497.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968497.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-022",
+    "name": "Ninetales - 022/087",
+    "number": "022",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968204.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968204.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-023",
+    "name": "Ninetales - 023/087",
+    "number": "023",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968499.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968499.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-024",
+    "name": "Ponyta",
+    "number": "024",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968292.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968292.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-025",
+    "name": "Rapidash",
+    "number": "025",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968501.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968501.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-026",
+    "name": "Entei - 026/087",
+    "number": "026",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968161.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968161.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-027",
+    "name": "Entei - 027/087",
+    "number": "027",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968498.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968498.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-028",
+    "name": "Tentacool",
+    "number": "028",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968301.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968301.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-029",
+    "name": "Tentacruel - 029/087",
+    "number": "029",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968511.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968511.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-030",
+    "name": "Tentacruel - 030/087",
+    "number": "030",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968527.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968527.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-031",
+    "name": "Slowpoke",
+    "number": "031",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968257.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968257.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-032",
+    "name": "Slowbro",
+    "number": "032",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968515.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968515.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-033",
+    "name": "Horsea - 033/087",
+    "number": "033",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968255.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968255.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-034",
+    "name": "Horsea - 034/087",
+    "number": "034",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968182.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968182.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-035",
+    "name": "Seadra",
+    "number": "035",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968252.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968252.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-036",
+    "name": "Chinchou - 036/087",
+    "number": "036",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968298.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968298.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-037",
+    "name": "Lanturn - 037/087",
+    "number": "037",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968211.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968211.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-038",
+    "name": "Remoraid",
+    "number": "038",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968547.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968547.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-039",
+    "name": "Octillery - 039/087",
+    "number": "039",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968556.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968556.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-040",
+    "name": "Octillery - 040/087",
+    "number": "040",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968507.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968507.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-041",
+    "name": "Kingdra - 041/087",
+    "number": "041",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968260.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968260.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-042",
+    "name": "Kingdra - 042/087",
+    "number": "042",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968504.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968504.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-043",
+    "name": "Chinchou - 043/087",
+    "number": "043",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968157.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968157.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-044",
+    "name": "Lanturn - 044/087",
+    "number": "044",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968256.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968256.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-045",
+    "name": "Lanturn - 045/087",
+    "number": "045",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968186.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968186.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-046",
+    "name": "Mareep",
+    "number": "046",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968513.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968513.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-047",
+    "name": "Flaaffy",
+    "number": "047",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968210.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968210.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-048",
+    "name": "Ampharos - 048/087",
+    "number": "048",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968509.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968509.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-049",
+    "name": "Ampharos - 049/087",
+    "number": "049",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968185.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968185.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-050",
+    "name": "Exeggcute - 050/087",
+    "number": "050",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968510.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968510.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-051",
+    "name": "Exeggutor - 051/087",
+    "number": "051",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968528.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968528.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-052",
+    "name": "Slowking - 052/087",
+    "number": "052",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968294.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968294.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-053",
+    "name": "Slowking - 053/087",
+    "number": "053",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968191.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968191.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-054",
+    "name": "Mankey",
+    "number": "054",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968261.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968261.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-055",
+    "name": "Primeape",
+    "number": "055",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968514.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968514.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-056",
+    "name": "Onix",
+    "number": "056",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968153.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968153.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-057",
+    "name": "Sudowoodo - 057/087",
+    "number": "057",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968207.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968207.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-058",
+    "name": "Sudowoodo - 058/087",
+    "number": "058",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968516.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968516.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-059",
+    "name": "Larvitar",
+    "number": "059",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968154.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968154.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-060",
+    "name": "Pupitar",
+    "number": "060",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968205.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968205.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-061",
+    "name": "Doduo",
+    "number": "061",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968209.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968209.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-062",
+    "name": "Dodrio",
+    "number": "062",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968506.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968506.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-063",
+    "name": "Lickitung",
+    "number": "063",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968152.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968152.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-064",
+    "name": "Kangaskhan",
+    "number": "064",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968183.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968183.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-065",
+    "name": "Sentret",
+    "number": "065",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968548.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968548.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-066",
+    "name": "Furret",
+    "number": "066",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968156.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968156.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-067",
+    "name": "Aipom",
+    "number": "067",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968187.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968187.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-068",
+    "name": "Miltank",
+    "number": "068",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968184.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968184.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-069",
+    "name": "Sneasel",
+    "number": "069",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968206.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968206.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-070",
+    "name": "Tyranitar - 070/087",
+    "number": "070",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968203.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968203.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-071",
+    "name": "Tyranitar - 071/087",
+    "number": "071",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968505.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968505.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-072",
+    "name": "Steelix - 072/087",
+    "number": "072",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968300.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968300.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-073",
+    "name": "Steelix - 073/087",
+    "number": "073",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968158.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968158.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-074",
+    "name": "Scizor - 074/087",
+    "number": "074",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968512.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968512.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-075",
+    "name": "Scizor - 075/087",
+    "number": "075",
+    "rarity": "Holo Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968299.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968299.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-076",
+    "name": "Energy Switch",
+    "number": "076",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968531.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968531.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-077",
+    "name": "Traveling Salesman",
+    "number": "077",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968295.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968295.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-078",
+    "name": "Juggler",
+    "number": "078",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968535.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968535.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-079",
+    "name": "Forest Guardian",
+    "number": "079",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968259.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968259.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-080",
+    "name": "Memory Berry",
+    "number": "080",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968551.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968551.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-081",
+    "name": "Healing Berry",
+    "number": "081",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968532.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968532.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-082",
+    "name": "Time Shard",
+    "number": "082",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968533.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968533.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-083",
+    "name": "Undersea Ruins",
+    "number": "083",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968534.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968534.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-084",
+    "name": "Apricorn Forest",
+    "number": "084",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968188.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968188.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-085",
+    "name": "Crystal Energy",
+    "number": "085",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968208.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968208.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-086",
+    "name": "Boost Energy",
+    "number": "086",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968552.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968552.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-087",
+    "name": "Warp Energy",
+    "number": "087",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968554.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968554.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-088",
+    "name": "Nidoking",
+    "number": "088",
+    "rarity": "Super Rare Holo",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968555.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968555.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-089",
+    "name": "Kingdra - 089/087",
+    "number": "089",
+    "rarity": "Super Rare Holo",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968550.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968550.jpg"
+  },
+  {
+    "id": "wind-from-the-sea-90",
+    "name": "Lugia",
+    "number": "90",
+    "rarity": "Super Rare Holo",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900410/968202.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900410/968202.jpg"
+  }
+]

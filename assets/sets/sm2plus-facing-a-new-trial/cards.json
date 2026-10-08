@@ -1,0 +1,982 @@
+[
+  {
+    "id": "sm2plus-facing-a-new-trial-911651",
+    "name": "Basic Darkness Energy",
+    "number": null,
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911651.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911651.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-911652",
+    "name": "Basic Fighting Energy",
+    "number": null,
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911652.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911652.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-911708",
+    "name": "Basic Lightning Energy",
+    "number": null,
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911708.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911708.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-911550",
+    "name": "Basic Water Energy",
+    "number": null,
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911550.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911550.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-001",
+    "name": "Bellsprout",
+    "number": "001",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911418.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911418.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-002",
+    "name": "Weepinbell",
+    "number": "002",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911541.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911541.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-003",
+    "name": "Victreebel",
+    "number": "003",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911548.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911548.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-004",
+    "name": "Ledyba",
+    "number": "004",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911495.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911495.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-005",
+    "name": "Ledian",
+    "number": "005",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911656.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911656.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-006",
+    "name": "Tapu Bulu",
+    "number": "006",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911498.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911498.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-007",
+    "name": "Tapu Bulu GX - 007/049",
+    "number": "007",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911464.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911464.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-008",
+    "name": "Salandit",
+    "number": "008",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911544.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911544.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-009",
+    "name": "Salazzle",
+    "number": "009",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911492.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911492.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-010",
+    "name": "Salazzle GX - 010/049",
+    "number": "010",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911465.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911465.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-011",
+    "name": "Alolan Sandshrew",
+    "number": "011",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911417.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911417.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-012",
+    "name": "Alolan Sandslash",
+    "number": "012",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911523.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911523.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-013",
+    "name": "Alolan Vulpix",
+    "number": "013",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911413.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911413.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-014",
+    "name": "Alolan Ninetales",
+    "number": "014",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911491.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911491.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-015",
+    "name": "Wailmer",
+    "number": "015",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911497.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911497.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-016",
+    "name": "Wailord",
+    "number": "016",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911521.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911521.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-017",
+    "name": "Wishiwashi",
+    "number": "017",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911461.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911461.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-018",
+    "name": "Tapu Fini GX - 018/049",
+    "number": "018",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911415.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911415.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-019",
+    "name": "Electabuzz",
+    "number": "019",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911673.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911673.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-020",
+    "name": "Electivire",
+    "number": "020",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911649.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911649.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-021",
+    "name": "Tapu Koko",
+    "number": "021",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911653.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911653.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-022",
+    "name": "Slowpoke",
+    "number": "022",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911522.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911522.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-023",
+    "name": "Slowking",
+    "number": "023",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911490.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911490.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-024",
+    "name": "Trubbish",
+    "number": "024",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911412.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911412.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-025",
+    "name": "Garbodor",
+    "number": "025",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911547.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911547.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-026",
+    "name": "Tapu Lele",
+    "number": "026",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911549.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911549.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-027",
+    "name": "Machop",
+    "number": "027",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911466.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911466.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-028",
+    "name": "Machoke",
+    "number": "028",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911672.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911672.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-029",
+    "name": "Machamp GX - 029/049",
+    "number": "029",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911671.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911671.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-030",
+    "name": "Lunatone",
+    "number": "030",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911520.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911520.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-031",
+    "name": "Solrock",
+    "number": "031",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911525.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911525.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-032",
+    "name": "Rockruff",
+    "number": "032",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911411.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911411.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-033",
+    "name": "Lycanroc",
+    "number": "033",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911410.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911410.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-034",
+    "name": "Lycanroc GX - 034/049",
+    "number": "034",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911657.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911657.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-035",
+    "name": "Murkrow",
+    "number": "035",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911460.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911460.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-036",
+    "name": "Honchkrow",
+    "number": "036",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911709.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911709.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-037",
+    "name": "Sneasel",
+    "number": "037",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911526.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911526.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-038",
+    "name": "Weavile",
+    "number": "038",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911467.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911467.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-039",
+    "name": "Sableye",
+    "number": "039",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911655.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911655.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-040",
+    "name": "Darkrai GX - 040/049",
+    "number": "040",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911648.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911648.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-041",
+    "name": "Cottonee",
+    "number": "041",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911496.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911496.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-042",
+    "name": "Whimsicott",
+    "number": "042",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911416.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911416.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-043",
+    "name": "Komala",
+    "number": "043",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911414.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911414.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-044",
+    "name": "Escape Rope",
+    "number": "044",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911468.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911468.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-045",
+    "name": "Weakness Policy",
+    "number": "045",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911668.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911668.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-046",
+    "name": "Wishful Baton",
+    "number": "046",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911499.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911499.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-047",
+    "name": "Acerola - 047/049",
+    "number": "047",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911494.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911494.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-048",
+    "name": "Sophocles - 048/049",
+    "number": "048",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911650.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911650.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-049",
+    "name": "Olivia",
+    "number": "049",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911527.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911527.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-050",
+    "name": "Tapu Bulu GX - 050/049",
+    "number": "050",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911675.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911675.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-051",
+    "name": "Salazzle GX - 051/049",
+    "number": "051",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911528.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911528.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-052",
+    "name": "Tapu Fini GX - 052/049",
+    "number": "052",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911543.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911543.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-053",
+    "name": "Machamp GX - 053/049",
+    "number": "053",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911462.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911462.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-054",
+    "name": "Lycanroc GX - 054/049",
+    "number": "054",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911469.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911469.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-055",
+    "name": "Darkrai GX - 055/049",
+    "number": "055",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911524.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911524.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-056",
+    "name": "Acerola - 056/049",
+    "number": "056",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911419.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911419.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-057",
+    "name": "Sophocles - 057/049",
+    "number": "057",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911670.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911670.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-058",
+    "name": "Tapu Bulu GX - 058/049",
+    "number": "058",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911493.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911493.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-059",
+    "name": "Salazzle GX - 059/049",
+    "number": "059",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911542.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911542.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-060",
+    "name": "Tapu Fini GX - 060/049",
+    "number": "060",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911654.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911654.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-061",
+    "name": "Machamp GX - 061/049",
+    "number": "061",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911463.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911463.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-062",
+    "name": "Lycanroc GX - 062/049",
+    "number": "062",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911677.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911677.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-063",
+    "name": "Darkrai GX - 063/049",
+    "number": "063",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911529.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911529.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-064",
+    "name": "Choice Band",
+    "number": "064",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911545.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911545.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-065",
+    "name": "Multi Switch",
+    "number": "065",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911546.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911546.jpg"
+  },
+  {
+    "id": "sm2plus-facing-a-new-trial-066",
+    "name": "Basic Darkness Energy - 066/049",
+    "number": "066",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900063/911676.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900063/911676.jpg"
+  }
+]

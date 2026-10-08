@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "s5i-single-strike-master-001",
+    "name": "Cacnea",
+    "number": "001",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980054.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980054.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-002",
+    "name": "Cacturne",
+    "number": "002",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979826.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979826.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-003",
+    "name": "Durant",
+    "number": "003",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980048.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980048.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-004",
+    "name": "Scatterbug",
+    "number": "004",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980042.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980042.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-005",
+    "name": "Spewpa",
+    "number": "005",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980049.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980049.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-006",
+    "name": "Vivillon",
+    "number": "006",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979784.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979784.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-007",
+    "name": "Flapple V - 007/070",
+    "number": "007",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980112.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980112.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-008",
+    "name": "Flapple VMAX - 008/070",
+    "number": "008",
+    "rarity": "Triple Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979786.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979786.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-009",
+    "name": "Entei",
+    "number": "009",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979858.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979858.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-011",
+    "name": "Pignite",
+    "number": "011",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980044.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980044.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-012",
+    "name": "Emboar",
+    "number": "012",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979846.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979846.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-013",
+    "name": "Salandit",
+    "number": "013",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979791.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979791.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-014",
+    "name": "Salazzle",
+    "number": "014",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979868.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979868.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-015",
+    "name": "Electabuzz",
+    "number": "015",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980039.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980039.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-016",
+    "name": "Electivire",
+    "number": "016",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979853.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979853.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-017",
+    "name": "Tapu Koko V - 017/070",
+    "number": "017",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979785.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979785.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-018",
+    "name": "Tapu Koko VMAX - 018/070",
+    "number": "018",
+    "rarity": "Triple Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979792.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979792.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-019",
+    "name": "Yamper",
+    "number": "019",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979787.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979787.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-020",
+    "name": "Boltund",
+    "number": "020",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980116.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980116.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-021",
+    "name": "Galarian Slowpoke",
+    "number": "021",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979827.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979827.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-022",
+    "name": "Spoink",
+    "number": "022",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980040.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980040.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-023",
+    "name": "Grumpig",
+    "number": "023",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979869.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979869.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-024",
+    "name": "Chimecho",
+    "number": "024",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979783.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979783.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-025",
+    "name": "Espurr",
+    "number": "025",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979828.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979828.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-026",
+    "name": "Meowstic",
+    "number": "026",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980109.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980109.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-027",
+    "name": "Mimikyu V - 027/070",
+    "number": "027",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980091.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980091.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-028",
+    "name": "Mankey",
+    "number": "028",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979854.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979854.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-029",
+    "name": "Primeape",
+    "number": "029",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980130.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980130.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-030",
+    "name": "Gligar",
+    "number": "030",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979790.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979790.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-031",
+    "name": "Gliscor",
+    "number": "031",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979855.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979855.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-032",
+    "name": "Rolycoly",
+    "number": "032",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979831.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979831.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-033",
+    "name": "Carkol",
+    "number": "033",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980050.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980050.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-034",
+    "name": "Coalossal",
+    "number": "034",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980055.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980055.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-035",
+    "name": "Stonjourner",
+    "number": "035",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979832.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979832.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-036",
+    "name": "Single Strike Urshifu V - 036/070",
+    "number": "036",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980110.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980110.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-037",
+    "name": "Single Strike Urshifu VMAX - 037/070",
+    "number": "037",
+    "rarity": "Triple Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980043.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980043.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-038",
+    "name": "Zubat",
+    "number": "038",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979824.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979824.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-039",
+    "name": "Golbat",
+    "number": "039",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979850.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979850.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-040",
+    "name": "Crobat",
+    "number": "040",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979788.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979788.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-041",
+    "name": "Galarian Slowbro",
+    "number": "041",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979862.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979862.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-042",
+    "name": "Murkrow",
+    "number": "042",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979843.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979843.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-043",
+    "name": "Honchkrow",
+    "number": "043",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980117.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980117.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-044",
+    "name": "Houndour",
+    "number": "044",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980056.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980056.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-045",
+    "name": "Houndoom - 045/070",
+    "number": "045",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980094.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980094.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-046",
+    "name": "Tyranitar V - 046/070",
+    "number": "046",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979825.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979825.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-047",
+    "name": "Morpeko",
+    "number": "047",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980095.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980095.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-048",
+    "name": "Mawile",
+    "number": "048",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979789.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979789.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-049",
+    "name": "Bronzor",
+    "number": "049",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980129.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980129.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-050",
+    "name": "Bronzong",
+    "number": "050",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979829.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979829.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-051",
+    "name": "Honedge",
+    "number": "051",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980051.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980051.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-052",
+    "name": "Doublade",
+    "number": "052",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979872.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979872.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-053",
+    "name": "Aegislash - 053/070",
+    "number": "053",
+    "rarity": "Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980045.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980045.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-054",
+    "name": "Aegislash - 054/070",
+    "number": "054",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980046.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980046.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-055",
+    "name": "Spearow",
+    "number": "055",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980097.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980097.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-056",
+    "name": "Fearow",
+    "number": "056",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980114.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980114.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-057",
+    "name": "Lickitung",
+    "number": "057",
+    "rarity": "Common",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979859.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979859.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-058",
+    "name": "Lickilicky",
+    "number": "058",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979844.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979844.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-059",
+    "name": "Stoutland V - 059/070",
+    "number": "059",
+    "rarity": "Double Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979863.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979863.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-060",
+    "name": "Drampa",
+    "number": "060",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980047.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980047.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-061",
+    "name": "Escape Rope",
+    "number": "061",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980052.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980052.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-062",
+    "name": "Urn of Vitality",
+    "number": "062",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979847.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979847.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-063",
+    "name": "Camping Gear",
+    "number": "063",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979860.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979860.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-064",
+    "name": "Single Strike Scroll of Scorn",
+    "number": "064",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979848.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979848.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-065",
+    "name": "Exp. Share - 065/070",
+    "number": "065",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980041.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980041.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-066",
+    "name": "Bruno - 066/070",
+    "number": "066",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980057.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980057.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-067",
+    "name": "Phoebe - 067/070",
+    "number": "067",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979845.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979845.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-068",
+    "name": "Single Strike Style Mustard - 068/070",
+    "number": "068",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979851.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979851.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-069",
+    "name": "Tower of Darkness",
+    "number": "069",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980115.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980115.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-070",
+    "name": "Single Strike Energy - 070/070",
+    "number": "070",
+    "rarity": "Uncommon",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980108.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980108.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-071",
+    "name": "Flapple V - 071/070",
+    "number": "071",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979849.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979849.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-072",
+    "name": "Tapu Koko V - 072/070",
+    "number": "072",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979861.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979861.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-073",
+    "name": "Mimikyu V - 073/070",
+    "number": "073",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979856.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979856.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-074",
+    "name": "Single Strike Urshifu V - 074/070",
+    "number": "074",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980092.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980092.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-075",
+    "name": "Single Strike Urshifu V - 075/070",
+    "number": "075",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979823.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979823.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-076",
+    "name": "Tyranitar V - 076/070",
+    "number": "076",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979852.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979852.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-077",
+    "name": "Tyranitar V - 077/070",
+    "number": "077",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979870.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979870.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-078",
+    "name": "Stoutland V - 078/070",
+    "number": "078",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980053.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980053.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-079",
+    "name": "Bruno - 079/070",
+    "number": "079",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980093.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980093.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-080",
+    "name": "Phoebe - 080/070",
+    "number": "080",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979864.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979864.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-081",
+    "name": "Single Strike Style Mustard - 081/070",
+    "number": "081",
+    "rarity": "Super Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979865.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979865.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-082",
+    "name": "Flapple VMAX - 082/070",
+    "number": "082",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980113.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980113.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-083",
+    "name": "Tapu Koko VMAX - 083/070",
+    "number": "083",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979857.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979857.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-084",
+    "name": "Single Strike Urshifu VMAX - 084/070",
+    "number": "084",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979830.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979830.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-085",
+    "name": "Single Strike Urshifu VMAX - 085/070",
+    "number": "085",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980088.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980088.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-086",
+    "name": "Bruno - 086/070",
+    "number": "086",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980089.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980089.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-087",
+    "name": "Phoebe - 087/070",
+    "number": "087",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980090.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980090.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-088",
+    "name": "Single Strike Style Mustard - 088/070",
+    "number": "088",
+    "rarity": "Hyper Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979866.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979866.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-089",
+    "name": "Houndoom - 089/070",
+    "number": "089",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/979867.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/979867.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-090",
+    "name": "Exp. Share - 090/070",
+    "number": "090",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980096.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980096.jpg"
+  },
+  {
+    "id": "s5i-single-strike-master-091",
+    "name": "Single Strike Energy - 091/070",
+    "number": "091",
+    "rarity": "Ultra Rare",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900144/980128.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900144/980128.jpg"
+  }
+]

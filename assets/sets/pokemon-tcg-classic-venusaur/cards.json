@@ -1,0 +1,478 @@
+[
+  {
+    "id": "pokemon-tcg-classic-venusaur-001",
+    "name": "Bulbasaur",
+    "number": "001",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834081.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834081.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-002",
+    "name": "Ivysaur",
+    "number": "002",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834075.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834075.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-003",
+    "name": "Venusaur",
+    "number": "003",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834084.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834084.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-004",
+    "name": "Paras",
+    "number": "004",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834078.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834078.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-005",
+    "name": "Parasect",
+    "number": "005",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834092.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834092.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-006",
+    "name": "Scyther",
+    "number": "006",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834077.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834077.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-007",
+    "name": "Pinsir",
+    "number": "007",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834090.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834090.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-008",
+    "name": "Sandshrew",
+    "number": "008",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834079.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834079.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-009",
+    "name": "Sandslash",
+    "number": "009",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834082.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834082.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-010",
+    "name": "Onix",
+    "number": "010",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834109.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834109.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-011",
+    "name": "Hitmonlee",
+    "number": "011",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834110.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834110.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-012",
+    "name": "Hitmonchan",
+    "number": "012",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834114.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834114.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-013",
+    "name": "Doduo",
+    "number": "013",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834088.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834088.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-014",
+    "name": "Dodrio",
+    "number": "014",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834086.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834086.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-015",
+    "name": "Chansey",
+    "number": "015",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834083.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834083.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-016",
+    "name": "Snorlax",
+    "number": "016",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834108.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834108.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-017",
+    "name": "Lugia ex",
+    "number": "017",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834111.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834111.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-018",
+    "name": "Super Rod (CLF)",
+    "number": "018",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834126.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834126.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-019",
+    "name": "Ultra Ball (CLF)",
+    "number": "019",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834094.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834094.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-020",
+    "name": "Computer Search (CLF)",
+    "number": "020",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834091.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834091.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-021",
+    "name": "VS Seeker (CLF)",
+    "number": "021",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834105.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834105.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-022",
+    "name": "Rare Candy (CLF)",
+    "number": "022",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834093.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834093.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-023",
+    "name": "Switch (CLF)",
+    "number": "023",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834113.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834113.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-024",
+    "name": "Poke Ball (CLF)",
+    "number": "024",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834128.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834128.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-025",
+    "name": "Sun Seed",
+    "number": "025",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834127.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834127.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-026",
+    "name": "Professor Oak (CLF)",
+    "number": "026",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834107.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834107.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-027",
+    "name": "Pokemon Fan Club (CLF)",
+    "number": "027",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834125.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834125.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-028",
+    "name": "Pokemon Nurse",
+    "number": "028",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834080.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834080.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-029",
+    "name": "Boss's Orders (CLF)",
+    "number": "029",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834112.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834112.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-030",
+    "name": "Bill (CLF)",
+    "number": "030",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834089.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834089.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-031",
+    "name": "Rocket's Admin. (CLF)",
+    "number": "031",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834087.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834087.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-032",
+    "name": "Double Colorless Energy (CLF)",
+    "number": "032",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834106.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834106.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-033",
+    "name": "Basic Grass Energy",
+    "number": "033",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834076.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834076.jpg"
+  },
+  {
+    "id": "pokemon-tcg-classic-venusaur-034",
+    "name": "Basic Fighting Energy",
+    "number": "034",
+    "rarity": "None",
+    "supertype": null,
+    "types": [],
+    "hp": null,
+    "variants": {
+      "normal": true
+    },
+    "local_image_small": "assets/tcgapi_pokemon-japan/1900265/834085.jpg",
+    "local_image_large": "assets/tcgapi_pokemon-japan/1900265/834085.jpg"
+  }
+]
