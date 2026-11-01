@@ -1,7 +1,7 @@
 {
   "source": "tcgcsv.com",
   "category": "Riftbound",
-  "product_count": 76,
+  "product_count": 78,
   "products": [
     {
       "product_id": 714486,
@@ -279,6 +279,28 @@
       "local_image_large": "assets/sealed/riftbound/rb-radiance/711362_large.jpg"
     },
     {
+      "product_id": 711371,
+      "name": "Radiance - Pre-Rift Event Kit",
+      "set_name": "Radiance",
+      "set_code": "rb-radiance",
+      "group_id": 24819,
+      "published_on": "2026-10-23T00:00:00",
+      "tcgplayer_url": "https://www.tcgplayer.com/product/711371/riftbound-league-of-legends-trading-card-game-radiance-radiance-pre-rift-event-kit",
+      "local_image_small": "assets/sealed/riftbound/rb-radiance/711371_small.jpg",
+      "local_image_large": "assets/sealed/riftbound/rb-radiance/711371_large.jpg"
+    },
+    {
+      "product_id": 711370,
+      "name": "Radiance - Pre-Rift Kit",
+      "set_name": "Radiance",
+      "set_code": "rb-radiance",
+      "group_id": 24819,
+      "published_on": "2026-10-23T00:00:00",
+      "tcgplayer_url": "https://www.tcgplayer.com/product/711370/riftbound-league-of-legends-trading-card-game-radiance-radiance-pre-rift-kit",
+      "local_image_small": "assets/sealed/riftbound/rb-radiance/711370_small.jpg",
+      "local_image_large": "assets/sealed/riftbound/rb-radiance/711370_large.jpg"
+    },
+    {
       "product_id": 711368,
       "name": "Radiance - Showdown Decks: Evelynn vs Seraphine",
       "set_name": "Radiance",
@@ -297,8 +319,8 @@
       "group_id": 24819,
       "published_on": "2026-10-23T00:00:00",
       "tcgplayer_url": "https://www.tcgplayer.com/product/711369/riftbound-league-of-legends-trading-card-game-radiance-radiance-showdown-decks-evelynn-vs-seraphine-display",
-      "local_image_small": null,
-      "local_image_large": null
+      "local_image_small": "assets/sealed/riftbound/rb-radiance/711369_small.jpg",
+      "local_image_large": "assets/sealed/riftbound/rb-radiance/711369_large.jpg"
     },
     {
       "product_id": 711363,
