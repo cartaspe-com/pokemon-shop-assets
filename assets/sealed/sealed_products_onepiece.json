@@ -1,7 +1,7 @@
 {
   "source": "tcgcsv.com",
   "category": "One Piece Card Game",
-  "product_count": 433,
+  "product_count": 443,
   "products": [
     {
       "product_id": 532106,
@@ -704,8 +704,8 @@
       "group_id": 24820,
       "published_on": "2026-10-30T00:00:00",
       "tcgplayer_url": "https://www.tcgplayer.com/product/711384/one-piece-card-game-extra-booster-one-piece-heroines-edition-vol-2-extra-booster-one-piece-heroines-edition-vol2-sleeved-booster-pack",
-      "local_image_small": null,
-      "local_image_large": null
+      "local_image_small": "assets/sealed/onepiece/op-extra-booster-one-piece-heroines-edition-vol-2/711384_small.jpg",
+      "local_image_large": "assets/sealed/onepiece/op-extra-booster-one-piece-heroines-edition-vol-2/711384_large.jpg"
     },
     {
       "product_id": 493752,
@@ -1434,6 +1434,28 @@
       "local_image_large": "assets/sealed/onepiece/op-one-piece-promotion-cards/709534_large.jpg"
     },
     {
+      "product_id": 727129,
+      "name": "Gift Collection -ONE PIECE Heroines- Set",
+      "set_name": "One Piece Promotion Cards",
+      "set_code": "op-one-piece-promotion-cards",
+      "group_id": 17675,
+      "published_on": "2022-09-30T00:00:00",
+      "tcgplayer_url": "https://www.tcgplayer.com/product/727129/one-piece-card-game-one-piece-promotion-cards-gift-collection-one-piece-heroines-set",
+      "local_image_small": null,
+      "local_image_large": null
+    },
+    {
+      "product_id": 727130,
+      "name": "Gift Collection -ONE PIECE Heroines- Set Display",
+      "set_name": "One Piece Promotion Cards",
+      "set_code": "op-one-piece-promotion-cards",
+      "group_id": 17675,
+      "published_on": "2022-09-30T00:00:00",
+      "tcgplayer_url": "https://www.tcgplayer.com/product/727130/one-piece-card-game-one-piece-promotion-cards-gift-collection-one-piece-heroines-set-display",
+      "local_image_small": null,
+      "local_image_large": null
+    },
+    {
       "product_id": 484943,
       "name": "Gift Collection 2023",
       "set_name": "One Piece Promotion Cards",
@@ -1795,6 +1817,94 @@
       "tcgplayer_url": "https://www.tcgplayer.com/product/488903/one-piece-card-game-one-piece-promotion-cards-one-piece-film-red-uta-promo-pack",
       "local_image_small": "assets/sealed/onepiece/op-one-piece-promotion-cards/488903_small.jpg",
       "local_image_large": "assets/sealed/onepiece/op-one-piece-promotion-cards/488903_large.jpg"
+    },
+    {
+      "product_id": 725382,
+      "name": "One Piece Mini Case Set Vol. 3 -Boa Hancock- (Sunohara Artwork)",
+      "set_name": "One Piece Promotion Cards",
+      "set_code": "op-one-piece-promotion-cards",
+      "group_id": 17675,
+      "published_on": "2022-09-30T00:00:00",
+      "tcgplayer_url": "https://www.tcgplayer.com/product/725382/one-piece-card-game-one-piece-promotion-cards-one-piece-mini-case-set-vol-3-boa-hancock-sunohara-artwork",
+      "local_image_small": "assets/sealed/onepiece/op-one-piece-promotion-cards/725382_small.jpg",
+      "local_image_large": "assets/sealed/onepiece/op-one-piece-promotion-cards/725382_large.jpg"
+    },
+    {
+      "product_id": 725385,
+      "name": "One Piece Mini Case Set Vol. 3 -Monkey.D.Luffy- (Ryuda Artwork)",
+      "set_name": "One Piece Promotion Cards",
+      "set_code": "op-one-piece-promotion-cards",
+      "group_id": 17675,
+      "published_on": "2022-09-30T00:00:00",
+      "tcgplayer_url": "https://www.tcgplayer.com/product/725385/one-piece-card-game-one-piece-promotion-cards-one-piece-mini-case-set-vol-3-monkeydluffy-ryuda-artwork",
+      "local_image_small": "assets/sealed/onepiece/op-one-piece-promotion-cards/725385_small.jpg",
+      "local_image_large": "assets/sealed/onepiece/op-one-piece-promotion-cards/725385_large.jpg"
+    },
+    {
+      "product_id": 725381,
+      "name": "One Piece Mini Case Set Vol. 3 -Monkey.D.Luffy- (Sunohara Artwork)",
+      "set_name": "One Piece Promotion Cards",
+      "set_code": "op-one-piece-promotion-cards",
+      "group_id": 17675,
+      "published_on": "2022-09-30T00:00:00",
+      "tcgplayer_url": "https://www.tcgplayer.com/product/725381/one-piece-card-game-one-piece-promotion-cards-one-piece-mini-case-set-vol-3-monkeydluffy-sunohara-artwork",
+      "local_image_small": "assets/sealed/onepiece/op-one-piece-promotion-cards/725381_small.jpg",
+      "local_image_large": "assets/sealed/onepiece/op-one-piece-promotion-cards/725381_large.jpg"
+    },
+    {
+      "product_id": 725384,
+      "name": "One Piece Mini Case Set Vol. 3 -Shanks- (Ryuda Artwork)",
+      "set_name": "One Piece Promotion Cards",
+      "set_code": "op-one-piece-promotion-cards",
+      "group_id": 17675,
+      "published_on": "2022-09-30T00:00:00",
+      "tcgplayer_url": "https://www.tcgplayer.com/product/725384/one-piece-card-game-one-piece-promotion-cards-one-piece-mini-case-set-vol-3-shanks-ryuda-artwork",
+      "local_image_small": "assets/sealed/onepiece/op-one-piece-promotion-cards/725384_small.jpg",
+      "local_image_large": "assets/sealed/onepiece/op-one-piece-promotion-cards/725384_large.jpg"
+    },
+    {
+      "product_id": 725380,
+      "name": "One Piece Mini Case Set Vol. 3 -Shanks- (Sunohara Artwork)",
+      "set_name": "One Piece Promotion Cards",
+      "set_code": "op-one-piece-promotion-cards",
+      "group_id": 17675,
+      "published_on": "2022-09-30T00:00:00",
+      "tcgplayer_url": "https://www.tcgplayer.com/product/725380/one-piece-card-game-one-piece-promotion-cards-one-piece-mini-case-set-vol-3-shanks-sunohara-artwork",
+      "local_image_small": "assets/sealed/onepiece/op-one-piece-promotion-cards/725380_small.jpg",
+      "local_image_large": "assets/sealed/onepiece/op-one-piece-promotion-cards/725380_large.jpg"
+    },
+    {
+      "product_id": 725386,
+      "name": "One Piece Mini Case Set Vol. 3 Boa Hancock (Ryuda Artwork)",
+      "set_name": "One Piece Promotion Cards",
+      "set_code": "op-one-piece-promotion-cards",
+      "group_id": 17675,
+      "published_on": "2022-09-30T00:00:00",
+      "tcgplayer_url": "https://www.tcgplayer.com/product/725386/one-piece-card-game-one-piece-promotion-cards-one-piece-mini-case-set-vol-3-boa-hancock-ryuda-artwork",
+      "local_image_small": "assets/sealed/onepiece/op-one-piece-promotion-cards/725386_small.jpg",
+      "local_image_large": "assets/sealed/onepiece/op-one-piece-promotion-cards/725386_large.jpg"
+    },
+    {
+      "product_id": 725379,
+      "name": "One Piece Mini Case Set Vol. 3 Display",
+      "set_name": "One Piece Promotion Cards",
+      "set_code": "op-one-piece-promotion-cards",
+      "group_id": 17675,
+      "published_on": "2022-09-30T00:00:00",
+      "tcgplayer_url": "https://www.tcgplayer.com/product/725379/one-piece-card-game-one-piece-promotion-cards-one-piece-mini-case-set-vol-3-display",
+      "local_image_small": "assets/sealed/onepiece/op-one-piece-promotion-cards/725379_small.jpg",
+      "local_image_large": "assets/sealed/onepiece/op-one-piece-promotion-cards/725379_large.jpg"
+    },
+    {
+      "product_id": 725378,
+      "name": "One Piece Mini Case Set Vol. 3 Display Case",
+      "set_name": "One Piece Promotion Cards",
+      "set_code": "op-one-piece-promotion-cards",
+      "group_id": 17675,
+      "published_on": "2022-09-30T00:00:00",
+      "tcgplayer_url": "https://www.tcgplayer.com/product/725378/one-piece-card-game-one-piece-promotion-cards-one-piece-mini-case-set-vol-3-display-case",
+      "local_image_small": "assets/sealed/onepiece/op-one-piece-promotion-cards/725378_small.jpg",
+      "local_image_large": "assets/sealed/onepiece/op-one-piece-promotion-cards/725378_large.jpg"
     },
     {
       "product_id": 620278,
