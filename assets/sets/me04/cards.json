@@ -11,7 +11,7 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -30,7 +30,7 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -68,7 +68,7 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -87,7 +87,7 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -106,7 +106,7 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -124,9 +124,9 @@
     ],
     "hp": "180",
     "variants": {
-      "normal": true,
-      "reverse_holo": false,
-      "holo": false,
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
       "first_edition": false
     },
     "local_image_small": "assets/sets/me04/cards/007_small.webp",
@@ -144,7 +144,7 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -163,7 +163,7 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -181,9 +181,9 @@
     ],
     "hp": "130",
     "variants": {
-      "normal": true,
-      "reverse_holo": false,
-      "holo": false,
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
       "first_edition": false
     },
     "local_image_small": "assets/sets/me04/cards/010_small.webp",
@@ -201,7 +201,7 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -220,7 +220,7 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -238,9 +238,9 @@
     ],
     "hp": "160",
     "variants": {
-      "normal": true,
-      "reverse_holo": false,
-      "holo": false,
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
       "first_edition": false
     },
     "local_image_small": "assets/sets/me04/cards/013_small.webp",
@@ -258,7 +258,7 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -296,7 +296,7 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -315,7 +315,7 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -334,7 +334,7 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -352,9 +352,9 @@
     ],
     "hp": "110",
     "variants": {
-      "normal": true,
-      "reverse_holo": false,
-      "holo": false,
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
       "first_edition": false
     },
     "local_image_small": "assets/sets/me04/cards/019_small.webp",
@@ -372,7 +372,7 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -391,7 +391,7 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -429,7 +429,7 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -448,7 +448,7 @@
     "hp": "160",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -467,7 +467,7 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -486,7 +486,7 @@
     "hp": "140",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -505,7 +505,7 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -524,7 +524,7 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -542,9 +542,9 @@
     ],
     "hp": "160",
     "variants": {
-      "normal": true,
-      "reverse_holo": false,
-      "holo": false,
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
       "first_edition": false
     },
     "local_image_small": "assets/sets/me04/cards/029_small.webp",
@@ -562,7 +562,7 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -581,7 +581,7 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -600,7 +600,7 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -619,7 +619,7 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -638,7 +638,7 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -676,7 +676,7 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -695,7 +695,7 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -714,7 +714,7 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -732,9 +732,9 @@
     ],
     "hp": "130",
     "variants": {
-      "normal": true,
-      "reverse_holo": false,
-      "holo": false,
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
       "first_edition": false
     },
     "local_image_small": "assets/sets/me04/cards/039_small.webp",
@@ -752,7 +752,7 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -789,9 +789,9 @@
     ],
     "hp": "130",
     "variants": {
-      "normal": true,
-      "reverse_holo": false,
-      "holo": false,
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
       "first_edition": false
     },
     "local_image_small": "assets/sets/me04/cards/042_small.webp",
@@ -809,7 +809,7 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -828,7 +828,7 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -847,7 +847,7 @@
     "hp": "150",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -866,7 +866,7 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -885,7 +885,7 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -923,7 +923,7 @@
     "hp": "40",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -942,7 +942,7 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -960,9 +960,9 @@
     ],
     "hp": "130",
     "variants": {
-      "normal": true,
-      "reverse_holo": false,
-      "holo": false,
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
       "first_edition": false
     },
     "local_image_small": "assets/sets/me04/cards/051_small.webp",
@@ -980,7 +980,7 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -999,7 +999,7 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1018,7 +1018,7 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1056,7 +1056,7 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1075,7 +1075,7 @@
     "hp": "140",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1094,7 +1094,7 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1113,7 +1113,7 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1132,7 +1132,7 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1151,7 +1151,7 @@
     "hp": "180",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1170,7 +1170,7 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1189,7 +1189,7 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1246,7 +1246,7 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1265,7 +1265,7 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1283,9 +1283,9 @@
     ],
     "hp": "160",
     "variants": {
-      "normal": true,
-      "reverse_holo": false,
-      "holo": false,
+      "normal": false,
+      "reverse_holo": true,
+      "holo": true,
       "first_edition": false
     },
     "local_image_small": "assets/sets/me04/cards/068_small.webp",
@@ -1303,7 +1303,7 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1322,7 +1322,7 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1341,7 +1341,7 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1360,7 +1360,7 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1396,7 +1396,7 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1413,7 +1413,7 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1430,7 +1430,7 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1447,7 +1447,7 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1464,7 +1464,7 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1481,7 +1481,7 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1498,7 +1498,7 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1515,7 +1515,7 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1532,7 +1532,7 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1549,7 +1549,7 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1566,7 +1566,7 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1583,7 +1583,7 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -1600,7 +1600,7 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },

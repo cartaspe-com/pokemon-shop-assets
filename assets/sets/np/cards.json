@@ -49,7 +49,7 @@
     "hp": "40",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -144,7 +144,7 @@
     "hp": "40",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },
@@ -182,7 +182,7 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false
     },

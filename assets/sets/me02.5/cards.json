@@ -28,6 +28,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/001_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -59,6 +63,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/002_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -109,6 +117,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/004_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -140,6 +152,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/005_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -171,6 +187,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/006_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -202,6 +222,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/007_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -233,6 +257,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/008_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -264,6 +292,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/009_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -314,6 +346,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/011_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -341,6 +377,10 @@
         "label": "Love Ball",
         "img": "assets/sets/me02.5/cards/012_love-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -372,6 +412,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/013_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -403,6 +447,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/014_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -434,6 +482,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/015_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -465,6 +517,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/016_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -496,6 +552,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/017_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -513,7 +573,7 @@
       "reverse_holo": false,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
+      "reverse_holo_pokeball": false,
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/018_small.webp",
@@ -527,6 +587,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/018_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "team-rocket"
     ]
   },
   {
@@ -544,7 +608,7 @@
       "reverse_holo": false,
       "holo": true,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
+      "reverse_holo_pokeball": false,
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/019_small.webp",
@@ -558,6 +622,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/019_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "team-rocket"
     ]
   },
   {
@@ -589,6 +657,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/020_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -620,6 +692,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/021_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -670,6 +746,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/023_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -701,6 +781,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/024_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -728,6 +812,10 @@
         "label": "Quick Ball",
         "img": "assets/sets/me02.5/cards/025_quick-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -778,6 +866,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/027_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -809,6 +901,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/028_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -836,6 +932,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/029_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -867,6 +967,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/030_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -913,6 +1017,10 @@
         "label": "Poké Ball",
         "img": "assets/sets/me02.5/cards/032_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -944,6 +1052,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/033_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -975,6 +1087,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/034_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -1006,6 +1122,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/035_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -1037,6 +1157,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/036_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -1068,6 +1192,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/037_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -1118,6 +1246,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/039_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -1149,6 +1281,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/040_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -1180,6 +1316,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/041_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -1207,6 +1347,10 @@
         "label": "Friend Ball",
         "img": "assets/sets/me02.5/cards/042_friend-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -1257,6 +1401,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/044_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -1288,6 +1436,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/045_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -1319,6 +1471,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/046_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -1388,6 +1544,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/049_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -1419,6 +1579,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/050_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -1450,6 +1614,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/051_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -1477,6 +1645,10 @@
         "label": "Friend Ball",
         "img": "assets/sets/me02.5/cards/052_friend-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -1508,6 +1680,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/053_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -1535,6 +1711,10 @@
         "label": "Friend Ball",
         "img": "assets/sets/me02.5/cards/054_friend-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -1566,6 +1746,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/055_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -1597,6 +1781,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/056_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -1666,6 +1854,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/059_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -1697,6 +1889,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/060_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -1747,6 +1943,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/062_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -1778,6 +1978,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/063_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -1809,6 +2013,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/064_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -1840,6 +2048,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/065_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -1861,7 +2073,11 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/066_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/066_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/066_large.webp",
+    "reverse_patterns": [
+      "energy",
+      "quickball"
+    ]
   },
   {
     "id": "me02.5-067",
@@ -1888,6 +2104,10 @@
         "label": "Quick Ball",
         "img": "assets/sets/me02.5/cards/067_quick-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -1928,7 +2148,11 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/069_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/069_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/069_large.webp",
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
+    ]
   },
   {
     "id": "me02.5-070",
@@ -1968,7 +2192,11 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/071_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/071_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/071_large.webp",
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
+    ]
   },
   {
     "id": "me02.5-072",
@@ -1989,7 +2217,11 @@
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/072_small.webp",
-    "local_image_large": "assets/sets/me02.5/cards/072_large.webp"
+    "local_image_large": "assets/sets/me02.5/cards/072_large.webp",
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
+    ]
   },
   {
     "id": "me02.5-073",
@@ -2039,6 +2271,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/074_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -2070,6 +2306,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/075_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -2106,7 +2346,7 @@
       "reverse_holo": false,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
+      "reverse_holo_pokeball": false,
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/077_small.webp",
@@ -2116,6 +2356,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/077_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "team-rocket"
     ]
   },
   {
@@ -2133,7 +2377,7 @@
       "reverse_holo": false,
       "holo": true,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
+      "reverse_holo_pokeball": false,
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/078_small.webp",
@@ -2147,6 +2391,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/078_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "team-rocket"
     ]
   },
   {
@@ -2197,6 +2445,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/080_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -2228,6 +2480,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/081_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -2259,6 +2515,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/082_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -2290,6 +2550,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/083_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -2340,6 +2604,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/085_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -2371,6 +2639,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/086_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -2402,6 +2674,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/087_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -2429,6 +2705,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/088_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -2479,6 +2759,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/090_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -2510,6 +2794,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/091_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -2541,6 +2829,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/092_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -2572,6 +2864,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/093_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -2603,6 +2899,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/094_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -2634,6 +2934,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/095_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -2665,6 +2969,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/096_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -2682,7 +2990,7 @@
       "reverse_holo": false,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
+      "reverse_holo_pokeball": false,
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/097_small.webp",
@@ -2692,6 +3000,10 @@
         "label": "Team Rocket",
         "img": "assets/sets/me02.5/cards/097_team-rocket.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "team-rocket"
     ]
   },
   {
@@ -2723,6 +3035,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/098_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -2754,6 +3070,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/099_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -2771,7 +3091,7 @@
       "reverse_holo": false,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
+      "reverse_holo_pokeball": false,
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/100_small.webp",
@@ -2785,6 +3105,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/100_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "team-rocket"
     ]
   },
   {
@@ -2802,7 +3126,7 @@
       "reverse_holo": false,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
+      "reverse_holo_pokeball": false,
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/101_small.webp",
@@ -2816,6 +3140,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/101_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "team-rocket"
     ]
   },
   {
@@ -2847,6 +3175,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/102_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -2878,6 +3210,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/103_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -2909,6 +3245,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/104_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -2940,6 +3280,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/105_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -2971,6 +3315,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/106_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -3021,6 +3369,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/108_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -3052,6 +3404,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/109_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -3083,6 +3439,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/110_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -3133,6 +3493,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/112_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -3202,6 +3566,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/115_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -3252,6 +3620,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/117_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -3283,6 +3655,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/118_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -3314,6 +3690,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/119_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -3345,6 +3725,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/120_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -3395,6 +3779,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/122_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -3422,6 +3810,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/123_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -3453,6 +3845,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/124_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -3489,7 +3885,7 @@
       "reverse_holo": false,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
+      "reverse_holo_pokeball": false,
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/126_small.webp",
@@ -3503,6 +3899,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/126_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "team-rocket"
     ]
   },
   {
@@ -3520,7 +3920,7 @@
       "reverse_holo": false,
       "holo": true,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
+      "reverse_holo_pokeball": false,
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/127_small.webp",
@@ -3534,6 +3934,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/127_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "team-rocket"
     ]
   },
   {
@@ -3565,6 +3969,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/128_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -3596,6 +4004,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/129_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -3627,6 +4039,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/130_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -3658,6 +4074,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/131_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -3689,6 +4109,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/132_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -3720,6 +4144,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/133_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -3751,6 +4179,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/134_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -3797,6 +4229,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/136_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -3847,6 +4283,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/138_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -3897,6 +4337,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/140_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -3928,6 +4372,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/141_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -3978,6 +4426,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/143_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -4005,6 +4457,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/144_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -4055,6 +4511,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/146_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -4086,6 +4546,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/147_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -4117,6 +4581,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/148_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -4163,6 +4631,10 @@
         "label": "Love Ball",
         "img": "assets/sets/me02.5/cards/150_love-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -4194,6 +4666,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/151_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -4244,6 +4720,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/153_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -4275,6 +4755,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/154_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -4302,6 +4786,10 @@
         "label": "Poké Ball",
         "img": "assets/sets/me02.5/cards/155_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -4333,6 +4821,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/156_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -4364,6 +4856,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/157_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -4395,6 +4891,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/158_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -4426,6 +4926,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/159_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "quickball"
     ]
   },
   {
@@ -4462,7 +4966,7 @@
       "reverse_holo": false,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
+      "reverse_holo_pokeball": false,
       "reverse_holo_energy": true
     },
     "local_image_small": "assets/sets/me02.5/cards/161_small.webp",
@@ -4476,6 +4980,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/161_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "team-rocket"
     ]
   },
   {
@@ -4526,6 +5034,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/163_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -4576,6 +5088,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/165_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -4607,6 +5123,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/166_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -4657,6 +5177,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/168_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -4684,6 +5208,10 @@
         "label": "Poké Ball",
         "img": "assets/sets/me02.5/cards/169_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -4715,6 +5243,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/170_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -4746,6 +5278,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/171_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "duskball",
+      "energy"
     ]
   },
   {
@@ -4796,6 +5332,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/173_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -4827,6 +5367,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/174_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -4858,6 +5402,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/175_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -4889,6 +5437,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/176_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "friendball"
     ]
   },
   {
@@ -4920,6 +5472,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/177_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "pokeball"
     ]
   },
   {
@@ -4951,6 +5507,10 @@
         "label": "Energy",
         "img": "assets/sets/me02.5/cards/178_energy.webp"
       }
+    ],
+    "reverse_patterns": [
+      "energy",
+      "loveball"
     ]
   },
   {
@@ -4982,11 +5542,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/180_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/180_large.webp"
@@ -5001,11 +5561,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/181_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/181_large.webp"
@@ -5020,11 +5580,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/182_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/182_large.webp"
@@ -5039,11 +5599,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/183_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/183_large.webp"
@@ -5058,11 +5618,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/184_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/184_large.webp"
@@ -5077,11 +5637,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/185_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/185_large.webp"
@@ -5096,11 +5656,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/186_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/186_large.webp"
@@ -5115,11 +5675,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/187_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/187_large.webp"
@@ -5134,11 +5694,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/188_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/188_large.webp"
@@ -5153,11 +5713,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/189_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/189_large.webp"
@@ -5172,11 +5732,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/190_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/190_large.webp"
@@ -5191,11 +5751,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/191_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/191_large.webp"
@@ -5210,11 +5770,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/192_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/192_large.webp"
@@ -5229,11 +5789,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/193_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/193_large.webp"
@@ -5248,11 +5808,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/194_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/194_large.webp"
@@ -5267,11 +5827,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/195_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/195_large.webp"
@@ -5286,11 +5846,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/196_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/196_large.webp"
@@ -5305,11 +5865,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/197_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/197_large.webp"
@@ -5324,11 +5884,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/198_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/198_large.webp"
@@ -5343,11 +5903,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/199_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/199_large.webp"
@@ -5362,11 +5922,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/200_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/200_large.webp"
@@ -5381,11 +5941,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/201_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/201_large.webp"
@@ -5400,11 +5960,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/202_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/202_large.webp"
@@ -5419,11 +5979,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/203_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/203_large.webp"
@@ -5438,11 +5998,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/204_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/204_large.webp"
@@ -5457,11 +6017,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/205_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/205_large.webp"
@@ -5476,11 +6036,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/206_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/206_large.webp"
@@ -5495,11 +6055,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/207_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/207_large.webp"
@@ -5514,11 +6074,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/208_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/208_large.webp"
@@ -5533,11 +6093,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/209_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/209_large.webp"
@@ -5552,11 +6112,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/210_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/210_large.webp"
@@ -5571,11 +6131,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/211_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/211_large.webp"
@@ -5590,11 +6150,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/212_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/212_large.webp"
@@ -5609,11 +6169,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/213_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/213_large.webp"
@@ -5628,11 +6188,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/214_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/214_large.webp"
@@ -5647,11 +6207,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/215_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/215_large.webp"
@@ -5666,11 +6226,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/216_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/216_large.webp"
@@ -5685,11 +6245,11 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
       "first_edition": false,
-      "reverse_holo_pokeball": true,
-      "reverse_holo_energy": true
+      "reverse_holo_pokeball": false,
+      "reverse_holo_energy": false
     },
     "local_image_small": "assets/sets/me02.5/cards/217_small.webp",
     "local_image_large": "assets/sets/me02.5/cards/217_large.webp"

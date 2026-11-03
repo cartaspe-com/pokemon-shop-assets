@@ -257,7 +257,7 @@
     ],
     "hp": "120",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": true,
       "holo": true,
       "first_edition": false
@@ -846,7 +846,7 @@
     ],
     "hp": "130",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": true,
       "holo": true,
       "first_edition": false
@@ -998,7 +998,7 @@
     ],
     "hp": "150",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": true,
       "holo": true,
       "first_edition": false
@@ -1283,7 +1283,7 @@
     ],
     "hp": "140",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": true,
       "holo": true,
       "first_edition": false
@@ -1492,9 +1492,9 @@
     ],
     "hp": "110",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": true,
-      "holo": false,
+      "holo": true,
       "first_edition": false
     },
     "local_image_small": "assets/sets/me02/cards/079_small.webp",

@@ -30,9 +30,10 @@
     "hp": "40",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/2_small.webp",
     "local_image_large": "assets/sets/sm10/cards/2_large.webp"
@@ -49,9 +50,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/3_small.webp",
     "local_image_large": "assets/sets/sm10/cards/3_large.webp"
@@ -68,9 +70,10 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/4_small.webp",
     "local_image_large": "assets/sets/sm10/cards/4_large.webp"
@@ -87,9 +90,10 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/5_small.webp",
     "local_image_large": "assets/sets/sm10/cards/5_large.webp"
@@ -106,9 +110,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/6_small.webp",
     "local_image_large": "assets/sets/sm10/cards/6_large.webp"
@@ -125,9 +130,10 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/7_small.webp",
     "local_image_large": "assets/sets/sm10/cards/7_large.webp"
@@ -144,9 +150,10 @@
     "hp": "140",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/8_small.webp",
     "local_image_large": "assets/sets/sm10/cards/8_large.webp"
@@ -163,9 +170,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/9_small.webp",
     "local_image_large": "assets/sets/sm10/cards/9_large.webp"
@@ -182,9 +190,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/10_small.webp",
     "local_image_large": "assets/sets/sm10/cards/10_large.webp"
@@ -201,9 +210,10 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/11_small.webp",
     "local_image_large": "assets/sets/sm10/cards/11_large.webp"
@@ -239,9 +249,10 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/13_small.webp",
     "local_image_large": "assets/sets/sm10/cards/13_large.webp"
@@ -258,9 +269,10 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/14_small.webp",
     "local_image_large": "assets/sets/sm10/cards/14_large.webp"
@@ -277,9 +289,10 @@
     "hp": "140",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/15_small.webp",
     "local_image_large": "assets/sets/sm10/cards/15_large.webp"
@@ -296,9 +309,10 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/16_small.webp",
     "local_image_large": "assets/sets/sm10/cards/16_large.webp"
@@ -315,9 +329,10 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/17_small.webp",
     "local_image_large": "assets/sets/sm10/cards/17_large.webp"
@@ -334,9 +349,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/18_small.webp",
     "local_image_large": "assets/sets/sm10/cards/18_large.webp"
@@ -353,9 +369,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/19_small.webp",
     "local_image_large": "assets/sets/sm10/cards/19_large.webp"
@@ -391,9 +408,10 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/21_small.webp",
     "local_image_large": "assets/sets/sm10/cards/21_large.webp"
@@ -410,9 +428,10 @@
     "hp": "140",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/22_small.webp",
     "local_image_large": "assets/sets/sm10/cards/22_large.webp"
@@ -429,9 +448,10 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/23_small.webp",
     "local_image_large": "assets/sets/sm10/cards/23_large.webp"
@@ -448,9 +468,10 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/24_small.webp",
     "local_image_large": "assets/sets/sm10/cards/24_large.webp"
@@ -467,9 +488,10 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/25_small.webp",
     "local_image_large": "assets/sets/sm10/cards/25_large.webp"
@@ -486,9 +508,10 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/26_small.webp",
     "local_image_large": "assets/sets/sm10/cards/26_large.webp"
@@ -505,9 +528,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/27_small.webp",
     "local_image_large": "assets/sets/sm10/cards/27_large.webp"
@@ -524,9 +548,10 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/28_small.webp",
     "local_image_large": "assets/sets/sm10/cards/28_large.webp"
@@ -543,9 +568,10 @@
     "hp": "160",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/29_small.webp",
     "local_image_large": "assets/sets/sm10/cards/29_large.webp"
@@ -562,9 +588,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/30_small.webp",
     "local_image_large": "assets/sets/sm10/cards/30_large.webp"
@@ -581,9 +608,10 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/31_small.webp",
     "local_image_large": "assets/sets/sm10/cards/31_large.webp"
@@ -600,9 +628,10 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/32_small.webp",
     "local_image_large": "assets/sets/sm10/cards/32_large.webp"
@@ -619,9 +648,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/33_small.webp",
     "local_image_large": "assets/sets/sm10/cards/33_large.webp"
@@ -638,9 +668,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/34_small.webp",
     "local_image_large": "assets/sets/sm10/cards/34_large.webp"
@@ -676,9 +707,10 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/36_small.webp",
     "local_image_large": "assets/sets/sm10/cards/36_large.webp"
@@ -695,9 +727,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/37_small.webp",
     "local_image_large": "assets/sets/sm10/cards/37_large.webp"
@@ -714,9 +747,10 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/38_small.webp",
     "local_image_large": "assets/sets/sm10/cards/38_large.webp"
@@ -733,9 +767,10 @@
     "hp": "150",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/39_small.webp",
     "local_image_large": "assets/sets/sm10/cards/39_large.webp"
@@ -752,9 +787,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/40_small.webp",
     "local_image_large": "assets/sets/sm10/cards/40_large.webp"
@@ -771,9 +807,10 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/41_small.webp",
     "local_image_large": "assets/sets/sm10/cards/41_large.webp"
@@ -790,9 +827,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/42_small.webp",
     "local_image_large": "assets/sets/sm10/cards/42_large.webp"
@@ -809,9 +847,10 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/43_small.webp",
     "local_image_large": "assets/sets/sm10/cards/43_large.webp"
@@ -828,9 +867,10 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/44_small.webp",
     "local_image_large": "assets/sets/sm10/cards/44_large.webp"
@@ -847,9 +887,10 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/45_small.webp",
     "local_image_large": "assets/sets/sm10/cards/45_large.webp"
@@ -866,9 +907,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/46_small.webp",
     "local_image_large": "assets/sets/sm10/cards/46_large.webp"
@@ -885,9 +927,10 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/47_small.webp",
     "local_image_large": "assets/sets/sm10/cards/47_large.webp"
@@ -904,9 +947,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/48_small.webp",
     "local_image_large": "assets/sets/sm10/cards/48_large.webp"
@@ -923,9 +967,10 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/49_small.webp",
     "local_image_large": "assets/sets/sm10/cards/49_large.webp"
@@ -942,9 +987,10 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/50_small.webp",
     "local_image_large": "assets/sets/sm10/cards/50_large.webp"
@@ -961,9 +1007,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/51_small.webp",
     "local_image_large": "assets/sets/sm10/cards/51_large.webp"
@@ -980,9 +1027,10 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/52_small.webp",
     "local_image_large": "assets/sets/sm10/cards/52_large.webp"
@@ -999,9 +1047,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/53_small.webp",
     "local_image_large": "assets/sets/sm10/cards/53_large.webp"
@@ -1018,9 +1067,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/54_small.webp",
     "local_image_large": "assets/sets/sm10/cards/54_large.webp"
@@ -1037,9 +1087,10 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/55_small.webp",
     "local_image_large": "assets/sets/sm10/cards/55_large.webp"
@@ -1056,9 +1107,10 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/56_small.webp",
     "local_image_large": "assets/sets/sm10/cards/56_large.webp"
@@ -1094,9 +1146,10 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/58_small.webp",
     "local_image_large": "assets/sets/sm10/cards/58_large.webp"
@@ -1113,9 +1166,10 @@
     "hp": "150",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/59_small.webp",
     "local_image_large": "assets/sets/sm10/cards/59_large.webp"
@@ -1132,9 +1186,10 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/60_small.webp",
     "local_image_large": "assets/sets/sm10/cards/60_large.webp"
@@ -1170,9 +1225,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/62_small.webp",
     "local_image_large": "assets/sets/sm10/cards/62_large.webp"
@@ -1189,9 +1245,10 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/63_small.webp",
     "local_image_large": "assets/sets/sm10/cards/63_large.webp"
@@ -1208,9 +1265,10 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/64_small.webp",
     "local_image_large": "assets/sets/sm10/cards/64_large.webp"
@@ -1227,9 +1285,10 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/65_small.webp",
     "local_image_large": "assets/sets/sm10/cards/65_large.webp"
@@ -1246,9 +1305,10 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/66_small.webp",
     "local_image_large": "assets/sets/sm10/cards/66_large.webp"
@@ -1265,9 +1325,10 @@
     "hp": "40",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/67_small.webp",
     "local_image_large": "assets/sets/sm10/cards/67_large.webp"
@@ -1284,9 +1345,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/68_small.webp",
     "local_image_large": "assets/sets/sm10/cards/68_large.webp"
@@ -1303,9 +1365,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/69_small.webp",
     "local_image_large": "assets/sets/sm10/cards/69_large.webp"
@@ -1322,9 +1385,10 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/70_small.webp",
     "local_image_large": "assets/sets/sm10/cards/70_large.webp"
@@ -1341,9 +1405,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/71_small.webp",
     "local_image_large": "assets/sets/sm10/cards/71_large.webp"
@@ -1360,9 +1425,10 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/72_small.webp",
     "local_image_large": "assets/sets/sm10/cards/72_large.webp"
@@ -1379,9 +1445,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/73_small.webp",
     "local_image_large": "assets/sets/sm10/cards/73_large.webp"
@@ -1398,9 +1465,10 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/74_small.webp",
     "local_image_large": "assets/sets/sm10/cards/74_large.webp"
@@ -1417,9 +1485,10 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/75_small.webp",
     "local_image_large": "assets/sets/sm10/cards/75_large.webp"
@@ -1436,9 +1505,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/76_small.webp",
     "local_image_large": "assets/sets/sm10/cards/76_large.webp"
@@ -1455,9 +1525,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/77_small.webp",
     "local_image_large": "assets/sets/sm10/cards/77_large.webp"
@@ -1474,9 +1545,10 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/78_small.webp",
     "local_image_large": "assets/sets/sm10/cards/78_large.webp"
@@ -1493,9 +1565,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/79_small.webp",
     "local_image_large": "assets/sets/sm10/cards/79_large.webp"
@@ -1512,9 +1585,10 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/80_small.webp",
     "local_image_large": "assets/sets/sm10/cards/80_large.webp"
@@ -1531,9 +1605,10 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/81_small.webp",
     "local_image_large": "assets/sets/sm10/cards/81_large.webp"
@@ -1569,9 +1644,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/83_small.webp",
     "local_image_large": "assets/sets/sm10/cards/83_large.webp"
@@ -1588,9 +1664,10 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/84_small.webp",
     "local_image_large": "assets/sets/sm10/cards/84_large.webp"
@@ -1607,9 +1684,10 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/85_small.webp",
     "local_image_large": "assets/sets/sm10/cards/85_large.webp"
@@ -1626,9 +1704,10 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/86_small.webp",
     "local_image_large": "assets/sets/sm10/cards/86_large.webp"
@@ -1645,9 +1724,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/87_small.webp",
     "local_image_large": "assets/sets/sm10/cards/87_large.webp"
@@ -1664,9 +1744,10 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/88_small.webp",
     "local_image_large": "assets/sets/sm10/cards/88_large.webp"
@@ -1683,9 +1764,10 @@
     "hp": "180",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/89_small.webp",
     "local_image_large": "assets/sets/sm10/cards/89_large.webp"
@@ -1702,9 +1784,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/90_small.webp",
     "local_image_large": "assets/sets/sm10/cards/90_large.webp"
@@ -1721,9 +1804,10 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/91_small.webp",
     "local_image_large": "assets/sets/sm10/cards/91_large.webp"
@@ -1740,9 +1824,10 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/92_small.webp",
     "local_image_large": "assets/sets/sm10/cards/92_large.webp"
@@ -1759,9 +1844,10 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/93_small.webp",
     "local_image_large": "assets/sets/sm10/cards/93_large.webp"
@@ -1778,9 +1864,10 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/94_small.webp",
     "local_image_large": "assets/sets/sm10/cards/94_large.webp"
@@ -1797,9 +1884,10 @@
     "hp": "170",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/95_small.webp",
     "local_image_large": "assets/sets/sm10/cards/95_large.webp"
@@ -1816,9 +1904,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/96_small.webp",
     "local_image_large": "assets/sets/sm10/cards/96_large.webp"
@@ -1835,9 +1924,10 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/97_small.webp",
     "local_image_large": "assets/sets/sm10/cards/97_large.webp"
@@ -1854,9 +1944,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/98_small.webp",
     "local_image_large": "assets/sets/sm10/cards/98_large.webp"
@@ -1873,9 +1964,10 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/99_small.webp",
     "local_image_large": "assets/sets/sm10/cards/99_large.webp"
@@ -1892,9 +1984,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/100_small.webp",
     "local_image_large": "assets/sets/sm10/cards/100_large.webp"
@@ -1911,9 +2004,10 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/101_small.webp",
     "local_image_large": "assets/sets/sm10/cards/101_large.webp"
@@ -1930,9 +2024,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/102_small.webp",
     "local_image_large": "assets/sets/sm10/cards/102_large.webp"
@@ -1949,9 +2044,10 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/103_small.webp",
     "local_image_large": "assets/sets/sm10/cards/103_large.webp"
@@ -1968,9 +2064,10 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/104_small.webp",
     "local_image_large": "assets/sets/sm10/cards/104_large.webp"
@@ -1987,9 +2084,10 @@
     "hp": "140",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/105_small.webp",
     "local_image_large": "assets/sets/sm10/cards/105_large.webp"
@@ -2006,9 +2104,10 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/106_small.webp",
     "local_image_large": "assets/sets/sm10/cards/106_large.webp"
@@ -2044,9 +2143,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/108_small.webp",
     "local_image_large": "assets/sets/sm10/cards/108_large.webp"
@@ -2082,9 +2182,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/110_small.webp",
     "local_image_large": "assets/sets/sm10/cards/110_large.webp"
@@ -2101,9 +2202,10 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/111_small.webp",
     "local_image_large": "assets/sets/sm10/cards/111_large.webp"
@@ -2120,9 +2222,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/112_small.webp",
     "local_image_large": "assets/sets/sm10/cards/112_large.webp"
@@ -2139,9 +2242,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/113_small.webp",
     "local_image_large": "assets/sets/sm10/cards/113_large.webp"
@@ -2158,9 +2262,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/114_small.webp",
     "local_image_large": "assets/sets/sm10/cards/114_large.webp"
@@ -2177,9 +2282,10 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/115_small.webp",
     "local_image_large": "assets/sets/sm10/cards/115_large.webp"
@@ -2196,9 +2302,10 @@
     "hp": "150",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/116_small.webp",
     "local_image_large": "assets/sets/sm10/cards/116_large.webp"
@@ -2215,9 +2322,10 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/117_small.webp",
     "local_image_large": "assets/sets/sm10/cards/117_large.webp"
@@ -2234,9 +2342,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/118_small.webp",
     "local_image_large": "assets/sets/sm10/cards/118_large.webp"
@@ -2253,9 +2362,10 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/119_small.webp",
     "local_image_large": "assets/sets/sm10/cards/119_large.webp"
@@ -2291,9 +2401,10 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/121_small.webp",
     "local_image_large": "assets/sets/sm10/cards/121_large.webp"
@@ -2310,9 +2421,10 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/122_small.webp",
     "local_image_large": "assets/sets/sm10/cards/122_large.webp"
@@ -2329,9 +2441,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/123_small.webp",
     "local_image_large": "assets/sets/sm10/cards/123_large.webp"
@@ -2348,9 +2461,10 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/124_small.webp",
     "local_image_large": "assets/sets/sm10/cards/124_large.webp"
@@ -2367,9 +2481,10 @@
     "hp": "170",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/125_small.webp",
     "local_image_large": "assets/sets/sm10/cards/125_large.webp"
@@ -2386,9 +2501,10 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/126_small.webp",
     "local_image_large": "assets/sets/sm10/cards/126_large.webp"
@@ -2405,9 +2521,10 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/127_small.webp",
     "local_image_large": "assets/sets/sm10/cards/127_large.webp"
@@ -2424,9 +2541,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/128_small.webp",
     "local_image_large": "assets/sets/sm10/cards/128_large.webp"
@@ -2443,9 +2561,10 @@
     "hp": "150",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/129_small.webp",
     "local_image_large": "assets/sets/sm10/cards/129_large.webp"
@@ -2481,9 +2600,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/131_small.webp",
     "local_image_large": "assets/sets/sm10/cards/131_large.webp"
@@ -2500,9 +2620,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/132_small.webp",
     "local_image_large": "assets/sets/sm10/cards/132_large.webp"
@@ -2519,9 +2640,10 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/133_small.webp",
     "local_image_large": "assets/sets/sm10/cards/133_large.webp"
@@ -2538,9 +2660,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/134_small.webp",
     "local_image_large": "assets/sets/sm10/cards/134_large.webp"
@@ -2557,9 +2680,10 @@
     "hp": "110",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/135_small.webp",
     "local_image_large": "assets/sets/sm10/cards/135_large.webp"
@@ -2576,9 +2700,10 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/136_small.webp",
     "local_image_large": "assets/sets/sm10/cards/136_large.webp"
@@ -2595,9 +2720,10 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/137_small.webp",
     "local_image_large": "assets/sets/sm10/cards/137_large.webp"
@@ -2614,9 +2740,10 @@
     "hp": "140",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/138_small.webp",
     "local_image_large": "assets/sets/sm10/cards/138_large.webp"
@@ -2633,9 +2760,10 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/139_small.webp",
     "local_image_large": "assets/sets/sm10/cards/139_large.webp"
@@ -2671,9 +2799,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/141_small.webp",
     "local_image_large": "assets/sets/sm10/cards/141_large.webp"
@@ -2690,9 +2819,10 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/142_small.webp",
     "local_image_large": "assets/sets/sm10/cards/142_large.webp"
@@ -2709,9 +2839,10 @@
     "hp": "30",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/143_small.webp",
     "local_image_large": "assets/sets/sm10/cards/143_large.webp"
@@ -2728,9 +2859,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/144_small.webp",
     "local_image_large": "assets/sets/sm10/cards/144_large.webp"
@@ -2747,9 +2879,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/145_small.webp",
     "local_image_large": "assets/sets/sm10/cards/145_large.webp"
@@ -2766,9 +2899,10 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/146_small.webp",
     "local_image_large": "assets/sets/sm10/cards/146_large.webp"
@@ -2785,9 +2919,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/147_small.webp",
     "local_image_large": "assets/sets/sm10/cards/147_large.webp"
@@ -2804,9 +2939,10 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/148_small.webp",
     "local_image_large": "assets/sets/sm10/cards/148_large.webp"
@@ -2842,9 +2978,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/150_small.webp",
     "local_image_large": "assets/sets/sm10/cards/150_large.webp"
@@ -2861,9 +2998,10 @@
     "hp": "100",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/151_small.webp",
     "local_image_large": "assets/sets/sm10/cards/151_large.webp"
@@ -2880,9 +3018,10 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/152_small.webp",
     "local_image_large": "assets/sets/sm10/cards/152_large.webp"
@@ -2899,9 +3038,10 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/153_small.webp",
     "local_image_large": "assets/sets/sm10/cards/153_large.webp"
@@ -2918,9 +3058,10 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/154_small.webp",
     "local_image_large": "assets/sets/sm10/cards/154_large.webp"
@@ -2937,9 +3078,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/155_small.webp",
     "local_image_large": "assets/sets/sm10/cards/155_large.webp"
@@ -2956,9 +3098,10 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/156_small.webp",
     "local_image_large": "assets/sets/sm10/cards/156_large.webp"
@@ -2975,9 +3118,10 @@
     "hp": "130",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/157_small.webp",
     "local_image_large": "assets/sets/sm10/cards/157_large.webp"
@@ -2994,9 +3138,10 @@
     "hp": "150",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/158_small.webp",
     "local_image_large": "assets/sets/sm10/cards/158_large.webp"
@@ -3013,9 +3158,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/159_small.webp",
     "local_image_large": "assets/sets/sm10/cards/159_large.webp"
@@ -3032,9 +3178,10 @@
     "hp": "120",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/160_small.webp",
     "local_image_large": "assets/sets/sm10/cards/160_large.webp"
@@ -3051,9 +3198,10 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/161_small.webp",
     "local_image_large": "assets/sets/sm10/cards/161_large.webp"
@@ -3070,9 +3218,10 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/162_small.webp",
     "local_image_large": "assets/sets/sm10/cards/162_large.webp"
@@ -3106,9 +3255,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/164_small.webp",
     "local_image_large": "assets/sets/sm10/cards/164_large.webp"
@@ -3123,9 +3273,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/165_small.webp",
     "local_image_large": "assets/sets/sm10/cards/165_large.webp"
@@ -3140,9 +3291,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/166_small.webp",
     "local_image_large": "assets/sets/sm10/cards/166_large.webp"
@@ -3157,9 +3309,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/167_small.webp",
     "local_image_large": "assets/sets/sm10/cards/167_large.webp"
@@ -3174,9 +3327,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/168_small.webp",
     "local_image_large": "assets/sets/sm10/cards/168_large.webp"
@@ -3191,9 +3345,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/169_small.webp",
     "local_image_large": "assets/sets/sm10/cards/169_large.webp"
@@ -3208,9 +3363,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/170_small.webp",
     "local_image_large": "assets/sets/sm10/cards/170_large.webp"
@@ -3225,9 +3381,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/171_small.webp",
     "local_image_large": "assets/sets/sm10/cards/171_large.webp"
@@ -3242,9 +3399,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/172_small.webp",
     "local_image_large": "assets/sets/sm10/cards/172_large.webp"
@@ -3259,9 +3417,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/173_small.webp",
     "local_image_large": "assets/sets/sm10/cards/173_large.webp"
@@ -3276,9 +3435,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/174_small.webp",
     "local_image_large": "assets/sets/sm10/cards/174_large.webp"
@@ -3293,9 +3453,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/175_small.webp",
     "local_image_large": "assets/sets/sm10/cards/175_large.webp"
@@ -3310,9 +3471,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/176_small.webp",
     "local_image_large": "assets/sets/sm10/cards/176_large.webp"
@@ -3327,9 +3489,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/177_small.webp",
     "local_image_large": "assets/sets/sm10/cards/177_large.webp"
@@ -3344,9 +3507,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/178_small.webp",
     "local_image_large": "assets/sets/sm10/cards/178_large.webp"
@@ -3361,9 +3525,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/179_small.webp",
     "local_image_large": "assets/sets/sm10/cards/179_large.webp"
@@ -3378,9 +3543,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/180_small.webp",
     "local_image_large": "assets/sets/sm10/cards/180_large.webp"
@@ -3395,9 +3561,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/181_small.webp",
     "local_image_large": "assets/sets/sm10/cards/181_large.webp"
@@ -3412,9 +3579,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/182_small.webp",
     "local_image_large": "assets/sets/sm10/cards/182_large.webp"
@@ -3429,9 +3597,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/183_small.webp",
     "local_image_large": "assets/sets/sm10/cards/183_large.webp"
@@ -3446,9 +3615,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/184_small.webp",
     "local_image_large": "assets/sets/sm10/cards/184_large.webp"
@@ -3463,9 +3633,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/185_small.webp",
     "local_image_large": "assets/sets/sm10/cards/185_large.webp"
@@ -3480,9 +3651,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/186_small.webp",
     "local_image_large": "assets/sets/sm10/cards/186_large.webp"
@@ -3497,9 +3669,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/187_small.webp",
     "local_image_large": "assets/sets/sm10/cards/187_large.webp"
@@ -3514,9 +3687,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/188_small.webp",
     "local_image_large": "assets/sets/sm10/cards/188_large.webp"
@@ -3531,9 +3705,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/189_small.webp",
     "local_image_large": "assets/sets/sm10/cards/189_large.webp"
@@ -3548,9 +3723,10 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_source": "rule"
     },
     "local_image_small": "assets/sets/sm10/cards/190_small.webp",
     "local_image_large": "assets/sets/sm10/cards/190_large.webp"

@@ -232,7 +232,7 @@
     "language": "en",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -392,7 +392,7 @@
     "language": "en",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -551,9 +551,9 @@
     "hp": "120",
     "language": "en",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": true,
-      "holo": false,
+      "holo": true,
       "first_edition": false
     },
     "local_image_small": "assets/sets/me05/cards/028_small.webp",
@@ -691,9 +691,9 @@
     "hp": "60",
     "language": "en",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": true,
-      "holo": false,
+      "holo": true,
       "first_edition": false
     },
     "local_image_small": "assets/sets/me05/cards/035_small.webp",
@@ -931,9 +931,9 @@
     "hp": "130",
     "language": "en",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": true,
-      "holo": false,
+      "holo": true,
       "first_edition": false
     },
     "local_image_small": "assets/sets/me05/cards/047_small.webp",
@@ -1111,9 +1111,9 @@
     "hp": "130",
     "language": "en",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": true,
-      "holo": false,
+      "holo": true,
       "first_edition": false
     },
     "local_image_small": "assets/sets/me05/cards/056_small.webp",
@@ -1172,7 +1172,7 @@
     "language": "en",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -1232,7 +1232,7 @@
     "language": "en",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -1392,7 +1392,7 @@
     "language": "en",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -1628,7 +1628,7 @@
     "language": "en",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -1646,7 +1646,7 @@
     "language": "en",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },

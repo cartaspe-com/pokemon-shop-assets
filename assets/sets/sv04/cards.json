@@ -696,7 +696,7 @@
     "variants": {
       "normal": true,
       "reverse_holo": true,
-      "holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv04/cards/037_small.webp",
@@ -848,7 +848,7 @@
     "variants": {
       "normal": true,
       "reverse_holo": true,
-      "holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv04/cards/045_small.webp",

@@ -143,7 +143,7 @@
     ],
     "hp": "70",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": false,
       "holo": true,
       "first_edition": false
@@ -162,7 +162,7 @@
     ],
     "hp": "100",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": false,
       "holo": true,
       "first_edition": false
@@ -1697,7 +1697,7 @@
     ],
     "hp": "100",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": false,
       "holo": true,
       "first_edition": false
@@ -1868,7 +1868,7 @@
     ],
     "hp": "70",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": false,
       "holo": true,
       "first_edition": false

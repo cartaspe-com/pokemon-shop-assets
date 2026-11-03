@@ -106,7 +106,7 @@
     "hp": "80",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -125,8 +125,8 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/pop8/cards/7_small.webp",
@@ -290,8 +290,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/pop8/cards/16_small.webp",

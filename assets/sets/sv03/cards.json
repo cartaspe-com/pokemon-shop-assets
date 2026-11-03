@@ -1627,7 +1627,7 @@
     "variants": {
       "normal": true,
       "reverse_holo": true,
-      "holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv03/cards/086_small.webp",

@@ -11,7 +11,7 @@
     "hp": "90",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -30,7 +30,7 @@
     "hp": "100",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -68,7 +68,7 @@
     "hp": "60",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -87,7 +87,7 @@
     "hp": "80",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -106,7 +106,7 @@
     "hp": "80",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -125,7 +125,7 @@
     "hp": "80",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -144,7 +144,7 @@
     "hp": "120",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -163,7 +163,7 @@
     "hp": "120",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -182,7 +182,7 @@
     "hp": "100",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -201,7 +201,7 @@
     "hp": "120",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -220,7 +220,7 @@
     "hp": "80",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -239,7 +239,7 @@
     "hp": "80",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -258,7 +258,7 @@
     "hp": "60",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -277,7 +277,7 @@
     "hp": "90",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -296,7 +296,7 @@
     "hp": "70",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -315,7 +315,7 @@
     "hp": "110",
     "variants": {
       "normal": false,
-      "reverse_holo": false,
+      "reverse_holo": true,
       "holo": true,
       "first_edition": false
     },
@@ -334,8 +334,8 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/18_small.webp",
@@ -353,8 +353,8 @@
     "hp": "90",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/19_small.webp",
@@ -372,8 +372,8 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/20_small.webp",
@@ -391,8 +391,8 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/21_small.webp",
@@ -410,8 +410,8 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/22_small.webp",
@@ -429,8 +429,8 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/23_small.webp",
@@ -448,8 +448,8 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/24_small.webp",
@@ -467,8 +467,8 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/25_small.webp",
@@ -486,8 +486,8 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/26_small.webp",
@@ -505,8 +505,8 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/27_small.webp",
@@ -524,8 +524,8 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/28_small.webp",
@@ -543,8 +543,8 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/29_small.webp",
@@ -562,8 +562,8 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/30_small.webp",
@@ -581,8 +581,8 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/31_small.webp",
@@ -619,8 +619,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/33_small.webp",
@@ -638,8 +638,8 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/34_small.webp",
@@ -657,8 +657,8 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/35_small.webp",
@@ -676,8 +676,8 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/36_small.webp",
@@ -695,8 +695,8 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/37_small.webp",
@@ -714,8 +714,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/38_small.webp",
@@ -733,8 +733,8 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/39_small.webp",
@@ -752,8 +752,8 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/40_small.webp",
@@ -771,8 +771,8 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/41_small.webp",
@@ -790,8 +790,8 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/42_small.webp",
@@ -809,8 +809,8 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/43_small.webp",
@@ -828,8 +828,8 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/44_small.webp",
@@ -847,8 +847,8 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/45_small.webp",
@@ -866,8 +866,8 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/46_small.webp",
@@ -885,8 +885,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/47_small.webp",
@@ -904,8 +904,8 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/48_small.webp",
@@ -923,8 +923,8 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/49_small.webp",
@@ -942,8 +942,8 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/50_small.webp",
@@ -961,8 +961,8 @@
     "hp": "70",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/51_small.webp",
@@ -980,8 +980,8 @@
     "hp": "80",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/52_small.webp",
@@ -999,8 +999,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/53_small.webp",
@@ -1018,8 +1018,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/54_small.webp",
@@ -1037,8 +1037,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/55_small.webp",
@@ -1056,8 +1056,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/56_small.webp",
@@ -1075,8 +1075,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/57_small.webp",
@@ -1094,8 +1094,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/58_small.webp",
@@ -1113,8 +1113,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/59_small.webp",
@@ -1132,8 +1132,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/60_small.webp",
@@ -1151,8 +1151,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/61_small.webp",
@@ -1170,8 +1170,8 @@
     "hp": "40",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/62_small.webp",
@@ -1189,8 +1189,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/63_small.webp",
@@ -1208,8 +1208,8 @@
     "hp": "60",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/64_small.webp",
@@ -1227,8 +1227,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/65_small.webp",
@@ -1246,8 +1246,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/66_small.webp",
@@ -1265,8 +1265,8 @@
     "hp": "30",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/67_small.webp",
@@ -1284,8 +1284,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/68_small.webp",
@@ -1303,8 +1303,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/69_small.webp",
@@ -1322,8 +1322,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/70_small.webp",
@@ -1341,8 +1341,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/71_small.webp",
@@ -1360,8 +1360,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/72_small.webp",
@@ -1379,8 +1379,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/73_small.webp",
@@ -1398,8 +1398,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/74_small.webp",
@@ -1417,8 +1417,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/75_small.webp",
@@ -1436,8 +1436,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/76_small.webp",
@@ -1455,8 +1455,8 @@
     "hp": "40",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/77_small.webp",
@@ -1474,8 +1474,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/78_small.webp",
@@ -1493,8 +1493,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/79_small.webp",
@@ -1512,8 +1512,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/80_small.webp",
@@ -1531,8 +1531,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/81_small.webp",
@@ -1550,8 +1550,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/82_small.webp",
@@ -1569,8 +1569,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/83_small.webp",
@@ -1588,8 +1588,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/84_small.webp",
@@ -1607,8 +1607,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/85_small.webp",
@@ -1626,8 +1626,8 @@
     "hp": "50",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/86_small.webp",
@@ -1643,8 +1643,8 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/87_small.webp",
@@ -1660,8 +1660,8 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/88_small.webp",
@@ -1677,8 +1677,8 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/89_small.webp",
@@ -1694,8 +1694,8 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/90_small.webp",
@@ -1711,8 +1711,8 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/91_small.webp",
@@ -1728,8 +1728,8 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/92_small.webp",
@@ -1745,8 +1745,8 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/93_small.webp",
@@ -1762,8 +1762,8 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/94_small.webp",
@@ -1779,8 +1779,8 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/95_small.webp",
@@ -1796,8 +1796,8 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/96_small.webp",
@@ -1813,8 +1813,8 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/97_small.webp",
@@ -1830,8 +1830,8 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/98_small.webp",
@@ -1847,8 +1847,8 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/99_small.webp",
@@ -1864,8 +1864,8 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/100_small.webp",
@@ -1881,8 +1881,8 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/101_small.webp",
@@ -1898,8 +1898,8 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/102_small.webp",
@@ -1915,8 +1915,8 @@
     "hp": "",
     "variants": {
       "normal": true,
-      "reverse_holo": false,
-      "holo": true,
+      "reverse_holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/ex6/cards/103_small.webp",

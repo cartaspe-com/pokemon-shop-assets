@@ -10,7 +10,7 @@
     ],
     "hp": "110",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": true,
       "holo": true,
       "first_edition": false
@@ -143,7 +143,7 @@
     ],
     "hp": "90",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": true,
       "holo": true,
       "first_edition": false

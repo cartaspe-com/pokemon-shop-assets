@@ -13,7 +13,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/001_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/001_large.webp",
@@ -26,6 +27,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/001_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -42,7 +47,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/002_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/002_large.webp",
@@ -55,6 +61,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/002_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -71,7 +81,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/003_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/003_large.webp",
@@ -84,6 +95,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/003_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -100,7 +115,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/004_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/004_large.webp",
@@ -113,6 +129,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/004_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -129,7 +149,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/005_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/005_large.webp",
@@ -142,6 +163,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/005_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -177,7 +202,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/007_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/007_large.webp",
@@ -190,6 +216,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/007_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -206,7 +236,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/008_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/008_large.webp",
@@ -219,6 +250,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/008_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -235,7 +270,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/009_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/009_large.webp",
@@ -248,6 +284,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/009_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -264,7 +304,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/010_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/010_large.webp",
@@ -277,6 +318,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/010_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -331,7 +376,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/013_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/013_large.webp",
@@ -344,6 +390,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/013_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -379,7 +429,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/015_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/015_large.webp",
@@ -392,6 +443,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/015_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -408,7 +463,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/016_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/016_large.webp",
@@ -421,6 +477,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/016_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -456,7 +516,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/018_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/018_large.webp",
@@ -469,6 +530,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/018_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -485,7 +550,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/019_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/019_large.webp",
@@ -498,6 +564,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/019_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -514,7 +584,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/020_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/020_large.webp",
@@ -527,6 +598,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/020_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -543,7 +618,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/021_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/021_large.webp",
@@ -556,6 +632,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/021_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -572,7 +652,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/022_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/022_large.webp",
@@ -585,6 +666,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/022_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -620,7 +705,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/024_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/024_large.webp",
@@ -633,6 +719,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/024_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -649,7 +739,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/025_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/025_large.webp",
@@ -662,6 +753,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/025_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -735,7 +830,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/029_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/029_large.webp",
@@ -748,6 +844,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/029_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -821,7 +921,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/033_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/033_large.webp",
@@ -834,6 +935,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/033_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -869,7 +974,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/035_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/035_large.webp",
@@ -882,6 +988,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/035_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -898,7 +1008,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/036_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/036_large.webp",
@@ -911,6 +1022,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/036_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -927,7 +1042,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/037_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/037_large.webp",
@@ -940,6 +1056,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/037_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -956,7 +1076,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/038_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/038_large.webp",
@@ -969,6 +1090,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/038_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -985,7 +1110,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/039_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/039_large.webp",
@@ -998,6 +1124,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/039_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1014,7 +1144,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/040_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/040_large.webp",
@@ -1027,6 +1158,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/040_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1062,7 +1197,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/042_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/042_large.webp",
@@ -1075,6 +1211,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/042_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1091,7 +1231,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/043_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/043_large.webp",
@@ -1104,6 +1245,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/043_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1120,7 +1265,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/044_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/044_large.webp",
@@ -1133,6 +1279,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/044_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1149,7 +1299,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/045_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/045_large.webp",
@@ -1162,6 +1313,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/045_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1178,7 +1333,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/046_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/046_large.webp",
@@ -1191,6 +1347,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/046_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1207,7 +1367,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/047_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/047_large.webp",
@@ -1220,6 +1381,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/047_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1236,7 +1401,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/048_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/048_large.webp",
@@ -1249,6 +1415,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/048_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1265,7 +1435,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/049_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/049_large.webp",
@@ -1278,6 +1449,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/049_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1294,7 +1469,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/050_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/050_large.webp",
@@ -1307,6 +1483,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/050_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1342,7 +1522,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/052_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/052_large.webp",
@@ -1355,6 +1536,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/052_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1371,7 +1556,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/053_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/053_large.webp",
@@ -1384,6 +1570,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/053_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1400,7 +1590,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/054_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/054_large.webp",
@@ -1413,6 +1604,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/054_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1429,7 +1624,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/055_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/055_large.webp",
@@ -1442,6 +1638,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/055_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1477,7 +1677,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/057_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/057_large.webp",
@@ -1490,6 +1691,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/057_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1525,7 +1730,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/059_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/059_large.webp",
@@ -1538,6 +1744,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/059_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1573,7 +1783,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/061_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/061_large.webp",
@@ -1586,6 +1797,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/061_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1602,7 +1817,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/062_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/062_large.webp",
@@ -1615,6 +1831,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/062_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1631,7 +1851,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/063_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/063_large.webp",
@@ -1644,6 +1865,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/063_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1679,7 +1904,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/065_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/065_large.webp",
@@ -1692,6 +1918,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/065_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1708,7 +1938,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/066_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/066_large.webp",
@@ -1721,6 +1952,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/066_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1737,7 +1972,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/067_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/067_large.webp",
@@ -1750,6 +1986,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/067_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1766,7 +2006,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/068_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/068_large.webp",
@@ -1779,6 +2020,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/068_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1795,7 +2040,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/069_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/069_large.webp",
@@ -1808,6 +2054,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/069_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1824,7 +2074,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/070_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/070_large.webp",
@@ -1837,6 +2088,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/070_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1853,7 +2108,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/071_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/071_large.webp",
@@ -1866,6 +2122,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/071_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1882,7 +2142,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/072_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/072_large.webp",
@@ -1895,6 +2156,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/072_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1930,7 +2195,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/074_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/074_large.webp",
@@ -1943,6 +2209,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/074_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -1997,7 +2267,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/077_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/077_large.webp",
@@ -2010,6 +2281,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/077_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -2026,7 +2301,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/078_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/078_large.webp",
@@ -2039,6 +2315,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/078_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -2055,7 +2335,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/079_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/079_large.webp",
@@ -2068,6 +2349,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/079_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -2084,7 +2369,8 @@
       "normal": false,
       "reverse_holo": true,
       "holo": true,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/080_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/080_large.webp",
@@ -2097,6 +2383,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/080_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -2113,7 +2403,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/081_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/081_large.webp",
@@ -2126,6 +2417,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/081_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -2139,7 +2434,7 @@
     ],
     "hp": "220",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": false,
       "holo": true,
       "first_edition": false
@@ -2161,7 +2456,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/083_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/083_large.webp",
@@ -2174,6 +2470,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/083_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -2190,7 +2490,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/084_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/084_large.webp",
@@ -2203,6 +2504,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/084_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -2219,7 +2524,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/085_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/085_large.webp",
@@ -2232,6 +2538,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/085_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -2248,7 +2558,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/086_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/086_large.webp",
@@ -2261,6 +2572,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/086_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -2277,7 +2592,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/087_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/087_large.webp",
@@ -2290,6 +2606,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/087_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -2306,7 +2626,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/088_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/088_large.webp",
@@ -2319,6 +2640,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/088_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -2335,7 +2660,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/089_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/089_large.webp",
@@ -2348,6 +2674,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/089_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -2364,7 +2694,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/090_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/090_large.webp",
@@ -2377,6 +2708,10 @@
         "label": "Master Ball",
         "img": "assets/sets/sv08.5/cards/090_master-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "masterball",
+      "pokeball"
     ]
   },
   {
@@ -2429,7 +2764,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/093_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/093_large.webp",
@@ -2438,6 +2774,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/093_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2452,7 +2791,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/094_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/094_large.webp",
@@ -2461,6 +2801,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/094_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2475,7 +2818,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/095_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/095_large.webp",
@@ -2484,6 +2828,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/095_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2498,7 +2845,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/096_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/096_large.webp",
@@ -2507,6 +2855,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/096_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2521,7 +2872,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/097_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/097_large.webp",
@@ -2530,6 +2882,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/097_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2544,7 +2899,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/098_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/098_large.webp",
@@ -2553,6 +2909,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/098_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2567,7 +2926,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/099_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/099_large.webp",
@@ -2576,6 +2936,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/099_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2590,7 +2953,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/100_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/100_large.webp",
@@ -2599,6 +2963,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/100_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2613,7 +2980,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/101_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/101_large.webp",
@@ -2622,6 +2990,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/101_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2636,7 +3007,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/102_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/102_large.webp",
@@ -2645,6 +3017,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/102_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2659,7 +3034,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/103_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/103_large.webp",
@@ -2668,6 +3044,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/103_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2682,7 +3061,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/104_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/104_large.webp",
@@ -2691,6 +3071,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/104_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2705,7 +3088,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/105_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/105_large.webp",
@@ -2714,6 +3098,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/105_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2728,7 +3115,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/106_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/106_large.webp",
@@ -2737,6 +3125,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/106_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2751,7 +3142,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/107_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/107_large.webp",
@@ -2760,6 +3152,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/107_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2774,7 +3169,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/108_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/108_large.webp",
@@ -2783,6 +3179,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/108_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2797,7 +3196,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/109_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/109_large.webp",
@@ -2806,6 +3206,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/109_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2820,7 +3223,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/110_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/110_large.webp",
@@ -2829,6 +3233,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/110_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2843,7 +3250,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/111_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/111_large.webp",
@@ -2852,6 +3260,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/111_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2866,7 +3277,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/112_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/112_large.webp",
@@ -2875,6 +3287,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/112_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2889,7 +3304,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/113_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/113_large.webp",
@@ -2898,6 +3314,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/113_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2912,7 +3331,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/114_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/114_large.webp",
@@ -2921,6 +3341,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/114_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2935,7 +3358,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/115_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/115_large.webp",
@@ -2944,6 +3368,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/115_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -2992,7 +3419,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/118_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/118_large.webp",
@@ -3001,6 +3429,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/118_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -3032,7 +3463,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/120_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/120_large.webp",
@@ -3041,6 +3473,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/120_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -3055,7 +3490,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/121_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/121_large.webp",
@@ -3064,6 +3500,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/121_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -3078,7 +3517,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/122_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/122_large.webp",
@@ -3087,6 +3527,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/122_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -3101,7 +3544,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/123_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/123_large.webp",
@@ -3110,6 +3554,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/123_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -3124,7 +3571,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/124_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/124_large.webp",
@@ -3133,6 +3581,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/124_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -3147,7 +3598,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/125_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/125_large.webp",
@@ -3156,6 +3608,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/125_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -3170,7 +3625,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/126_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/126_large.webp",
@@ -3179,6 +3635,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/126_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -3193,7 +3652,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/127_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/127_large.webp",
@@ -3202,6 +3662,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/127_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {
@@ -3250,7 +3713,8 @@
       "normal": true,
       "reverse_holo": true,
       "holo": false,
-      "first_edition": false
+      "first_edition": false,
+      "reverse_holo_pokeball": true
     },
     "local_image_small": "assets/sets/sv08.5/cards/130_small.webp",
     "local_image_large": "assets/sets/sv08.5/cards/130_large.webp",
@@ -3259,6 +3723,9 @@
         "label": "Poké Ball",
         "img": "assets/sets/sv08.5/cards/130_poke-ball.webp"
       }
+    ],
+    "reverse_patterns": [
+      "pokeball"
     ]
   },
   {

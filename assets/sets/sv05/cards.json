@@ -390,7 +390,7 @@
     ],
     "hp": "100",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": true,
       "holo": true,
       "first_edition": false
@@ -449,7 +449,7 @@
     "variants": {
       "normal": true,
       "reverse_holo": true,
-      "holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv05/cards/024_small.webp",
@@ -770,7 +770,7 @@
     ],
     "hp": "180",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": true,
       "holo": true,
       "first_edition": false
@@ -1169,7 +1169,7 @@
     ],
     "hp": "140",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": true,
       "holo": true,
       "first_edition": false
@@ -1587,7 +1587,7 @@
     ],
     "hp": "100",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": true,
       "holo": true,
       "first_edition": false
@@ -2252,7 +2252,7 @@
     ],
     "hp": "140",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": true,
       "holo": true,
       "first_edition": false
@@ -2290,7 +2290,7 @@
     ],
     "hp": "110",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": true,
       "holo": true,
       "first_edition": false
@@ -2442,7 +2442,7 @@
     ],
     "hp": "140",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": true,
       "holo": true,
       "first_edition": false
@@ -2685,7 +2685,7 @@
     "variants": {
       "normal": true,
       "reverse_holo": true,
-      "holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv05/cards/142_small.webp",
@@ -2719,7 +2719,7 @@
     "variants": {
       "normal": true,
       "reverse_holo": true,
-      "holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv05/cards/144_small.webp",
@@ -2736,7 +2736,7 @@
     "variants": {
       "normal": true,
       "reverse_holo": true,
-      "holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv05/cards/145_small.webp",
@@ -2770,7 +2770,7 @@
     "variants": {
       "normal": true,
       "reverse_holo": true,
-      "holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv05/cards/147_small.webp",
@@ -2787,7 +2787,7 @@
     "variants": {
       "normal": true,
       "reverse_holo": true,
-      "holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv05/cards/148_small.webp",
@@ -2923,7 +2923,7 @@
     "variants": {
       "normal": true,
       "reverse_holo": true,
-      "holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv05/cards/156_small.webp",
@@ -2974,7 +2974,7 @@
     "variants": {
       "normal": true,
       "reverse_holo": true,
-      "holo": true,
+      "holo": false,
       "first_edition": false
     },
     "local_image_small": "assets/sets/sv05/cards/159_small.webp",
@@ -3023,7 +3023,7 @@
     "types": [],
     "hp": "",
     "variants": {
-      "normal": true,
+      "normal": false,
       "reverse_holo": false,
       "holo": true,
       "first_edition": false
