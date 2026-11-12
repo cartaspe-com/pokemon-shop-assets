@@ -1,16 +1,16 @@
 {
   "source": "tcgcsv.com",
   "category": "Riftbound",
-  "product_count": 78,
+  "product_count": 79,
   "products": [
     {
       "product_id": 714486,
       "name": "Gift of the Rift Bundle",
-      "set_name": "Gift of the Rift Bundle",
+      "set_name": "Gift of the Rift Bundles",
       "set_code": "rb-gift-of-the-rift-bundle",
       "group_id": 24901,
       "published_on": "2026-12-04T00:00:00",
-      "tcgplayer_url": "https://www.tcgplayer.com/product/714486/riftbound-league-of-legends-trading-card-game-gift-of-the-rift-bundle-gift-of-the-rift-bundle",
+      "tcgplayer_url": "https://www.tcgplayer.com/product/714486/riftbound-league-of-legends-trading-card-game-gift-of-the-rift-bundles-gift-of-the-rift-bundle",
       "local_image_small": "assets/sealed/riftbound/grft/714486_small.jpg",
       "local_image_large": "assets/sealed/riftbound/grft/714486_large.jpg"
     },
@@ -409,6 +409,17 @@
       "tcgplayer_url": "https://www.tcgplayer.com/product/658333/riftbound-league-of-legends-trading-card-game-riftbound-worlds-bundle-2025-riftbound-worlds-bundle-2025",
       "local_image_small": "assets/sealed/riftbound/rb-riftbound-worlds-bundle-2025/658333_small.jpg",
       "local_image_large": "assets/sealed/riftbound/rb-riftbound-worlds-bundle-2025/658333_large.jpg"
+    },
+    {
+      "product_id": 732649,
+      "name": "Riftbound x K/DA: Couture Collection (Sealed Promotional Bundle)",
+      "set_name": "Riftbound x K/DA: Couture Collection",
+      "set_code": "rb-riftbound-x-k-da-couture-collection",
+      "group_id": 24943,
+      "published_on": "2026-11-11T00:00:00",
+      "tcgplayer_url": "https://www.tcgplayer.com/product/732649/riftbound-league-of-legends-trading-card-game-riftbound-x-k-da-couture-collection-riftbound-x-k-da-couture-collection-sealed-promotional-bundle",
+      "local_image_small": "assets/sealed/riftbound/rb-riftbound-x-k-da-couture-collection/732649_small.jpg",
+      "local_image_large": "assets/sealed/riftbound/rb-riftbound-x-k-da-couture-collection/732649_large.jpg"
     },
     {
       "product_id": 710238,
